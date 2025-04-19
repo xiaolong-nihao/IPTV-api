@@ -445,10 +445,10 @@ JJ斗地主
 中华美食,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/1000000005000266015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266015&livemode=1&stbId=$!
 
 经典电影,#genre#
-哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
-哪吒1降世粤语,http://mrgjlocal.pgrm.cc/m3u8/hcy/Fi0hJ7cbLpgkg1tsqnwZK75h3AhM4y68J/playlist.m3u8
-哪吒2闹海修复,https://c1.7bbffvip.com/video/nazhazhimotongnaohai/修复版/index.m3u8
-大圣1归来粤语,http://mrgjlocal.pgrm.cc/m3u8/hcy/FivuW7vHv8T5eV-ooY8JGJJnXUij07_q-/playlist.m3u8
+哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8$!
+哪吒1降世粤语,http://mrgjlocal.pgrm.cc/m3u8/hcy/Fi0hJ7cbLpgkg1tsqnwZK75h3AhM4y68J/playlist.m3u8$!
+哪吒2闹海修复,https://c1.7bbffvip.com/video/nazhazhimotongnaohai/修复版/index.m3u8$!
+大圣1归来粤语,http://mrgjlocal.pgrm.cc/m3u8/hcy/FivuW7vHv8T5eV-ooY8JGJJnXUij07_q-/playlist.m3u8$!
 灌篮高手_新粤,http://mrgjlocal.pgrm.cc/m3u8/hcy/FgHR6jMrarKci_bW5THxP3pNYvkrP2qcn/playlist.m3u8
 破地狱-HD粤语,https://svip.high21-playback.com/20250405/42418_ce50eb44/index.m3u8
 破地狱-HD国语,https://svip.high21-playback.com/20250405/42417_d1647f26/index.m3u8
