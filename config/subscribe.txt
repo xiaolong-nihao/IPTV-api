@@ -70,3 +70,4 @@ https://d.kstore.dev/download/2912/520.txt
 http://117.72.68.25:9230/latest.txt
 
 http://rihou.cc:567/gggg.nzk
+https://gh-proxy.com/raw.githubusercontent.com/x22c/zd/refs/heads/master/output/user_result.txt
