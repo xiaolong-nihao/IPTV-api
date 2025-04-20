@@ -26,10 +26,8 @@ CETV2
 CETV3
 CETV4
 CETV5
-cctv4欧洲,http://tv.20191209.xyz:37377/migu/608807419.m3u8?migutoken=f623911f12100eda47f646cc2a14f2c4563e5d65f3e99dd30284493de9b5ff8389ee51ba62d51bb0a92235ccb1109e54ab6b1b5fe401fe4f60d18b1ccc51f92aa29b70fba7a400ff9058fdf8$!
 cctv4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o$!
 cctv4欧洲,http://goo.bkpcp.top/mg/cctv4o$!
-cctV4美洲,http://tv.20191209.xyz:37377/migu/608807416.m3u8?migutoken=3e58d508ab4bf069dc535fdfc6330dfccfc52c3bb391b5b5602cff12f0acbb883fa9280c7422a00e84eba6fd1e2ddb27dc888d6e63e914595ce9fb917d9462307140d2558dac1fb322c2a85b$!
 cctv4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$!
 cctv4美洲,http://goo.bkpcp.top/mg/cctv4m$!
 CGTN英语,https://haoyunlai.serv00.net/Smartv-1.php?id=CGTN$!
