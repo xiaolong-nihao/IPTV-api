@@ -166,6 +166,16 @@ def show_content():
     )
 
 
+@app.route("/epg/epg.xml")
+def show_epg():
+    return get_result_file_content(path=constants.epg_result_path, show_content=False)
+
+
+@app.route("/epg/epg.gz")
+def show_epg_gz():
+    return get_result_file_content(path=constants.epg_gz_result_path, show_content=False)
+
+
 @app.route("/log")
 def show_log():
     if os.path.exists(constants.sort_log_path):
@@ -326,7 +336,7 @@ def stop_rtmp_service():
 
 def run_service():
     try:
-        if not os.environ.get("GITHUB_ACTIONS"):
+        if not os.getenv("GITHUB_ACTIONS"):
             if config.open_rtmp and sys.platform == "win32":
                 original_dir = os.getcwd()
                 try:

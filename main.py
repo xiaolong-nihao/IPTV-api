@@ -8,6 +8,7 @@ from tqdm import tqdm
 
 import utils.constants as constants
 from service.app import run_service
+from updates.epg import get_epg
 from updates.fofa import get_channels_by_fofa
 from updates.hotel import get_channels_by_hotel
 from updates.multicast import get_channels_by_multicast
@@ -47,6 +48,7 @@ class UpdateSource:
         self.multicast_result = {}
         self.subscribe_result = {}
         self.online_search_result = {}
+        self.epg_result = {}
         self.channel_data: CategoryChannelData = {}
         self.pbar = None
         self.total = 0
@@ -63,6 +65,7 @@ class UpdateSource:
                 get_channels_by_online_search,
                 "online_search_result",
             ),
+            ("epg", get_epg, "epg_result"),
         ]
 
         for setting, task_func, result_attr in tasks_config:
@@ -74,7 +77,7 @@ class UpdateSource:
                 if setting == "subscribe":
                     subscribe_urls = get_urls_from_file(constants.subscribe_path)
                     whitelist_urls = get_urls_from_file(constants.whitelist_path)
-                    if not os.environ.get("GITHUB_ACTIONS") and config.cdn_url:
+                    if not os.getenv("GITHUB_ACTIONS") and config.cdn_url:
                         subscribe_urls = [join_url(config.cdn_url, url) if "raw.githubusercontent.com" in url else url
                                           for url in subscribe_urls]
                     task = asyncio.create_task(
@@ -149,16 +152,17 @@ class UpdateSource:
                         ipv6=ipv6_support,
                         callback=sort_callback,
                     )
-                self.total = 12
-                self.pbar = tqdm(total=self.total, desc="Writing")
-                self.start_time = time()
+                    self.pbar.close()
+                self.update_progress(
+                    f"正在生成结果文件",
+                    0,
+                )
                 write_channel_to_file(
                     self.channel_data,
+                    epg=self.epg_result,
                     ipv6=ipv6_support,
                     first_channel_name=channel_names[0],
-                    callback=lambda: self.pbar_update(name="写入结果", item_name="文件"),
                 )
-                self.pbar.close()
                 if config.open_history:
                     if open_sort:
                         get_channel_data_cache_with_compare(

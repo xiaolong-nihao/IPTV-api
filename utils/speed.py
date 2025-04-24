@@ -141,25 +141,25 @@ async def get_result(url: str, headers: dict = None, resolution: str = None,
                 info.update(await get_result(location, headers, resolution, filter_resolution, timeout))
             else:
                 url_content = await get_url_content(url, headers, session, timeout)
-                if not url_content:
-                    raise Exception("Unable to get url content")
-                m3u8_obj = m3u8.loads(url_content)
-                playlists = m3u8_obj.playlists
-                segments = m3u8_obj.segments
-                if playlists:
-                    best_playlist = max(m3u8_obj.playlists, key=lambda p: p.stream_info.bandwidth)
-                    playlist_url = urljoin(url, best_playlist.uri)
-                    playlist_content = await get_url_content(playlist_url, headers, session, timeout)
-                    if playlist_content:
-                        media_playlist = m3u8.loads(playlist_content)
-                        segment_urls = [urljoin(playlist_url, segment.uri) for segment in media_playlist.segments]
+                if url_content:
+                    m3u8_obj = m3u8.loads(url_content)
+                    playlists = m3u8_obj.playlists
+                    segments = m3u8_obj.segments
+                    if playlists:
+                        best_playlist = max(m3u8_obj.playlists, key=lambda p: p.stream_info.bandwidth)
+                        playlist_url = urljoin(url, best_playlist.uri)
+                        playlist_content = await get_url_content(playlist_url, headers, session, timeout)
+                        if playlist_content:
+                            media_playlist = m3u8.loads(playlist_content)
+                            segment_urls = [urljoin(playlist_url, segment.uri) for segment in media_playlist.segments]
+                    else:
+                        segment_urls = [urljoin(url, segment.uri) for segment in segments]
+                    if not segment_urls:
+                        raise Exception("Segment urls not found")
                 else:
-                    segment_urls = [urljoin(url, segment.uri) for segment in segments]
-                if not segment_urls:
-                    if res_headers.get('Content-Length'):
-                        res_info = await get_speed_with_download(url, headers, session, timeout)
-                        info.update({'speed': res_info['speed'], 'delay': res_info['delay']})
-                    raise Exception("Segment urls not found")
+                    res_info = await get_speed_with_download(url, headers, session, timeout)
+                    info.update({'speed': res_info['speed'], 'delay': res_info['delay']})
+                    raise Exception("No url content, use download with timeout to test")
                 start_time = time()
                 tasks = [get_speed_with_download(ts_url, headers, session, timeout) for ts_url in segment_urls[:5]]
                 results = await asyncio.gather(*tasks, return_exceptions=True)

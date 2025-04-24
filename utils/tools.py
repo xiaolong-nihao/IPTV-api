@@ -21,6 +21,8 @@ import utils.constants as constants
 from utils.config import config, resource_path
 from utils.types import ChannelData
 
+opencc_t2s = OpenCC("t2s")
+
 
 def get_logger(path, level=logging.ERROR, init=False):
     """
@@ -332,13 +334,25 @@ def get_ip_address():
     return f"{host}:{port}"
 
 
+def get_epg_url():
+    """
+    Get the epg result url
+    """
+    if os.getenv("GITHUB_ACTIONS"):
+        repository = os.getenv("GITHUB_REPOSITORY", "Guovin/iptv-api")
+        ref = os.getenv("GITHUB_REF", "gd")
+        return join_url(config.cdn_url, f"https://raw.githubusercontent.com/{repository}/{ref}/output/epg/epg.gz")
+    else:
+        return f"{get_ip_address()}/epg/epg.gz"
+
+
 def convert_to_m3u(path=None, first_channel_name=None, data=None):
     """
     Convert result txt to m3u format
     """
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as file:
-            m3u_output = f'#EXTM3U x-tvg-url="{join_url(config.cdn_url, 'https://raw.githubusercontent.com/fanmingming/live/main/e.xml')}"\n'
+            m3u_output = f'#EXTM3U x-tvg-url="{get_epg_url()}"\n'
             current_group = None
             for line in file:
                 trimmed_line = line.strip()
@@ -505,8 +519,7 @@ def format_name(name: str) -> str:
     """
     Format the  name with sub and replace and lower
     """
-    cc = OpenCC("t2s")
-    name = cc.convert(name)
+    name = opencc_t2s.convert(name)
     for region in constants.region_list:
         name = name.replace(f"{region}｜", "")
     name = constants.sub_pattern.sub("", name)

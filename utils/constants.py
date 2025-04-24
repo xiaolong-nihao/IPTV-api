@@ -11,11 +11,17 @@ hls_path = os.path.join(config_dir, "hls")
 
 alias_path = os.path.join(config_dir, "alias.txt")
 
+epg_path = os.path.join(config_dir, "epg.txt")
+
 whitelist_path = os.path.join(config_dir, "whitelist.txt")
 
 blacklist_path = os.path.join(config_dir, "blacklist.txt")
 
 subscribe_path = os.path.join(config_dir, "subscribe.txt")
+
+epg_result_path = os.path.join(output_dir, "epg/epg.xml")
+
+epg_gz_result_path = os.path.join(output_dir, "epg/epg.gz")
 
 ipv4_result_path = os.path.join(output_dir, "ipv4/result.txt")
 

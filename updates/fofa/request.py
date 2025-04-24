@@ -10,7 +10,6 @@ from tqdm.asyncio import tqdm_asyncio
 
 import updates.fofa.fofa_map as fofa_map
 import utils.constants as constants
-from updates.proxy import get_proxy, get_proxy_next
 from utils.channel import format_channel_name
 from utils.config import config
 from utils.requests.tools import get_source_requests, close_session
@@ -88,20 +87,14 @@ async def get_channels_by_fofa(urls=None, multicast=False, callback=None):
                 f"正在获取Fofa{mode_name}源, 共{fofa_urls_len}个查询地址",
                 0,
             )
-        proxy = None
-        open_proxy = config.open_proxy
         open_driver = config.open_driver
         if open_driver:
             from utils.driver.setup import setup_driver
         open_sort = config.open_sort
-        if open_proxy:
-            test_url = fofa_urls[0][0]
-            proxy = await get_proxy(test_url, best=True, with_test=True)
         cancel_event = threading.Event()
         hotel_name = constants.origin_map["hotel"]
 
         def process_fofa_channels(fofa_info):
-            nonlocal proxy
             if cancel_event.is_set():
                 return {}
             fofa_url = fofa_info[0]
@@ -109,15 +102,13 @@ async def get_channels_by_fofa(urls=None, multicast=False, callback=None):
             driver = None
             try:
                 if open_driver:
-                    driver = setup_driver(proxy)
+                    driver = setup_driver()
                     try:
                         retry_func(lambda: driver.get(fofa_url), name=fofa_url)
                     except Exception as e:
-                        if open_proxy:
-                            proxy = get_proxy_next()
                         driver.close()
                         driver.quit()
-                        driver = setup_driver(proxy)
+                        driver = setup_driver()
                         driver.get(fofa_url)
                     page_source = driver.page_source
                 else:
