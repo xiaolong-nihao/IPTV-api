@@ -74,15 +74,6 @@ cct4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$!
 
 
 
-
-
-
-
-
-
-
-
-
 cct4V欧洲,http://tv.20191209.xyz:37377/migu/608807419.m3u8?migutoken=f623911f12100eda47f646cc2a14f2c4563e5d65f3e99dd30284493de9b5ff8389ee51ba62d51bb0a92235ccb1109e54ab6b1b5fe401fe4f60d18b1ccc51f92aa29b70fba7a400ff9058fdf8$!
 cctv4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o$!
 cctv4欧洲,http://goo.bkpcp.top/mg/cctv4o$!
@@ -93,11 +84,6 @@ CGTN英语,https://haoyunlai.serv00.net/Smartv-1.php?id=CGTN$!
 CGTN西班牙语,http://goo.bkpcp.top/mg/cgtne$!
 CGTN阿拉伯语,http://goo.bkpcp.top/mg/cgtna$!
 CGTN法语,http://goo.bkpcp.top/mg/cgtnf$!
-
-
-
-
-
 
 
 
@@ -115,7 +101,82 @@ CGTN法语,http://goo.bkpcp.top/mg/cgtnf$!
 
 
 
-
+港粤频道,#genre#
+广东珠江频道[高],https://cdn2.163189.xyz/live/gdzj/stream.m3u8$!
+广东珠江频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$!
+广东体育频道[高],https://cdn2.163189.xyz/live/gdty/stream.m3u8$!
+广东体育频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=gdty$!
+Plus[高],https://cdn.163189.xyz/live/tvbp/stream.m3u8$!
+TVBJ1[高],http://cdn5.1678520.xyz/live/?id=j1$!
+pₒₚc电影频道[标],http://go1.bkpcp.top/tl/popc$!
+pₒₚc电影频道[标],http://103.38.82.107:28888/stream/tvb/popc/master.m3u8$!?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85$!
+凤凰中文频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$!
+凤凰中文频道[高],https://cdn.163189.xyz/live/fhzw/stream.m3u8$!
+凤凰中文频道[标],http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv$!
+凤凰资讯频道[高],http://ali.hlspull.yximgs.com/live/_duan_ju_bao_bao_bao_xiao_shi_hou_zuo_guo_ya___Phx_HD.flv$!
+凤凰资讯频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯频道[标],http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv$!
+凤凰香港频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港频道[高],https://cdn6.163189.xyz/live/fhhk/stream.m3u8$!
+凤凰香港频道[标],http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$!
+中天新闻频道[高],http://ali.hlspull.yximgs.com/live/_duan_ju_bao_bao_bao_xiao_shi_hou_zuo_guo_ya___CTI__HD.flv$!
+中天新闻频道[高],http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8$!
+中天新闻频道加,http://ali.hlspull.yximgs.com/live/_duan_ju_bao_bao_bao_xiao_shi_hou_zuo_guo_ya___CTI_2_HD.flv$!
+中天新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews$!
+有线新闻,P2p://starvod.xyz:19806/67af920db87748e898a8abb0480959cd$!
+有线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn$!
+有线综合频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=hoytv$!
+有线综合频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2$!
+无线新闻频道[高],http://php.jdshipin.com/smt.php?id=inews_twn$!
+无线新闻频道[标],http://go1.bkpcp.top/tl/null-11$!
+无线翡翠频道4k,http://cdn.163189.xyz/live/fct4k/stream.m3u8$!
+无线翡翠频道4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$!
+无线翡翠频道[高],https://cdn3.163189.xyz/live/live2.1.php?id.m3u8$!
+无线翡翠频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=fct3$!
+无线翡翠频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=fct2$!
+无线翡翠频道[标],http://php.jdshipin.com/smt.php?id=jade_twn$!
+无线翡翠频道[标],http://php.jdshipin.com/TVOD/iptv.php?id=fct$!
+无线华丽频道[标],http://php.jdshipin.com/smt.php?id=Tvbjade$!
+无线千禧频道[标],http://php.jdshipin.com/smt.php?id=Tvbclassic$!
+天映频道[标],http://php.jdshipin.com/smt.php?id=Celestial$!
+天映经典频道[标],http://php.jdshipin.com/smt.php?id=Celestial2$!
+无线明珠粤[高],http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$!
+无线明珠粤[标],http://go1.bkpcp.top/tl/null-12$!
+无线明珠英[标],http://php.jdshipin.com/TVOD/iptv.php?id=mzt$!
+无线星河频道[标],http://php.jdshipin.com/smt.php?id=Xinhe$!
+无线星河频道[标],http://go1.bkpcp.top/tl/null-7$!
+无线娱乐频道[标],http://php.jdshipin.com/smt.php?id=Tvbentertainment$!
+无线娱乐频道[标],http://go1.bkpcp.top/tl/null-14$!
+无线综合频道,http://go1.bkpcp.top/tl/null-3$!
+无线戏曲频道,http://go1.bkpcp.top/tl/null-15$!
+无线粤片频道,http://go1.bkpcp.top/tl/null-10$!
+无线华剧频道,http://go1.bkpcp.top/tl/null-4$!
+无线亚剧频道,http://go1.bkpcp.top/tl/null-13$! 
+黄金翡翠频道,http://go1.bkpcp.top/tl/null-2$!
+黄金华剧频道,http://go1.bkpcp.top/tl/null-9$!
+天映经典频道,http://go1.bkpcp.top/tl/null-1$!
+美亚电影频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=meiya$!
+美亚电影频道[标],http://go1.bkpcp.top/tl/null-5$!
+中国电影频道,http://go1.bkpcp.top/tl/null-6$!
+重温经典频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=cwjd$!
+澳视澳门频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=asam$!
+澳视卫星频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=as$!
+VIUTV粤频道[标],http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
+RTHK-31频道[高],https://cdn5.163189.xyz/live/rthk31/stream.m3u8$!
+RTHK-31频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=rthk31$!
+RTHK-32频道[高],https://cdn5.163189.xyz/live/rthk32/stream.m3u8$!
+RTHK-32频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=rthk32$!
+RTHK-33频道[高],http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$!
+八度空间频道[高],https://cdn6.163189.xyz/live/8tv/stream.m3u8$!
+八度空间频道[标],http://php.jdshipin.com/smt.php?id=TV8$!
+新加CHU频道[高],https://cdn6.163189.xyz/live/chu/stream.m3u8$!
+新加CH5频道[高],https://cdn6.163189.xyz/live/ch5/stream.m3u8$!
+新加CH8频道[高],https://cdn6.163189.xyz/live/ch8/stream.m3u8$!
+astro-QJ-频道[高],http://php.jdshipin.com/smt.php?id=Quanjia$!
+astroAec频道[高],http://php.jdshipin.com/smt.php?id=AEC$!
+astroAod频道[标],http://php.jdshipin.com/smt.php?id=Aodhd$!
+astro欢喜频道[标],http://php.jdshipin.com/smt.php?id=Huahee$!
+astro爱奇艺[标],http://php.jdshipin.com/smt.php?id=Qiyi$!
 
 
 
