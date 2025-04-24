@@ -1967,6 +1967,8 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
 https://tv.bfsu.edu.cn/hls/xmtv.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://tv.scjyhd.com:4022/udp/239.93.42.57:5140
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
+http://goo.bkpcp.top/mg/xmws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010119
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
@@ -4281,6 +4283,8 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
 https://tv.bfsu.edu.cn/hls/xmtv.m3u8
 #EXTINF:-1 tvg-name="厦门卫视超清" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视超清.png" group-title="超清频道",厦门卫视超清
 http://tv.scjyhd.com:4022/udp/239.93.42.57:5140
+#EXTINF:-1 tvg-name="厦门卫视超清" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视超清.png" group-title="超清频道",厦门卫视超清
+http://goo.bkpcp.top/mg/xmws
 #EXTINF:-1 tvg-name="海峡卫视超清" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视超清.png" group-title="超清频道",海峡卫视超清
 http://goo.bkpcp.top/mg/hxws#http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 #EXTINF:-1 tvg-name="海峡卫视超清" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视超清.png" group-title="超清频道",海峡卫视超清
@@ -7299,6 +7303,8 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
 https://tv.bfsu.edu.cn/hls/xmtv.m3u8
 #EXTINF:-1 tvg-name="厦门卫视[785*576]" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视[785*576].png" group-title="央卫IPV6",厦门卫视[785*576]
 http://tv.scjyhd.com:4022/udp/239.93.42.57:5140
+#EXTINF:-1 tvg-name="厦门卫视[785*576]" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视[785*576].png" group-title="央卫IPV6",厦门卫视[785*576]
+http://goo.bkpcp.top/mg/xmws
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="央卫IPV6",三沙卫视
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="央卫IPV6",三沙卫视
@@ -7651,6 +7657,8 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
 https://tv.bfsu.edu.cn/hls/xmtv.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="央卫IPV6",厦门卫视
 http://tv.scjyhd.com:4022/udp/239.93.42.57:5140
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="央卫IPV6",厦门卫视
+http://goo.bkpcp.top/mg/xmws
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东教育卫视.png" group-title="央卫IPV6",山东教育卫视
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEtk94qghXphElKOQlUC-Yw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOpyxkKQ6N6FjQz-LrJwo0o%2CEND
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视.png" group-title="央卫IPV6",康巴卫视
@@ -8589,6 +8597,8 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
 https://tv.bfsu.edu.cn/hls/xmtv.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="福建",厦门卫视
 http://tv.scjyhd.com:4022/udp/239.93.42.57:5140
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="福建",厦门卫视
+http://goo.bkpcp.top/mg/xmws
 #EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北影视.png" group-title="湖北",湖北影视
 http://cdn.jdshipin.com:8880/hbgd.php?id=hbys_1000
 #EXTINF:-1 tvg-name="武汉新闻综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/武汉新闻综合.png" group-title="湖北",武汉新闻综合
@@ -12487,5 +12497,5 @@ http://ls.qingting.fm/live/1270.m3u8
 http://ls.qingting.fm/live/1665.m3u8
 #EXTINF:-1 tvg-name="福州音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福州音乐.png" group-title="广播电台",福州音乐
 http://live.zohi.tv/audio/s10001-FM893/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-24 07:28:49
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-24 19:04:31
 https://cc.tv12.xyz/CCTV1.m3u8

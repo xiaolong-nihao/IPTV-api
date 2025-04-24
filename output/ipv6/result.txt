@@ -985,6 +985,7 @@ CGTN法语,http://goo.bkpcp.top/mg/cgtnf
 厦门卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
 厦门卫视,https://tv.bfsu.edu.cn/hls/xmtv.m3u8
 厦门卫视,http://tv.scjyhd.com:4022/udp/239.93.42.57:5140
+厦门卫视,http://goo.bkpcp.top/mg/xmws
 云南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010119
 云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
 云南卫视,https://cc02.tv12.xyz/11.m3u8
@@ -2146,6 +2147,7 @@ CCTV-17超清,https://www.freetv.top/migu/673168256.m3u8?migutoken=1f0018205f02c
 厦门卫视超清,http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
 厦门卫视超清,https://tv.bfsu.edu.cn/hls/xmtv.m3u8
 厦门卫视超清,http://tv.scjyhd.com:4022/udp/239.93.42.57:5140
+厦门卫视超清,http://goo.bkpcp.top/mg/xmws
 海峡卫视超清,http://goo.bkpcp.top/mg/hxws#http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 海峡卫视超清,http://php.jdshipin.com/bestv.php?id=hxwshd4m/4000000
 海峡卫视超清,http://z.b.bkpcp.top/m.php?id=hws
@@ -3679,6 +3681,7 @@ CGTN,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 厦门卫视[785*576],http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
 厦门卫视[785*576],https://tv.bfsu.edu.cn/hls/xmtv.m3u8
 厦门卫视[785*576],http://tv.scjyhd.com:4022/udp/239.93.42.57:5140
+厦门卫视[785*576],http://goo.bkpcp.top/mg/xmws
 三沙卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 三沙卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
@@ -3855,6 +3858,7 @@ CGTN,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 厦门卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
 厦门卫视,https://tv.bfsu.edu.cn/hls/xmtv.m3u8
 厦门卫视,http://tv.scjyhd.com:4022/udp/239.93.42.57:5140
+厦门卫视,http://goo.bkpcp.top/mg/xmws
 山东教育卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEtk94qghXphElKOQlUC-Yw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOpyxkKQ6N6FjQz-LrJwo0o%2CEND
 康巴卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND
 康巴卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266002
@@ -4344,6 +4348,7 @@ CGTN,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 厦门卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
 厦门卫视,https://tv.bfsu.edu.cn/hls/xmtv.m3u8
 厦门卫视,http://tv.scjyhd.com:4022/udp/239.93.42.57:5140
+厦门卫视,http://goo.bkpcp.top/mg/xmws
 
 湖北,#genre#
 湖北影视,http://cdn.jdshipin.com:8880/hbgd.php?id=hbys_1000
@@ -6363,4 +6368,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 福州音乐,http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 
 🕘️更新时间,#genre#
-2025-04-24 07:28:49,https://cc.tv12.xyz/CCTV1.m3u8
+2025-04-24 19:04:31,https://cc.tv12.xyz/CCTV1.m3u8
