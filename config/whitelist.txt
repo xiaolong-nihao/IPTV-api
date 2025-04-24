@@ -100,7 +100,7 @@ pₒₚc电影频道,http://103.38.82.107:28888/stream/tvb/popc/master.m3u8$!?u=
 
 
 
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354$!
 
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8$!
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$!
