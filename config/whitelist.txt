@@ -123,31 +123,11 @@ pₒₚc电影频道,http://103.38.82.107:28888/stream/tvb/popc/master.m3u8$!?u=
 
 
 
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8$!
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$!
-澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8$!
-澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8$!
-
 澳门Mac,http://cdn.132.us.kg/live/as/stream.m3u8$!
-
-ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
-ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2$!
-ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
-
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv$!
-HOY 77,http://cdn.132.us.kg/live/hoy/stream.m3u8$!
-HOY 78,http://cdn.163189.xyz/live/hoy/stream.m3u8$!
-Now新闻,http://live4play.uk/livehttpplay?channel_id=20041$!
-Now爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002$!
-
-Now英超体育壹,http://hkenlive.uk/livehttpplay?channel_id=13010$!
-
-
-
-
-
-
 
 
 
