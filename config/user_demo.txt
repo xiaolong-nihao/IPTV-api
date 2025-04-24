@@ -726,10 +726,11 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871$!
 
 港*澳*台,#genre#
 CCTV1港澳版
+香港卫视
 凤凰卫视
 凤凰香港
-凤凰资讯
 凤凰中文
+凤凰资讯
 
 TVBJ1
 TVBJ2
