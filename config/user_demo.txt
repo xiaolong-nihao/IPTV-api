@@ -829,68 +829,78 @@ astro爱奇艺[标],http://php.jdshipin.com/smt.php?id=Qiyi$!
 
 
 
+
 港*澳*台,#genre#
 CCTV1港澳版
 凤凰卫视
 凤凰香港
 凤凰资讯
 凤凰中文
-中视
-华视
-公视
-民视
-超视
-寰宇
+
 TVBJ1
 TVBJ2
 TVB PLUS
-TVB PLUS
+tvbs闽南频道
 TVB明珠
+TVB翡翠
 TVB无线华丽
 TVB无线功夫
 TVB娱乐新闻
 TVB无线新闻
 TVB翡翠剧集
 TVB星河
-无线华丽
-无线明珠
-翡翠台
 翡翠综合台
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8$!
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$!
-澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8$!
-澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8$!
-澳门莲花
-澳门资讯
-澳门Mac,http://cdn.132.us.kg/live/as/stream.m3u8$!
+香港C+
+香港面包台
 有线新闻
 无线新闻
 Now新闻
-无线翡翠
-中天新闻
-东森新闻
-tvbs新闻
-CNN新闻
+澳视澳门
+澳视卫星
+澳门莲花
+澳门资讯
+RTHK-31
+RTHK-32
+RTHK-33
+RTHK-34
+RTHK-38
+pₒₚc电影
+HOY TV
+HOY 77
+HOY 78
+
+台视
+中视
+华视
+公视
+民视
+超视
+寰宇
+中视新闻
+民视新闻
+台视新闻
+华视新闻
 寰宇新闻
 三立新闻
+非凡新闻
+今日新闻
+闽壹新闻
 年代新闻
-中视新闻台
+CNN新闻
+CN卡通频道
+Now新闻
+中天新闻
+东森新闻
 中视经典台
 中视菁采台
 中天亚洲台
-民视新闻台
 民视台湾台
 民视第一台
 民视影剧台
 民视旅游台
 民视综艺台
-台视新闻台
 台视第一台
 台视综合台
-华视新闻台
-非凡新闻
-闽壹新闻
-今日新闻
 公视台湾台
 公视台语台
 寰宇财经
@@ -899,25 +909,13 @@ RtvbsHK-31
 RtvbsHK-32
 香港财经
 港台电视3
-ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
-ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2$!
-ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
+ViuTV
 ViuTV6
-RTHK-31
-RTHK-32
-RTHK-33
-RTHK-34
-RTHK-35
 Astro AOD
-HOY TV
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv$!
-HOY 77,http://cdn.132.us.kg/live/hoy/stream.m3u8$!
-HOY 78,http://cdn.163189.xyz/live/hoy/stream.m3u8$!
-Now新闻,http://live4play.uk/livehttpplay?channel_id=20041$!
-Now爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002$!
+Now新闻
+Now爆谷
 凤凰信息
 东风卫视
-tvbs
 tvbs欢乐
 tvbs精彩
 三立台湾台
@@ -1034,14 +1032,13 @@ VIUtvbsV英
 霹雳台湾
 Now星影
 Now英超
-Now英超体育壹,http://hkenlive.uk/livehttpplay?channel_id=13010$!
+Now英超体育壹
 Now英超体育贰
 astro-QJ
 astroAec
 astroAod
 astro欢喜
 astro爱奇艺
-
 
 赛事咪咕,#genre#
 赛事睛彩竞技
