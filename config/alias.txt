@@ -77,6 +77,45 @@ CCTV1港澳版,
 凤凰香港,凤凰香港频道[高],凤凰香港频道[标],凤凰香港频高,凤凰香港频标
 凤凰资讯,凤凰资讯频道[高],凤凰资讯频道[标],凤凰资讯频高,凤凰资讯频标
 凤凰中文,凤凰中文频道[高],凤凰中文频道[标],凤凰中文频高,凤凰中文频标
+
+TVBJ1,TVBJ1美频高
+TVBJ2,
+TVB PLUS,Plus综合频道,Plus综合频高,Plus综合频标,
+无线翡翠频4k,
+
+tvbs闽南频道
+TVB明珠,无线明珠,无线明珠频道,高无线明频高,无线明珠频标
+TVB翡翠,无线翡翠频4k,无线翡翠频道,无线翡翠频高,无线翡翠频标,TVB翡翠频道,TVB翡翠频高,TVB翡翠频标,翡翠台
+TVB无线华丽,无线华丽,无线华丽频道,无线华丽频高,无线华丽频标
+TVB无线功夫,无线功夫频道,无线功夫频高,无线功夫频标
+TVB娱乐新闻,无线娱乐频道,无线娱乐频高,无线娱乐频标
+TVB无线新闻
+TVB翡翠剧集,
+TVB星河,
+翡翠综合台,
+香港C+,香港_C+_频道
+香港面包台,香港面包频道
+有线新闻,有线新闻频道,有线新闻频高,有线新闻频标,
+无线新闻,无线新闻频道,无线新闻频高,无线新闻频标,
+Now新闻,now新闻频道,now新闻频高,now新闻频标,
+澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8$!
+澳视卫星,澳门Mac,澳门mac频道
+澳门莲花,澳门莲花频道
+澳门资讯,澳门资讯频道
+RTHK-31,RTHK-31频道,RTHK-31频高,
+RTHK-32,RTHK-32频道,RTHK-32频高,
+RTHK-33,RTHK-33频道,RTHK-33频高,
+RTHK-34,RTHK-34频道,RTHK-34频高,
+RTHK-38,RTHK-35频道,RTHK-35频高,
+
+pₒₚc电影,pₒₚc电影频道,pₒₚc电影频高,pₒₚc电影频标
+
+HOY TV
+HOY 77
+HOY 78
+
+
+
 台视,台视闽南频道,台视闽南频高,台视闽南频标
 中视,中视闽南频道,中视闽南频高,中视闽南频标
 华视,华视闽南频道,华视闽南频高,华视闽南频标
@@ -129,16 +168,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2$!
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
 ViuTV6
-RTHK-31
-RTHK-32
-RTHK-33
-RTHK-34
-RTHK-35
+
 Astro AOD
-HOY TV
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv$!
-HOY 77,http://cdn.132.us.kg/live/hoy/stream.m3u8$!
-HOY 78,http://cdn.163189.xyz/live/hoy/stream.m3u8$!
+
 Now新闻,http://live4play.uk/livehttpplay?channel_id=20041$!
 Now爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002$!
 凤凰信息
