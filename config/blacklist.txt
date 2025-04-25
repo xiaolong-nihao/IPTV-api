@@ -15,3 +15,4 @@ rthktv33-live.akamaized.net
 
 satellitepull.cnr.cn
 aktv_stream1.m16tv
+aktv-stream.m16tv.cfd
