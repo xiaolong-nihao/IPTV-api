@@ -724,11 +724,11 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871$!
 
 港*澳*台,#genre#
 CCTV1港澳版
-香港卫视
+香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$!
 凤凰卫视
-凤凰香港
-凤凰中文
-凤凰资讯
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$!
+凤凰中文,http://cdn.163.dedyn.io/live/fhzw/stream.m3u8$!
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$!
 
 TVBJ1
 TVBJ2
