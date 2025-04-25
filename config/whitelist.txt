@@ -5,23 +5,7 @@
 
 中国天气,http://132.226.20.226:30001/TVOD/5000000005000031974/bestzb/index.m3u8$!
 
-CCTV-1,https://cc.tv12.xyz/CCTV1.m3u8$!
-CCTV-2,https://cc.tv12.xyz/CCTV2.m3u8$!
-CCTV-3,https://cc.tv12.xyz/CCTV3.m3u8$!
-CCTV-4,https://cc.tv12.xyz/CCTV4.m3u8$!
-CCTV-5,https://cc.tv12.xyz/CCTV5.m3u8$!
-CCTV-5+,https://cc.tv12.xyz/CCTV5+.m3u8$!
-CCTV-6,https://cc.tv12.xyz/CCTV6.m3u8$!
-CCTV-7,https://cc.tv12.xyz/CCTV7.m3u8$!
-CCTV-8,https://cc.tv12.xyz/CCTV8.m3u8$!
-CCTV-9,https://cc.tv12.xyz/CCTV9.m3u8$!
-CCTV-10,https://cc.tv12.xyz/CCTV10.m3u8$!
-CCTV-11,https://cc.tv12.xyz/CCTV11.m3u8$!
-CCTV-12,https://cc.tv12.xyz/CCTV12.m3u8$!
-CCTV-13,https://cc.tv12.xyz/CCTV13.m3u8$!
-CCTV-14,https://cc.tv12.xyz/CCTV14.m3u8$!
-CCTV-15,https://cc.tv12.xyz/CCTV15.m3u8$!
-CCTV-17,https://cc.tv12.xyz/CCTV17.m3u8$!
+
 
 
 CCTV-1,http://goo.bkpcp.top/mg/cctv1$!
