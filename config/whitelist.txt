@@ -61,8 +61,12 @@ CGTN法语,http://goo.bkpcp.top/mg/cgtnf$!
 海南卫视,http://goo.bkpcp.top/mg/hinws$!
 
 
+香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$!
+凤凰卫视
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$!
+凤凰中文,http://cdn.163.dedyn.io/live/fhzw/stream.m3u8$!
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$!
 
-港粤频道,#genre#
 
 pₒₚc电影频道,http://go1.bkpcp.top/tl/popc$!
 pₒₚc电影频道,http://103.38.82.107:28888/stream/tvb/popc/master.m3u8$!?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85$!
@@ -94,7 +98,7 @@ TVB PLUS,http://cdn.163.dedyn.io/live/tvbp/stream.m3u8$!
 澳门Mac,http://cdn.132.us.kg/live/as/stream.m3u8$!
 
 
-特闽酒店,#genre#
+
 广东珠江频高,http://cdn2.132.us.kg/live/gdzj/stream.m3u8$!
 广东体育频高,http://cdn2.132.us.kg/live/gdty/stream.m3u8$!
 Plus综合频高,http://cdn.132.us.kg/live/tvbp/stream.m3u8$!
@@ -123,7 +127,7 @@ RTHK-32频高,http://cdn5.132.us.kg/live/rthk32/stream.m3u8$!
 新加CHU频高,https://cdn6.132.us.kg/live/chu/stream.m3u8$!
 新加CH5频高,https://cdn6.132.us.kg/live/ch5/stream.m3u8$!
 新加CH8频高,https://cdn6.132.us.kg/live/ch8/stream.m3u8$!
-特闽酒备,#genre#
+
 Plus综合频高,http://cdn.163.dedyn.io/live/tvbp/stream.m3u8$!
 凤凰中文频高,http://cdn.163.dedyn.io/live/fhzw/stream.m3u8$!
 有线综合频高,http://cdn.163.dedyn.io/live/hoy/stream.m3u8$!
@@ -140,7 +144,7 @@ now新闻频标,http://mytv.cdn.com.mp/live/now/stream.m3u8$!
 纬来电影频高,http://mytv.cdn.com.mp/live/wldy/stream.m3u8$!
 好莱电影频高,http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8$!
 discover频高,http://mytv.cdn.com.mp/live/d/stream.m3u8$!
-闽南酒店,#genre#
+
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8$!
 tvbs新闻频道,http://122.117.71.103:8543/tvbs新闻.m3u8$!
 三立新闻频道,http://122.117.71.103:8542/三立新闻.m3u8$!
@@ -181,7 +185,7 @@ Obcyoyo频道,http://122.117.71.103:8515/Obcyoyo.m3u8$!
 TLC综合频道,http://122.117.71.103:8511/TLC综合.m3u8$!
 Nhk日闻频道,http://122.117.71.103:8580/Nhk日闻.m3u8$!
 BloomBerg频,http://122.117.71.103:8581/BloomBerg.m3u8$!
-闽南频道,#genre#
+
 东森新闻频高,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8$!
 寰宇新闻频高,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8$!
 民视新闻频标,http://108.181.21.27:27347/livehttpplay?channel_id=20097$!
@@ -221,7 +225,7 @@ BBC地球频标,http://108.181.21.27:27347/livehttpplay?channel_id=20044$!
 ElaT体育壹标,http://108.181.21.27:27347/livehttpplay?channel_id=20129$!
 凤凰香港频高,http://108.181.21.27:27347/livehttpplay?channel_id=30016$!
 广东影视频标,http://108.181.21.27:27347/livehttpplay?channel_id=20145$!
-特新斯特,#genre#
+
 凤凰卫视高特,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$!
 凤凰资讯斯特,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$!
 凤凰香港高特,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$!
@@ -240,7 +244,7 @@ RTHK-32斯特,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn$!
 Astr爱奇斯特,http://php.jdshipin.com:8880/smt.php?id=Qiyi$!
 AstrQJ国斯特,http://php.jdshipin.com:8880/smt.php?id=Quanjia$!
 Astr欢喜斯特,http://php.jdshipin.com:8880/smt.php?id=Huahee$!
-特波珠海,#genre#
+
 Plus综合频道,http://beishan008.asuscomm.com:8890/bysid/82.m3u8$!
 有线新闻频道,http://beishan008.asuscomm.com:8891/bysid/78.m3u8$!
 无线新闻频道,http://beishan008.asuscomm.com:8890/bysid/83.m3u8$!
