@@ -62,11 +62,18 @@ CGTN法语,http://goo.bkpcp.top/mg/cgtnf$!
 海南卫视,http://goo.bkpcp.top/mg/hinws$!
 
 
+
+TVBJ1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2$!
+凤凰卫视,http://zb.xmzb.xyz/123b.php?fid=⚽马上ieyppo一1$!
+TVB PLUS,http://cdn.163.dedyn.io/live/tvbp/stream.m3u8$!
+TVB明珠,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv$!
+
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$!
 凤凰卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4829&tk=97475bb89d45$!
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$!
 凤凰中文,http://b.tvbox6.icu/【公众号：榴芒电视】/fhzw.m3u8$!
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$!
+
 
 
 pₒₚc电影频道,http://go1.bkpcp.top/tl/popc$!
