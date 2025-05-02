@@ -83,8 +83,6 @@ https://fm1077.serv00.net/SmartTV.m3u
 https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
 https://tvpass.org/playlist/m3u
 https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt
-https://4708.kstore.space/omg/tv.txt
-https://d.kstore.dev/download/2912/520.txt
 http://117.72.68.25:9230/latest.txt
 
 http://rihou.cc:567/gggg.nzk
