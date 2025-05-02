@@ -14,7 +14,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://gh-proxy.com/raw.githubusercontent.com/
 https://gh-proxy.com/raw.githubusercontent.com/
-
+https://gh-proxy.com/raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
 
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
