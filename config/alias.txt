@@ -107,7 +107,7 @@ RTHK-32,RTHK-32频道,RTHK-32频高,RTHK-32斯特,RtvbsHK-32
 RTHK-33,RTHK-33频道,RTHK-33频高,RTHK-33斯特,RtvbsHK-33
 RTHK-34,RTHK-34频道,RTHK-34频高,RTHK-34斯特,RtvbsHK-34
 RTHK-38,RTHK-35频道,RTHK-35频高,RTHK-35斯特,RtvbsHK-35
-美亚电影,美亚电视,美亚电影频道,美亚电影频高,美亚电影高特,美亚电影斯特,美亚电影台 国
+美亚电影,美亚电影台 国,美亚电视,美亚电影频道,美亚电影频高,美亚电影高特,美亚电影斯特
 pₒₚc电影,pₒₚc电影频道,pₒₚc电影频高,pₒₚc电影频标
 
 HOY TV
