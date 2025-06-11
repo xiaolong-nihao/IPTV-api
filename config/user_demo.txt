@@ -1157,7 +1157,11 @@ CCTV17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 
 
 游戏赛事,#genre#
-
+王者荣耀
+英雄联盟
+和平精英
+穿越火线
+绝地求生
 【B站】英雄联盟,https://live.iill.top/bilibili/6$!
 【虎牙】英雄联盟-1,https://live.iill.top/huya/660000$!
 【虎牙】英雄联盟-2,https://live.iill.top/huya/660001$!
