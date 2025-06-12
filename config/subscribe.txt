@@ -3,6 +3,9 @@
 
 
 https://gitee.com/yanglong1251/TV-Box/raw/master/png/tv.png
+https://13035.kstore.space/tv.txt
+https://gh-proxy.com/github.com/xiaohuonihao/IPTV-api/blob/master/output/tv.txt
+https://gh-proxy.com/raw.githubusercontent.com/xiaohuonihao/IPTV-api/refs/heads/master/output/tv.txt
 
 
 
