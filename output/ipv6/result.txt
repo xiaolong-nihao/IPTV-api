@@ -7243,4 +7243,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-03-03 07:48:44,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-03 20:01:16,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
