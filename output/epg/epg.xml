@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260304235507 +0800">
+<tv date="20260305120256 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -29126,5 +29126,44 @@
 	</programme>
 	<programme channel="CHC影迷电影" start="20260305235500 +0800" stop="20260306014500 +0800">
 		<title lang="zh">长安道</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306014400 +0800" stop="20260306060000 +0800">
+		<title lang="zh">天·火</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306060000 +0800" stop="20260306074900 +0800">
+		<title lang="zh">阿拉姜色</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306074900 +0800" stop="20260306092600 +0800">
+		<title lang="zh">爱情故事</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306092600 +0800" stop="20260306112900 +0800">
+		<title lang="zh">战狼2</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306112900 +0800" stop="20260306134300 +0800">
+		<title lang="zh">雄狮少年2</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306134300 +0800" stop="20260306151700 +0800">
+		<title lang="zh">冷恋时代</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306151700 +0800" stop="20260306151800 +0800">
+		<title lang="zh">2024影迷频道形象片</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306151800 +0800" stop="20260306171000 +0800">
+		<title lang="zh">谁偷了我的粉兔子</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306171000 +0800" stop="20260306185400 +0800">
+		<title lang="zh">了不起的老爸</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306185400 +0800" stop="20260306202100 +0800">
+		<title lang="zh">英雄无悔</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306202100 +0800" stop="20260306202300 +0800">
+		<title lang="zh">2024影迷频道形象片</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306202300 +0800" stop="20260306220000 +0800">
+		<title lang="zh">诱狼</title>
+	</programme>
+	<programme channel="CHC影迷电影" start="20260306220000 +0800" stop="20260307000500 +0800">
+		<title lang="zh">守岛人</title>
 	</programme>
 </tv>
