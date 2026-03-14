@@ -4,7 +4,7 @@
 
 
 https://13035.kstore.space/url/歌曲.txt
-
+https://gh-proxy.org/https://raw.githubusercontent.com/xiaohuonihao/IPTV-api/refs/heads/master/output/love.txt
 
 
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/dianshijia_10.1.txt
