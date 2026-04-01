@@ -3310,7 +3310,10 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 如东一套新闻综合频道,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 
 福建,#genre#
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
 福建旅游,https://t.freetv.fun/live/fu-jian-lu-you.m3u8
+福建旅游,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
@@ -3835,6 +3838,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 广西新闻,https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-1.m3u8
+广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-2.m3u8
 广西都市,http://maoda.cc:9999/udp/239.81.0.247:4056
 广西都市,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
@@ -7354,4 +7358,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-04-01 08:07:50,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-01 20:30:02,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8

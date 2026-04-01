@@ -6545,8 +6545,14 @@ http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 #EXTINF:-1 tvg-name="如东一套新闻综合频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/如东一套新闻综合频道.png" group-title="江苏",如东一套新闻综合频道
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+#EXTINF:-1 tvg-name="福建公共" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建公共.png" group-title="福建",福建公共
+https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8
+#EXTINF:-1 tvg-name="福建公共" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建公共.png" group-title="福建",福建公共
+https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建旅游.png" group-title="福建",福建旅游
 https://t.freetv.fun/live/fu-jian-lu-you.m3u8
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建旅游.png" group-title="福建",福建旅游
+https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
 #EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云霄综合.png" group-title="福建",云霄综合
 https://live.zzyxxw.com:2443/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云霄综合.png" group-title="福建",云霄综合
@@ -7555,6 +7561,8 @@ https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西新闻.png" group-title="广西",广西新闻
 https://t.freetv.fun/live/yan-xi-xin-wen-1.m3u8
+#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西新闻.png" group-title="广西",广西新闻
+https://t.freetv.fun/live/yan-xi-xin-wen-2.m3u8
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西都市.png" group-title="广西",广西都市
 http://maoda.cc:9999/udp/239.81.0.247:4056
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西都市.png" group-title="广西",广西都市
@@ -14405,5 +14413,5 @@ http://iptv.666230.xyz/iptv/jsyd.php/R_CAIJING
 http://iptv.666230.xyz/iptv/jsyd.php/R_WENYI
 #EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻广播.png" group-title="广播电台",江苏新闻广播
 http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-01 08:07:50
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-01 20:30:02
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
