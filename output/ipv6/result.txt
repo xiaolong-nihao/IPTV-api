@@ -1526,6 +1526,7 @@ NewTV动作电影,http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
 靖天映画,https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8?token=tmxk
 靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8?token=tmxk
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
@@ -1533,6 +1534,9 @@ NewTV动作电影,http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3
 靖天戏剧,https://4gtv.dxjc.pp.ua/4gtv-4gtv058/index.m3u8?token=tmxk
 靖天戏剧,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv058/index.m3u8?token=tmxk
 靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-11.m3u8
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-6.m3u8
+靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-1.php
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,http://ikuai.ipddns.top:8888/rtp/239.3.1.195:9024
@@ -2066,6 +2070,9 @@ Astro AOD,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 靖天戏剧,https://4gtv.dxjc.pp.ua/4gtv-4gtv058/index.m3u8?token=tmxk
 靖天戏剧,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv058/index.m3u8?token=tmxk
 靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-11.m3u8
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-6.m3u8
+靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-1.php
 Now财经,http://hls.168.us.kg/u/333/master.m3u8
 Plus综合,http://tl.061833.xyz/tl/pluse
 Plus综合,https://cdn6.101.qzz.io/163189/tvbp
@@ -7378,4 +7385,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-04-10 20:28:28,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-11 08:10:54,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
