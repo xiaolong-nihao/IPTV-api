@@ -1148,6 +1148,7 @@ Skysports F1,http://jp.809899.xyz/smt.php?id=tiankongf1
 Skysports F1,https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
 Skysports F1,http://dreamdeu.sylu.net:8080/smt.php?id=tiankongf1
 Skysports F1,https://111.iptv543.com/live.php?id=tiankongf1
+Skysports F1,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongf1
 美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
 天元围棋,http://nas.home.plugintool.top:2333/udp/239.76.253.2:9000
@@ -2246,6 +2247,7 @@ Animax,http://jp.809899.xyz/smt.php?id=Animax
 Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
 Animax,http://dreamdeu.sylu.net:8080/smt.php?id=Animax
 Animax,https://111.iptv543.com/live.php?id=Animax
+Animax,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Animax
 EYE-戏剧,https://smt.858.qzz.io/Smart.php?id=eyetvxiju_twn
 美食星球,https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
 亚洲美食,https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
@@ -2262,6 +2264,7 @@ NHK World,http://jp.809899.xyz/smt.php?id=nhkworld_japan
 NHK World,https://smart.dxjc.pp.ua/smart.php?id=nhkworld_japan&token=tmxk
 NHK World,http://dreamdeu.sylu.net:8080/smt.php?id=nhkworld_japan
 NHK World,https://111.iptv543.com/live.php?id=nhkworld_japan
+NHK World,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkworld_japan
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡CNA,https://live.lalifeier.eu.org/youtube/XWq5kBlakcQ.m3u8?t=1768778809&key=9f5ae26f88b8785a9c52f52cc96f8b60
 新加坡CNA,https://live.lalifeier.eu.org/youtube/XWq5kBlakcQ.m3u8?t=1769124524&key=303481fbe78cf317e97b3bf06791d7f1
@@ -5457,12 +5460,14 @@ Cartoon Network,http://jp.809899.xyz/smt.php?id=Cn
 Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
 Cartoon Network,http://dreamdeu.sylu.net:8080/smt.php?id=Cn
 Cartoon Network,https://111.iptv543.com/live.php?id=Cn
+Cartoon Network,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cn
 CBBC,https://smt.858.qzz.io/Smart.php?id=cbbc_antik
 CBBC,https://smt.go-iptv.ggff.net/smart.php?id=cbbc_antik&token=Goiptv
 CBBC,http://jp.809899.xyz/smt.php?id=cbbc_antik
 CBBC,https://smart.dxjc.pp.ua/smart.php?id=cbbc_antik&token=tmxk
 CBBC,http://dreamdeu.sylu.net:8080/smt.php?id=cbbc_antik
 CBBC,https://111.iptv543.com/live.php?id=cbbc_antik
+CBBC,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbbc_antik
 Channel 5,https://smt.858.qzz.io/Smart.php?id=Channel5HD
 Channel 5,http://cdn6.163189.xyz/163189/ch5
 Channel 5,https://smt.go-iptv.ggff.net/smart.php?id=Channel5HD&token=Goiptv
@@ -5470,24 +5475,28 @@ Channel 5,http://jp.809899.xyz/smt.php?id=Channel5HD
 Channel 5,https://smart.dxjc.pp.ua/smart.php?id=Channel5HD&token=tmxk
 Channel 5,http://dreamdeu.sylu.net:8080/smt.php?id=Channel5HD
 Channel 5,https://111.iptv543.com/live.php?id=Channel5HD
+Channel 5,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Channel5HD
 More4,https://smt.858.qzz.io/Smart.php?id=more4_antik
 More4,https://smt.go-iptv.ggff.net/smart.php?id=more4_antik&token=Goiptv
 More4,http://jp.809899.xyz/smt.php?id=more4_antik
 More4,https://smart.dxjc.pp.ua/smart.php?id=more4_antik&token=tmxk
 More4,http://dreamdeu.sylu.net:8080/smt.php?id=more4_antik
 More4,https://111.iptv543.com/live.php?id=more4_antik
+More4,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=more4_antik
 TLC,https://smt.858.qzz.io/Smart.php?id=Tlc
 TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
 TLC,http://jp.809899.xyz/smt.php?id=Tlc
 TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
 TLC,http://dreamdeu.sylu.net:8080/smt.php?id=Tlc
 TLC,https://111.iptv543.com/live.php?id=Tlc
+TLC,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc
 Channel 4,https://smt.858.qzz.io/Smart.php?id=channel4_antik
 Channel 4,https://smt.go-iptv.ggff.net/smart.php?id=channel4_antik&token=Goiptv
 Channel 4,http://jp.809899.xyz/smt.php?id=channel4_antik
 Channel 4,https://smart.dxjc.pp.ua/smart.php?id=channel4_antik&token=tmxk
 Channel 4,http://dreamdeu.sylu.net:8080/smt.php?id=channel4_antik
 Channel 4,https://111.iptv543.com/live.php?id=channel4_antik
+Channel 4,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=channel4_antik
 
 美国频道,#genre#
 CNBC,https://smt.858.qzz.io/Smart.php?id=cnbc_twn
@@ -5496,6 +5505,7 @@ CNBC,http://jp.809899.xyz/smt.php?id=cnbc_twn
 CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
 CNBC,http://dreamdeu.sylu.net:8080/smt.php?id=cnbc_twn
 CNBC,https://111.iptv543.com/live.php?id=cnbc_twn
+CNBC,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnbc_twn
 CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
@@ -5505,6 +5515,7 @@ NBA TV,http://jp.809899.xyz/smt.php?id=Nba
 NBA TV,https://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
 NBA TV,http://dreamdeu.sylu.net:8080/smt.php?id=Nba
 NBA TV,https://111.iptv543.com/live.php?id=Nba
+NBA TV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nba
 CA Adult Swim (R),https://omg.pendy.dpdns.org/4wVQA7/625159/11644?token=tmxk
 Cartoon Network,https://smt.858.qzz.io/Smart.php?id=Cn
 Cartoon Network,https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
@@ -5512,6 +5523,7 @@ Cartoon Network,http://jp.809899.xyz/smt.php?id=Cn
 Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
 Cartoon Network,http://dreamdeu.sylu.net:8080/smt.php?id=Cn
 Cartoon Network,https://111.iptv543.com/live.php?id=Cn
+Cartoon Network,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cn
 CA Discovery Velocity HD,https://omg.pendy.dpdns.org/4wVQA7/625159/46212?token=tmxk
 Fox News,https://smt.858.qzz.io/Smart.php?id=foxnews_twn
 Fox News,https://smt.go-iptv.ggff.net/smart.php?id=foxnews_twn&token=Goiptv
@@ -5519,6 +5531,7 @@ Fox News,http://jp.809899.xyz/smt.php?id=foxnews_twn
 Fox News,https://smart.dxjc.pp.ua/smart.php?id=foxnews_twn&token=tmxk
 Fox News,http://dreamdeu.sylu.net:8080/smt.php?id=foxnews_twn
 Fox News,https://111.iptv543.com/live.php?id=foxnews_twn
+Fox News,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=foxnews_twn
 HBO,https://smart.pendy.dpdns.org/Smart.php?id=Hbo
 ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
 Lifetime,https://4gtv.dxjc.pp.ua/4gtv-live029/index.m3u8?token=tmxk
@@ -5529,12 +5542,14 @@ Nick Jr,http://jp.809899.xyz/smt.php?id=Nickjr
 Nick Jr,https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
 Nick Jr,http://dreamdeu.sylu.net:8080/smt.php?id=Nickjr
 Nick Jr,https://111.iptv543.com/live.php?id=Nickjr
+Nick Jr,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickjr
 Paramount Network,https://smt.858.qzz.io/Smart.php?id=Paramountnetwork
 Paramount Network,https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
 Paramount Network,http://jp.809899.xyz/smt.php?id=Paramountnetwork
 Paramount Network,https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
 Paramount Network,http://dreamdeu.sylu.net:8080/smt.php?id=Paramountnetwork
 Paramount Network,https://111.iptv543.com/live.php?id=Paramountnetwork
+Paramount Network,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Paramountnetwork
 CA Turner Classic Movies,https://omg.pendy.dpdns.org/4wVQA7/625159/66242?token=tmxk
 
 法国频道,#genre#
@@ -5544,6 +5559,7 @@ CNBC,http://jp.809899.xyz/smt.php?id=cnbc_twn
 CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
 CNBC,http://dreamdeu.sylu.net:8080/smt.php?id=cnbc_twn
 CNBC,https://111.iptv543.com/live.php?id=cnbc_twn
+CNBC,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnbc_twn
 FRANCE 24,https://live.iill.top/youtube/l8PMl7tUDIE
 TLC,https://smt.858.qzz.io/Smart.php?id=Tlc
 TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
@@ -5551,6 +5567,7 @@ TLC,http://jp.809899.xyz/smt.php?id=Tlc
 TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
 TLC,http://dreamdeu.sylu.net:8080/smt.php?id=Tlc
 TLC,https://111.iptv543.com/live.php?id=Tlc
+TLC,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc
 
 德国频道,#genre#
 
@@ -5569,6 +5586,7 @@ BS-TBS,http://jp.809899.xyz/smt.php?id=bstbs_japan
 BS-TBS,http://dreamdeu.sylu.net:8080/smt.php?id=bstbs_japan
 BS-TBS,https://smart.dxjc.pp.ua/smart.php?id=bstbs_japan&token=tmxk
 BS-TBS,https://111.iptv543.com/live.php?id=bstbs_japan
+BS-TBS,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bstbs_japan
 BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
 BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
 WOWOWプライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
@@ -5596,6 +5614,7 @@ Cartoon Network,http://jp.809899.xyz/smt.php?id=Cn
 Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
 Cartoon Network,http://dreamdeu.sylu.net:8080/smt.php?id=Cn
 Cartoon Network,https://111.iptv543.com/live.php?id=Cn
+Cartoon Network,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cn
 ウェザーニュース,https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3audio-only=false).m3u8
 
 韩国频道,#genre#
@@ -5622,6 +5641,7 @@ EBS 1,http://jp.809899.xyz/smt.php?id=ebs1_korea
 EBS 1,http://dreamdeu.sylu.net:8080/smt.php?id=ebs1_korea
 EBS 1,https://smart.dxjc.pp.ua/smart.php?id=ebs1_korea&token=tmxk
 EBS 1,https://111.iptv543.com/live.php?id=ebs1_korea
+EBS 1,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebs1_korea
 EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
 EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
@@ -5639,6 +5659,7 @@ KBS World,http://jp.809899.xyz/smt.php?id=KBS
 KBS World,https://smart.dxjc.pp.ua/smart.php?id=KBS&token=tmxk
 KBS World,http://dreamdeu.sylu.net:8080/smt.php?id=KBS
 KBS World,https://111.iptv543.com/live.php?id=KBS
+KBS World,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=KBS
 KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 Korea TV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
@@ -5653,6 +5674,7 @@ Cartoon Network,http://jp.809899.xyz/smt.php?id=Cn
 Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
 Cartoon Network,http://dreamdeu.sylu.net:8080/smt.php?id=Cn
 Cartoon Network,https://111.iptv543.com/live.php?id=Cn
+Cartoon Network,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cn
 HGTV,https://smt.858.qzz.io/Smart.php?id=HGTV
 HGTV,https://live.iill.top/youtube/38AgCP7jEww
 HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
@@ -5660,12 +5682,14 @@ HGTV,http://jp.809899.xyz/smt.php?id=HGTV
 HGTV,https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
 HGTV,http://dreamdeu.sylu.net:8080/smt.php?id=HGTV
 HGTV,https://111.iptv543.com/live.php?id=HGTV
+HGTV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=HGTV
 History,https://smt.858.qzz.io/Smart.php?id=History
 History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
 History,http://jp.809899.xyz/smt.php?id=History
 History,https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
 History,http://dreamdeu.sylu.net:8080/smt.php?id=History
 History,https://111.iptv543.com/live.php?id=History
+History,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=History
 Nickelodeon,https://smt.858.qzz.io/Smart.php?id=Nickelodeon
 Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
 Nickelodeon,http://jp.809899.xyz/smt.php?id=Nickelodeon
@@ -5673,6 +5697,7 @@ Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
 Nickelodeon,https://4gtv.dxjc.pp.ua/4gtv-live105/index.m3u8?token=tmxk
 Nickelodeon,http://dreamdeu.sylu.net:8080/smt.php?id=Nickelodeon
 Nickelodeon,https://111.iptv543.com/live.php?id=Nickelodeon
+Nickelodeon,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon
 
 西班牙频道,#genre#
 Al Jazeera,https://live.iill.top/youtube/gCNeDWCI0vo
@@ -5684,6 +5709,7 @@ Baby TV,http://jp.809899.xyz/smt.php?id=babytv_twn
 Baby TV,https://smart.dxjc.pp.ua/smart.php?id=babytv_twn&token=tmxk
 Baby TV,http://dreamdeu.sylu.net:8080/smt.php?id=babytv_twn
 Baby TV,https://111.iptv543.com/live.php?id=babytv_twn
+Baby TV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=babytv_twn
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 CNBC,https://smt.858.qzz.io/Smart.php?id=cnbc_twn
 CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
@@ -5691,12 +5717,14 @@ CNBC,http://jp.809899.xyz/smt.php?id=cnbc_twn
 CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
 CNBC,http://dreamdeu.sylu.net:8080/smt.php?id=cnbc_twn
 CNBC,https://111.iptv543.com/live.php?id=cnbc_twn
+CNBC,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnbc_twn
 CNN International,https://smt.858.qzz.io/Smart.php?id=Cnn
 CNN International,https://smt.go-iptv.ggff.net/smart.php?id=Cnn&token=Goiptv
 CNN International,http://jp.809899.xyz/smt.php?id=Cnn
 CNN International,https://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
 CNN International,http://dreamdeu.sylu.net:8080/smt.php?id=Cnn
 CNN International,https://111.iptv543.com/live.php?id=Cnn
+CNN International,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnn
 Disney Junior,https://live.iill.top/youtube/Dkkp4KfdGPY
 Dreamworks,https://smt.858.qzz.io/Smart.php?id=Dreamworks
 Dreamworks,https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
@@ -5704,6 +5732,7 @@ Dreamworks,http://jp.809899.xyz/smt.php?id=Dreamworks
 Dreamworks,https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
 Dreamworks,http://dreamdeu.sylu.net:8080/smt.php?id=Dreamworks
 Dreamworks,https://111.iptv543.com/live.php?id=Dreamworks
+Dreamworks,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dreamworks
 Euronews,https://smt.858.qzz.io/Smart.php?id=euronews_antik
 Euronews,https://aegis-cloudfront-1.tubi.video/4748bce1-cc5e-471f-a922-bcf11fece245/index.m3u8
 Euronews,https://smt.go-iptv.ggff.net/smart.php?id=euronews_antik&token=Goiptv
@@ -5711,12 +5740,14 @@ Euronews,http://jp.809899.xyz/smt.php?id=euronews_antik
 Euronews,https://smart.dxjc.pp.ua/smart.php?id=euronews_antik&token=tmxk
 Euronews,http://dreamdeu.sylu.net:8080/smt.php?id=euronews_antik
 Euronews,https://111.iptv543.com/live.php?id=euronews_antik
+Euronews,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=euronews_antik
 EWTN,https://smt.858.qzz.io/Smart.php?id=Ewtn
 EWTN,https://smt.go-iptv.ggff.net/smart.php?id=Ewtn&token=Goiptv
 EWTN,http://jp.809899.xyz/smt.php?id=Ewtn
 EWTN,https://smart.dxjc.pp.ua/smart.php?id=Ewtn&token=tmxk
 EWTN,http://dreamdeu.sylu.net:8080/smt.php?id=Ewtn
 EWTN,https://111.iptv543.com/live.php?id=Ewtn
+EWTN,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ewtn
 France 24,https://smt.858.qzz.io/Smart.php?id=france24_twn
 France 24,https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist.m3u8
 France 24,https://smt.go-iptv.ggff.net/smart.php?id=france24_twn&token=Goiptv
@@ -5724,6 +5755,7 @@ France 24,http://jp.809899.xyz/smt.php?id=france24_twn
 France 24,https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
 France 24,http://dreamdeu.sylu.net:8080/smt.php?id=france24_twn
 France 24,https://111.iptv543.com/live.php?id=france24_twn
+France 24,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=france24_twn
 National Geographic,https://live.iill.top/youtube/O6Qdxrf-6CM
 Nickelodeon,https://smt.858.qzz.io/Smart.php?id=Nickelodeon
 Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
@@ -5732,18 +5764,21 @@ Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
 Nickelodeon,https://4gtv.dxjc.pp.ua/4gtv-live105/index.m3u8?token=tmxk
 Nickelodeon,http://dreamdeu.sylu.net:8080/smt.php?id=Nickelodeon
 Nickelodeon,https://111.iptv543.com/live.php?id=Nickelodeon
+Nickelodeon,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon
 Paramount Network,https://smt.858.qzz.io/Smart.php?id=Paramountnetwork
 Paramount Network,https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
 Paramount Network,http://jp.809899.xyz/smt.php?id=Paramountnetwork
 Paramount Network,https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
 Paramount Network,http://dreamdeu.sylu.net:8080/smt.php?id=Paramountnetwork
 Paramount Network,https://111.iptv543.com/live.php?id=Paramountnetwork
+Paramount Network,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Paramountnetwork
 Warner TV,https://smt.858.qzz.io/Smart.php?id=WarnerTV
 Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
 Warner TV,http://jp.809899.xyz/smt.php?id=WarnerTV
 Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
 Warner TV,http://dreamdeu.sylu.net:8080/smt.php?id=WarnerTV
 Warner TV,https://111.iptv543.com/live.php?id=WarnerTV
+Warner TV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV
 
 马来西亚,#genre#
 Adithya,https://smt.858.qzz.io/Smart.php?id=Adithya
@@ -5752,18 +5787,21 @@ Adithya,http://jp.809899.xyz/smt.php?id=Adithya
 Adithya,https://smart.dxjc.pp.ua/smart.php?id=Adithya&token=tmxk
 Adithya,http://dreamdeu.sylu.net:8080/smt.php?id=Adithya
 Adithya,https://111.iptv543.com/live.php?id=Adithya
+Adithya,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Adithya
 Astro Cricket,https://smt.858.qzz.io/Smart.php?id=Acricket
 Astro Cricket,https://smt.go-iptv.ggff.net/smart.php?id=Acricket&token=Goiptv
 Astro Cricket,http://jp.809899.xyz/smt.php?id=Acricket
 Astro Cricket,https://smart.dxjc.pp.ua/smart.php?id=Acricket&token=tmxk
 Astro Cricket,http://dreamdeu.sylu.net:8080/smt.php?id=Acricket
 Astro Cricket,https://111.iptv543.com/live.php?id=Acricket
+Astro Cricket,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Acricket
 Awesome TV,https://smt.858.qzz.io/Smart.php?id=Dsangat
 Awesome TV,https://smt.go-iptv.ggff.net/smart.php?id=Dsangat&token=Goiptv
 Awesome TV,http://jp.809899.xyz/smt.php?id=Dsangat
 Awesome TV,https://smart.dxjc.pp.ua/smart.php?id=Dsangat&token=tmxk
 Awesome TV,http://dreamdeu.sylu.net:8080/smt.php?id=Dsangat
 Awesome TV,https://111.iptv543.com/live.php?id=Dsangat
+Awesome TV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dsangat
 AXN,http://tl.061833.xyz/tl/axn
 Bernama,https://smt.858.qzz.io/Smart.php?id=Bernama
 Bernama,https://smt.go-iptv.ggff.net/smart.php?id=Bernama&token=Goiptv
@@ -5771,6 +5809,7 @@ Bernama,http://jp.809899.xyz/smt.php?id=Bernama
 Bernama,https://smart.dxjc.pp.ua/smart.php?id=Bernama&token=tmxk
 Bernama,http://dreamdeu.sylu.net:8080/smt.php?id=Bernama
 Bernama,https://111.iptv543.com/live.php?id=Bernama
+Bernama,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bernama
 CCTV4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
 CCTV4,https://migu.pl10000.top/cctv4
 CCTV4,https://live.chinacert.cftest5.cn/mg/?id=631780421
@@ -5797,6 +5836,7 @@ Cinemax,http://jp.809899.xyz/smt.php?id=Cinemax
 Cinemax,https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
 Cinemax,http://dreamdeu.sylu.net:8080/smt.php?id=Cinemax
 Cinemax,https://111.iptv543.com/live.php?id=Cinemax
+Cinemax,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cinemax
 CNA,https://smt.858.qzz.io/Smart.php?id=cna
 CNA,https://smart.pendy.dpdns.org/Smart.php?id=cna
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -5813,18 +5853,21 @@ CNBC,http://jp.809899.xyz/smt.php?id=cnbc_twn
 CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
 CNBC,http://dreamdeu.sylu.net:8080/smt.php?id=cnbc_twn
 CNBC,https://111.iptv543.com/live.php?id=cnbc_twn
+CNBC,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnbc_twn
 Colors Tamil,https://smt.858.qzz.io/Smart.php?id=Colorstam
 Colors Tamil,https://smt.go-iptv.ggff.net/smart.php?id=Colorstam&token=Goiptv
 Colors Tamil,http://jp.809899.xyz/smt.php?id=Colorstam
 Colors Tamil,https://smart.dxjc.pp.ua/smart.php?id=Colorstam&token=tmxk
 Colors Tamil,http://dreamdeu.sylu.net:8080/smt.php?id=Colorstam
 Colors Tamil,https://111.iptv543.com/live.php?id=Colorstam
+Colors Tamil,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Colorstam
 Discovery Asia,https://smt.858.qzz.io/Smart.php?id=discoverytwn_twn
 Discovery Asia,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
 Discovery Asia,http://jp.809899.xyz/smt.php?id=discoverytwn_twn
 Discovery Asia,https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
 Discovery Asia,http://dreamdeu.sylu.net:8080/smt.php?id=discoverytwn_twn
 Discovery Asia,https://111.iptv543.com/live.php?id=discoverytwn_twn
+Discovery Asia,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
 Disney Junior,https://live.iill.top/youtube/Dkkp4KfdGPY
 Global Trekker,https://4gtv.dxjc.pp.ua/4gtv-live112/index.m3u8?token=tmxk
 HBO Family,https://smt.858.qzz.io/Smart.php?id=Hbofamily
@@ -5833,36 +5876,42 @@ HBO Family,http://jp.809899.xyz/smt.php?id=Hbofamily
 HBO Family,https://smart.dxjc.pp.ua/smart.php?id=Hbofamily&token=tmxk
 HBO Family,http://dreamdeu.sylu.net:8080/smt.php?id=Hbofamily
 HBO Family,https://111.iptv543.com/live.php?id=Hbofamily
+HBO Family,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbofamily
 HBO Hits,https://smt.858.qzz.io/Smart.php?id=Hbohitshd
 HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
 HBO Hits,http://jp.809899.xyz/smt.php?id=Hbohitshd
 HBO Hits,https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
 HBO Hits,http://dreamdeu.sylu.net:8080/smt.php?id=Hbohitshd
 HBO Hits,https://111.iptv543.com/live.php?id=Hbohitshd
+HBO Hits,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbohitshd
 HBO Signature,https://smt.858.qzz.io/Smart.php?id=Hbosignature
 HBO Signature,https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
 HBO Signature,http://jp.809899.xyz/smt.php?id=Hbosignature
 HBO Signature,https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
 HBO Signature,http://dreamdeu.sylu.net:8080/smt.php?id=Hbosignature
 HBO Signature,https://111.iptv543.com/live.php?id=Hbosignature
+HBO Signature,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbosignature
 History,https://smt.858.qzz.io/Smart.php?id=History
 History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
 History,http://jp.809899.xyz/smt.php?id=History
 History,https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
 History,http://dreamdeu.sylu.net:8080/smt.php?id=History
 History,https://111.iptv543.com/live.php?id=History
+History,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=History
 Hits,https://smt.858.qzz.io/Smart.php?id=Hits
 Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
 Hits,http://jp.809899.xyz/smt.php?id=Hits
 Hits,https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
 Hits,http://dreamdeu.sylu.net:8080/smt.php?id=Hits
 Hits,https://111.iptv543.com/live.php?id=Hits
+Hits,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hits
 KBS World,https://smt.858.qzz.io/Smart.php?id=KBS
 KBS World,https://smt.go-iptv.ggff.net/smart.php?id=KBS&token=Goiptv
 KBS World,http://jp.809899.xyz/smt.php?id=KBS
 KBS World,https://smart.dxjc.pp.ua/smart.php?id=KBS&token=tmxk
 KBS World,http://dreamdeu.sylu.net:8080/smt.php?id=KBS
 KBS World,https://111.iptv543.com/live.php?id=KBS
+KBS World,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=KBS
 Lifetime,https://4gtv.dxjc.pp.ua/4gtv-live029/index.m3u8?token=tmxk
 Nickelodeon,https://smt.858.qzz.io/Smart.php?id=Nickelodeon
 Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
@@ -5871,18 +5920,21 @@ Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
 Nickelodeon,https://4gtv.dxjc.pp.ua/4gtv-live105/index.m3u8?token=tmxk
 Nickelodeon,http://dreamdeu.sylu.net:8080/smt.php?id=Nickelodeon
 Nickelodeon,https://111.iptv543.com/live.php?id=Nickelodeon
+Nickelodeon,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon
 NTV7,https://smt.858.qzz.io/Smart.php?id=NTV7
 NTV7,https://smt.go-iptv.ggff.net/smart.php?id=NTV7&token=Goiptv
 NTV7,http://jp.809899.xyz/smt.php?id=NTV7
 NTV7,https://smart.dxjc.pp.ua/smart.php?id=NTV7&token=tmxk
 NTV7,http://dreamdeu.sylu.net:8080/smt.php?id=NTV7
 NTV7,https://111.iptv543.com/live.php?id=NTV7
+NTV7,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NTV7
 One,https://smt.858.qzz.io/Smart.php?id=One
 One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
 One,http://jp.809899.xyz/smt.php?id=One
 One,https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
 One,http://dreamdeu.sylu.net:8080/smt.php?id=One
 One,https://111.iptv543.com/live.php?id=One
+One,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=One
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 Sky News,https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
 Star Vijay,https://smt.858.qzz.io/Smart.php?id=Starvijay
@@ -5891,48 +5943,56 @@ Star Vijay,http://jp.809899.xyz/smt.php?id=Starvijay
 Star Vijay,https://smart.dxjc.pp.ua/smart.php?id=Starvijay&token=tmxk
 Star Vijay,http://dreamdeu.sylu.net:8080/smt.php?id=Starvijay
 Star Vijay,https://111.iptv543.com/live.php?id=Starvijay
+Star Vijay,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Starvijay
 TLC,https://smt.858.qzz.io/Smart.php?id=Tlc
 TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
 TLC,http://jp.809899.xyz/smt.php?id=Tlc
 TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
 TLC,http://dreamdeu.sylu.net:8080/smt.php?id=Tlc
 TLC,https://111.iptv543.com/live.php?id=Tlc
+TLC,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc
 TV2,https://smt.858.qzz.io/Smart.php?id=TV2
 TV2,https://smt.go-iptv.ggff.net/smart.php?id=TV2&token=Goiptv
 TV2,http://jp.809899.xyz/smt.php?id=TV2
 TV2,https://smart.dxjc.pp.ua/smart.php?id=TV2&token=tmxk
 TV2,http://dreamdeu.sylu.net:8080/smt.php?id=TV2
 TV2,https://111.iptv543.com/live.php?id=TV2
+TV2,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV2
 TV3,https://smt.858.qzz.io/Smart.php?id=TV3
 TV3,https://smt.go-iptv.ggff.net/smart.php?id=TV3&token=Goiptv
 TV3,http://jp.809899.xyz/smt.php?id=TV3
 TV3,https://smart.dxjc.pp.ua/smart.php?id=TV3&token=tmxk
 TV3,http://dreamdeu.sylu.net:8080/smt.php?id=TV3
 TV3,https://111.iptv543.com/live.php?id=TV3
+TV3,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3
 TV9,https://smt.858.qzz.io/Smart.php?id=TV9
 TV9,https://smt.go-iptv.ggff.net/smart.php?id=TV9&token=Goiptv
 TV9,http://jp.809899.xyz/smt.php?id=TV9
 TV9,https://smart.dxjc.pp.ua/smart.php?id=TV9&token=tmxk
 TV9,http://dreamdeu.sylu.net:8080/smt.php?id=TV9
 TV9,https://111.iptv543.com/live.php?id=TV9
+TV9,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV9
 TVB Classic,https://smt.858.qzz.io/Smart.php?id=Tvbclassic
 TVB Classic,https://smt.go-iptv.ggff.net/smart.php?id=Tvbclassic&token=Goiptv
 TVB Classic,http://jp.809899.xyz/smt.php?id=Tvbclassic
 TVB Classic,https://smart.dxjc.pp.ua/smart.php?id=Tvbclassic&token=tmxk
 TVB Classic,http://dreamdeu.sylu.net:8080/smt.php?id=Tvbclassic
 TVB Classic,https://111.iptv543.com/live.php?id=Tvbclassic
+TVB Classic,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbclassic
 TVB Jade,https://smt.858.qzz.io/Smart.php?id=Tvbjade
 TVB Jade,https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
 TVB Jade,http://jp.809899.xyz/smt.php?id=Tvbjade
 TVB Jade,https://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
 TVB Jade,http://dreamdeu.sylu.net:8080/smt.php?id=Tvbjade
 TVB Jade,https://111.iptv543.com/live.php?id=Tvbjade
+TVB Jade,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbjade
 Warner TV,https://smt.858.qzz.io/Smart.php?id=WarnerTV
 Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
 Warner TV,http://jp.809899.xyz/smt.php?id=WarnerTV
 Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
 Warner TV,http://dreamdeu.sylu.net:8080/smt.php?id=WarnerTV
 Warner TV,https://111.iptv543.com/live.php?id=WarnerTV
+Warner TV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV
 
 舞曲,#genre#
 浪子闲话,https://v4-vod.kwaicdn.com/bs3/video-hls/5210383404224451227_hlsb.m3u8?ftt=R&pkey=AAXQdQrGksz-XD2RBhGklNiauXKhCZvMhALeOZLZPhlvliW1qkft7nvltrxs3I-HHznQpZVHIiKW44jvqNBFj39NboYpb0SCJJUxbGSQb88EfLH5ibzpJsmhGW6P1idVX3M&ss=vp
@@ -7385,4 +7445,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-04-12 08:05:56,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-12 20:13:35,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
