@@ -3768,6 +3768,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 绵阳科技,http://iptv.666230.xyz/iptv/sxg.php/myetH265_4000
 乐山文旅,http://iptv.666230.xyz/iptv/sxg.php/lsggpd_4000
 广元综合,http://iptv.666230.xyz/iptv/sxg.php/gyzhH265_4000
+广元综合,https://t.freetv.fun/live/yan-yuan-zong-he-1.m3u8
 广元文化生活,http://iptv.666230.xyz/iptv/sxg.php/gyggH265_4000
 内江综合,http://iptv.666230.xyz/iptv/sxg.php/njzh_4000
 宜宾公共,http://iptv.666230.xyz/iptv/sxg.php/ybetH264_2000
@@ -7445,4 +7446,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-04-13 21:07:27,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-14 08:17:22,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
