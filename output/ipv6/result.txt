@@ -1055,6 +1055,7 @@ CCTV-5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u
 五星体育,http://home.dzlove.top:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/index.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
 体育赛事,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226196/1/index.m3u8?fmt=ts2hls
 体育赛事,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
@@ -2236,6 +2237,7 @@ AXN电影,https://smt.858.qzz.io/Smart.php?id=axn_twn
 五星体育,http://home.dzlove.top:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/index.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
 AXN,http://tl.061833.xyz/tl/axn
 HBO,https://smart.pendy.dpdns.org/Smart.php?id=Hbo
 HBOFamily,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
@@ -3733,6 +3735,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 四川,#genre#
 四川科教,http://wouu.net:9977/udp/239.93.42.44:5140
 四川科教,http://iptv.666230.xyz/iptv/sxg.php/SCTV-ggSCTV-8_4000
+四川科教,https://t.freetv.fun/live/si-chuan-ke-jiao.m3u8
 成都高新,http://iptv.666230.xyz/iptv/sxg.php/cdgxdstgq_2000
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH_HD.m3u8
@@ -3766,6 +3769,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 武胜综合频道,http://live2.gatv.com.cn:86/live/WS.m3u8
 绵阳科技,http://iptv.666230.xyz/iptv/sxg.php/myetH265_4000
+绵阳科技,https://t.freetv.fun/live/mian-yang-ke-ji.m3u8
 乐山文旅,http://iptv.666230.xyz/iptv/sxg.php/lsggpd_4000
 广元综合,http://iptv.666230.xyz/iptv/sxg.php/gyzhH265_4000
 广元综合,https://t.freetv.fun/live/yan-yuan-zong-he-1.m3u8
@@ -7446,4 +7450,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-04-14 08:17:22,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-14 20:37:56,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
