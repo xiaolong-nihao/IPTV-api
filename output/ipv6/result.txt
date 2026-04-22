@@ -864,6 +864,7 @@ CCTV中学生,http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxue
 乐游,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
 乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226536/index.m3u8
 乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8
+乐游,http://www.wmviv.com/iptv/bc2t.php?id=ly
 
 儿童频道,#genre#
 山东少儿,http://livealone302.iqilu.com/iqilu/sepd.m3u8
@@ -7582,4 +7583,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-04-22 08:12:05,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-22 20:39:17,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
