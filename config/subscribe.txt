@@ -2,6 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
+https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
 
 https://13035.kstore.space/url/歌曲.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/xiaohuonihao/IPTV-api/refs/heads/master/output/love.txt
