@@ -8,6 +8,42 @@
 
 
 
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$!
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港$!
+
+
+凤凰中文,http://mg.hmysapp.cn:177/香港hk/凤凰卫视中文台.php?id=301$!
+凤凰资讯,http://mg.hmysapp.cn:177/香港hk/凤凰卫视资讯台.php?id=301$!
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯$!
+凤凰香港,http://mg.hmysapp.cn:177/香港hk/凤凰卫视香港台.php?id=301$!
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/$!
+翡翠台,http://r.jdshipin.com/qrfbg$!
+华丽翡翠台,http://r.jdshipin.com/thuYX$!
+华丽翡翠台,http://rihou.cc:555/tv/[Pd]无线华丽$!
+明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026$!
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/$!
+明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$!
+TVB星河,http://r.jdshipin.com/sXuuD$!
+TVB plus,http://o11.163189.xyz/stream/tvb/tvbp/$!
+TVB plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp$!
+TVB plus,http://67.220.71.199:2347/livehttpplay?channel_id=30023$!
+TVB plus,http://r.jdshipin.com/Nr5jq$!
+美亚电影,http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301$!
+美亚电影,https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya$!
+美亚电视台,https://tv.zubo.cc.cd/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8$!
+
+
+星空卫视,https://stream1.freetv.fun/ec98a9ccdf617ca10e287a87558d44b94346626aea3863392cc314b0fe235dfc.m3u8$!
+
+周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
+
+民視,http://mg.hmysapp.cn:177/台4G湾/民視.php?id=301$!
+民視,http://iptv.4666888.xyz/iptv2A.php?id=55$!
+華視,http://mg.hmysapp.cn:177/台4G湾/華視.php?id=301$!
+華視,https://stream1.freetv.fun/fdaba29a960132ff3fb0cfc8d47d2d5a68e1a324e44c9270fe2c2d2da9d4fee0.ctv$!
+公视,https://stream1.freetv.fun/2f9fb003798195324f74f228e4c409c0f5f2fc6f685a9852b171f98d235ec49c.ctv$!
+中視,http://mg.hmysapp.cn:177/台4G湾/中視.php?id=301$!
+
 民视,rtmp://f13h.mine.nu/sat/tv051$!
 台视,rtmp://f13h.mine.nu/sat/tv071$!
 中视,rtmp://f13h.mine.nu/sat/tv091$!
