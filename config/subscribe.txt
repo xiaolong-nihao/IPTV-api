@@ -4,22 +4,6 @@
 https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
 https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
 
-https://13035.kstore.space/url/歌曲.txt
-https://gh-proxy.org/https://raw.githubusercontent.com/xiaohuonihao/IPTV-api/refs/heads/master/output/love.txt
-
-
-https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/dianshijia_10.1.txt
-https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/好朋友直播_几万电影频道.txt
-https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/冰茶去体育去推广.m3u
-
-电视家重生
-https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u
-好朋友直播（几万电影频道）
-https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/几万电影频道.m3u
-全球直播
-https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/全球直播.m3u
-
-
 
 
 https://gh-proxy.org/https://raw.githubusercontent.com/x22c/okk/refs/heads/master/output/user_result.txt
@@ -27,7 +11,6 @@ https://gh-proxy.org/https://raw.githubusercontent.com/x22c/okk/refs/heads/maste
 https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
 港澳
 https://pastebin.com/raw/V0BhYHF4
-https://gh-proxy.com/raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 https://tmxk.pp.ua/smart-cn.m3u
 https://tmxk.pp.ua/4gtv-cn.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
