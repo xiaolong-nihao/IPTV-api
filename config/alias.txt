@@ -189,8 +189,7 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 
 凤凰中文,凤凰中文台
 
-TVBJ1,TVBJ1美频高
-TVBJ2,
+
 TVB PLUS,TVB plus
 
 香港C+,香港_C+_频道
@@ -210,9 +209,6 @@ RTHK-38,RTHK-35频道
 美亚,美亚电影,美亚电影台,美亚电视,美亚电影频道
 pₒₚc电影,pₒₚc电影频道,pₒₚc电影频高,pₒₚc电影频标
 
-HOY TV
-HOY 77
-HOY 78
 
 
 
