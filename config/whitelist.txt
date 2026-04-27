@@ -60,5 +60,8 @@ ELTA体育3,rtmp://9hv9.mine.nu/sat/md011$!
 ELTA体育4,rtmp://9hv9.mine.nu/sat/md021$!
 
 
-
+王者荣耀,https://live.ottiptv.cc/huya/660002$!
+英雄联盟,https://live.ottiptv.cc/huya/660000$!
+和平精英,https://live.ottiptv.cc/huya/660006$!
+穿越火线,https://live.ottiptv.cc/huya/660101$!
 
