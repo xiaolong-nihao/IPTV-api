@@ -1496,6 +1496,7 @@ TVB plus,http://r.jdshipin.com/Nr5jq
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
+华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 美亚电影,http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301
 美亚电影,https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
 美亚电影,http://tl.061833.xyz/tl/null-5
@@ -1795,6 +1796,7 @@ ViuTV,https://smt2.1678520.xyz/smt3.2.1.php?id=viu1_twn
 Astro AOD,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AOD,http://o11.163189.xyz/stream/live/aod/
+Astro AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 三立台湾台,https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
 三立台湾台,http://php.666230.xyz/smt.php?id=sanlitaiwan
 三立综合,https://smt.858.qzz.io/Smart.php?id=sanlizhonghe
@@ -6532,4 +6534,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-05-23 08:34:15,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-23 20:48:46,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
