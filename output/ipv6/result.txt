@@ -1497,6 +1497,7 @@ TVB plus,http://r.jdshipin.com/Nr5jq
 华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
 美亚电影,http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301
 美亚电影,https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
 美亚电影,http://tl.061833.xyz/tl/null-5
@@ -1541,6 +1542,7 @@ TVB plus,http://r.jdshipin.com/Nr5jq
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线星河,https://smt.1789.dpdns.org/smt3.2.1.php?id=Xinhe
 无线星河,https://cdn6.163189.xyz/163189/tvbxh
+星河台,https://o11.163189.xyz/stream/live/tvbxh/
 有线新闻,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 有线新闻,https://smt.go-iptv.ggff.net/smart.php?id=hoycaijing_twn&token=Goiptv
 有线新闻,http://jp.809899.xyz/smt.php?id=hoycaijing_twn
@@ -1599,6 +1601,11 @@ RTHK-32,https://smt.go-iptv.ggff.net/smart.php?id=rhk32_twn&token=Goiptv
 RTHK-32,http://jp.809899.xyz/smt.php?id=rhk32_twn
 pₒₚc电影,http://tl.061833.xyz/tl/popc
 HOY 77,https://cdn.163189.xyz/live/hoy/stream.m3u8
+HOY 77,https://cdn6.163189.xyz/163189/hoy
+HOY 77,http://cdn.163189.xyz/163189/hoy
+HOY 77,http://r.jdshipin.com/sFw4S
+HOY 78,http://cdn.163189.xyz/live/hoy/stream.m3u8
+HOY 78,https://cdn.163189.xyz/163189/hoy78
 台视,rtmp://f13h.mine.nu/sat/tv071
 台视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv066
 台视,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066
@@ -1632,6 +1639,7 @@ HOY 77,https://cdn.163189.xyz/live/hoy/stream.m3u8
 公视,https://stream1.freetv.fun/2f9fb003798195324f74f228e4c409c0f5f2fc6f685a9852b171f98d235ec49c.ctv
 公视,http://jp.809899.xyz/smt.php?id=ctv_taiwan
 公视,https://smart.dxjc.pp.ua/smart.php?id=ctv_taiwan&token=tmxk
+公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
 民视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
@@ -1752,6 +1760,7 @@ HOY 77,https://cdn.163189.xyz/live/hoy/stream.m3u8
 民视第一台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv003/index.m3u8?token=tmxk
 民视影剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv09
 民视影剧台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv09
+民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 民视旅游台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv07
 民视旅游台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv07
 民视综艺台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv004
@@ -2067,6 +2076,7 @@ EYE-戏剧,https://smt.858.qzz.io/Smart.php?id=eyetvxiju_twn
 美食星球,https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
 亚洲美食,https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
 博斯网球,https://4gtv.dxjc.pp.ua/litv-longturn09/index.m3u8?token=tmxk
+Now星影,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=KqOtof&tk=4U04NDOE13ra
 astroAod,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 
 国际频道,#genre#
@@ -5071,6 +5081,7 @@ TVB Jade,https://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
 TVB Jade,http://dreamdeu.sylu.net:8080/smt.php?id=Tvbjade
 TVB Jade,https://111.iptv543.com/live.php?id=Tvbjade
 TVB Jade,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbjade
+tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 Warner TV,https://smt.858.qzz.io/Smart.php?id=WarnerTV
 Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
 Warner TV,http://jp.809899.xyz/smt.php?id=WarnerTV
@@ -6534,4 +6545,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-05-24 20:53:36,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-25 08:35:56,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
