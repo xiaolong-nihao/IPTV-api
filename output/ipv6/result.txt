@@ -1373,6 +1373,7 @@ NEWTV金牌综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 NEWTV金牌综艺,http://[2409:8087:74d9:21::6]/270000001128/9900000112/index.m3u8
 
 电影频道,#genre#
+周星驰,http://107.150.60.122/live/lbzxc.m3u8
 周星驰,https://4gtv.dxjc.pp.ua/ofiii73/index.m3u8?token=tmxk
 周星驰,https://live.iill.top/huya/11342412
 周星驰,https://www.goodiptv.club/huya/11342412
@@ -4997,6 +4998,7 @@ Hits,https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
 Hits,http://dreamdeu.sylu.net:8080/smt.php?id=Hits
 Hits,https://111.iptv543.com/live.php?id=Hits
 Hits,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hits
+iQIYI,https://smt2.1678520.xyz/smt3.2.1.php?id=Qiyi
 KBS World,https://smt.858.qzz.io/Smart.php?id=KBS
 KBS World,https://smt.go-iptv.ggff.net/smart.php?id=KBS&token=Goiptv
 KBS World,http://jp.809899.xyz/smt.php?id=KBS
@@ -6545,4 +6547,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-05-25 08:35:56,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-25 22:39:13,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8

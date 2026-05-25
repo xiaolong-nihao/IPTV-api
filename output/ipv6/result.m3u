@@ -2724,6 +2724,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
 #EXTINF:-1 tvg-name="NEWTV金牌综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV金牌综艺.png" group-title="经典频道",NEWTV金牌综艺
 http://[2409:8087:74d9:21::6]/270000001128/9900000112/index.m3u8
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="电影频道",周星驰
+http://107.150.60.122/live/lbzxc.m3u8
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="电影频道",周星驰
 https://4gtv.dxjc.pp.ua/ofiii73/index.m3u8?token=tmxk
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="电影频道",周星驰
 https://live.iill.top/huya/11342412
@@ -9775,6 +9777,8 @@ http://dreamdeu.sylu.net:8080/smt.php?id=Hits
 https://111.iptv543.com/live.php?id=Hits
 #EXTINF:-1 tvg-name="Hits" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hits.png" group-title="马来西亚",Hits
 https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hits
+#EXTINF:-1 tvg-name="iQIYI" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/iQIYI.png" group-title="马来西亚",iQIYI
+https://smt2.1678520.xyz/smt3.2.1.php?id=Qiyi
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/KBS World.png" group-title="马来西亚",KBS World
 https://smt.858.qzz.io/Smart.php?id=KBS
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/KBS World.png" group-title="马来西亚",KBS World
@@ -12795,5 +12799,5 @@ http://iptv.666230.xyz/iptv/jsyd.php/R_CAIJING
 http://iptv.666230.xyz/iptv/jsyd.php/R_WENYI
 #EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻广播.png" group-title="广播电台",江苏新闻广播
 http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-25 08:35:56
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-25 22:39:13
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
