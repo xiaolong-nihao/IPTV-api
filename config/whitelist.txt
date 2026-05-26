@@ -24,7 +24,6 @@
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$!
 TVB星河,http://r.jdshipin.com/sXuuD$!
 TVB plus,http://o11.163189.xyz/stream/tvb/tvbp/$!
-TVB plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp$!
 TVB plus,http://67.220.71.199:2347/livehttpplay?channel_id=30023$!
 TVB plus,http://r.jdshipin.com/Nr5jq$!
 
@@ -32,15 +31,8 @@ TVB plus,http://r.jdshipin.com/Nr5jq$!
 美亚电视台,https://tv.zubo.cc.cd/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8$!
 
 
-星空卫视,https://stream1.freetv.fun/ec98a9ccdf617ca10e287a87558d44b94346626aea3863392cc314b0fe235dfc.m3u8$!
-
-周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
 
 
-民視,http://iptv.4666888.xyz/iptv2A.php?id=55$!
-
-華視,https://stream1.freetv.fun/fdaba29a960132ff3fb0cfc8d47d2d5a68e1a324e44c9270fe2c2d2da9d4fee0.ctv$!
-公视,https://stream1.freetv.fun/2f9fb003798195324f74f228e4c409c0f5f2fc6f685a9852b171f98d235ec49c.ctv$!
 
 
 民视,rtmp://f13h.mine.nu/sat/tv051$!
