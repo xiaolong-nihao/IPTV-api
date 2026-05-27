@@ -706,6 +706,7 @@ ViuTV,https://smt2.1678520.xyz/smt3.2.1.php?id=viu1_twn
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
+华视,https://www.goodiptv.club/huya/23352525
 民视,rtmp://f13h.mine.nu/sat/tv051
 公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
@@ -3753,7 +3754,6 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 戏曲频道,#genre#
 七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj
 七彩戏剧,http://shyd.695847.xyz/cms001/ch00000090990000001308/index.m3u8?IAS
-戏曲精选,http://wouu.net:9977/udp/239.93.0.144:5140
 梨园频道,http://h.vanshun.com:8802/udp/239.49.8.193:8000
 梨园频道,http://nas.home.plugintool.top:2333/udp/239.76.252.179:9000
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
@@ -4252,4 +4252,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-05-27 09:56:17,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-27 23:36:07,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8

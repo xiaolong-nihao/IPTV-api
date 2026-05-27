@@ -1385,6 +1385,8 @@ rtmp://f13h.mine.nu/sat/tv071
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="台湾频道",华视
 rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="台湾频道",华视
+https://www.goodiptv.club/huya/23352525
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png" group-title="台湾频道",民视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/公视.png" group-title="台湾频道",公视
@@ -7259,8 +7261,6 @@ https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/1709780957602048364/mda-
 http://z.b.bkpcp.top/m.php?id=qcxj
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/七彩戏剧.png" group-title="戏曲频道",七彩戏剧
 http://shyd.695847.xyz/cms001/ch00000090990000001308/index.m3u8?IAS
-#EXTINF:-1 tvg-name="戏曲精选" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/戏曲精选.png" group-title="戏曲频道",戏曲精选
-http://wouu.net:9977/udp/239.93.0.144:5140
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园频道.png" group-title="戏曲频道",梨园频道
 http://h.vanshun.com:8802/udp/239.49.8.193:8000
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园频道.png" group-title="戏曲频道",梨园频道
@@ -8201,5 +8201,5 @@ http://iptv.666230.xyz/iptv/jsyd.php/R_CAIJING
 http://iptv.666230.xyz/iptv/jsyd.php/R_WENYI
 #EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻广播.png" group-title="广播电台",江苏新闻广播
 http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-27 09:56:17
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-27 23:36:07
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
