@@ -4081,6 +4081,7 @@ Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
 Warner TV,http://dreamdeu.sylu.net:8080/smt.php?id=WarnerTV
 
 马来西亚,#genre#
+8TV,http://cdn6.163189.xyz/163189/8tv
 Adithya,https://smt.858.qzz.io/Smart.php?id=Adithya
 Adithya,https://smt.go-iptv.ggff.net/smart.php?id=Adithya&token=Goiptv
 Adithya,http://jp.809899.xyz/smt.php?id=Adithya
@@ -4252,4 +4253,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-05-29 23:31:15,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-30 09:53:23,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
