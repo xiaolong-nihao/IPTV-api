@@ -1,7 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://18592.kstore.space/TVBox/gangaotai.txt
+
 https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
 https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/gatw0417.txt
 https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/zbdsj0515.txt
@@ -12,7 +12,6 @@ https://13035.kstore.space/url/歌曲.txt
 https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
 https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
 https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 http://rihou.cc:555/gggg.nzk
 http://rihou.cc:567/gggg.nzk
