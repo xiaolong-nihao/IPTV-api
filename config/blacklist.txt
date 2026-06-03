@@ -2,7 +2,7 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 
-
+live.264788.xyz/channel
 epg.pw
 skype.serv00.net
 iptv.yjxfz.com
