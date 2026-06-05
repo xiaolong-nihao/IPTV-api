@@ -457,6 +457,7 @@ CCTV中学生,http://nas.home.plugintool.top:2333/udp/239.76.254.27:9000
 
 儿童频道,#genre#
 山东少儿,http://www.cjtt.love:9307/udp/239.253.250.25:8000
+浙江少儿,https://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 嘉佳卡通,https://mgev.188766.xyz/?migutoken=7ae92b7be85b8073dbd52405601f94c4&id=gd_jjkt&type=sz
 嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=202511070800565a906b74f8a1482bbc8d87cad7838bfd&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20251107080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.90&SecurityKey=20251107080056&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=cdb63d5dcfbb643ae7b48a986b5fdb38&ddCalcu=8c3debb0d64f305db56d8c9fab8b46b473ea
 嘉佳卡通,http://rustdesk.szsun.xyz:8088/udp/239.77.0.179:5146
@@ -562,6 +563,7 @@ CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-34.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-32.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-38.ctv
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-33.ctv
 山东体育,http://www.cjtt.love:9307/udp/239.253.250.22:8000
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746292937&key=940b0f98a121c28884c74971efaac4de
@@ -980,6 +982,7 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-34.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-32.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-38.ctv
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-33.ctv
 广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
 深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen
 深圳卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225725/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -996,6 +999,7 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 汕头综合,https://gd202.tv1288.xyz/tsfile/live/1000_1.m3u8
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-6.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-3.ctv
+汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-9.ctv
 潮州综合,http://l2tp.yeedah.xyz:8000/udp/239.253.43.70:5146
 揭阳综合,https://gd.pl10000.top/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
@@ -1049,6 +1053,12 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 浙江卫视,https://live.chinacert.cftest5.cn/zgst/live/zhejiang
 浙江卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225731/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 浙江卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226690/1.m3u8
+浙江卫视,https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江经济生活,https://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+浙江民生休闲,https://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+浙江新闻,https://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+浙江少儿,https://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+浙江国际,https://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 杭州综合,http://goo.bkpcp.top/mg/hzzh
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-3.ctv
 杭州明珠,http://goo.bkpcp.top/mg/hzmz
@@ -1150,6 +1160,7 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-6.m3u8
 福建综合,http://www.731200.xyz:9999/rtp/239.255.40.148:8208
 福建综合,http://www.731200.xyz:9999/rtp/239.255.40.202:8208
+福建综合,https://stream1.freetv.fun/fu-jian-zong-he-5.m3u8
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-2.m3u8
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-6.m3u8
 福建新闻,http://www.731200.xyz:9999/rtp/239.255.40.151:8208
@@ -1191,8 +1202,10 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
 武汉教育,https://stream1.freetv.fun/wu-yi-jiao-yu-4.m3u8
 武汉教育,https://stream1.freetv.fun/wu-yi-jiao-yu-1.m3u8
+武汉教育,https://stream1.freetv.fun/wu-yi-jiao-yu-6.m3u8
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-3.m3u8
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-2.m3u8
+十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-4.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
@@ -1408,9 +1421,12 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 河北公共,http://tv.pull.hebtv.com:80/jishi/gonggongpindao.m3u8?t=1893427200&k=0b0e2c7cf0820ad8b22ae063511c4104
 石家庄娱乐,https://stream1.freetv.fun/shi-jia-zhuang-yu-le-7.ctv
 石家庄娱乐,https://stream1.freetv.fun/shi-jia-zhuang-yu-le-4.ctv
+石家庄娱乐,https://stream1.freetv.fun/shi-jia-zhuang-yu-le-9.ctv
 石家庄生活,https://stream1.freetv.fun/shi-jia-zhuang-sheng-huo-1.ctv
+石家庄生活,https://stream1.freetv.fun/shi-jia-zhuang-sheng-huo-7.ctv
 石家庄都市,https://stream1.freetv.fun/shi-jia-zhuang-du-shi-1.ctv
 石家庄都市,https://stream1.freetv.fun/shi-jia-zhuang-du-shi-6.ctv
+石家庄都市,https://stream1.freetv.fun/shi-jia-zhuang-du-shi-4.ctv
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 邯郸新闻,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
@@ -3975,4 +3991,4 @@ Warner TV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-06-04 23:27:54,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-06-05 09:50:38,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
