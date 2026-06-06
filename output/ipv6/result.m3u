@@ -1289,6 +1289,8 @@ https://tv.zubo.cc.cd/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8
 http://wouu.net:9977/rtp/239.93.1.10:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="香港频道",星空卫视
 https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="香港频道",星空卫视
+https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/有线新闻.png" group-title="香港频道",有线新闻
 https://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/Now新闻.png" group-title="香港频道",Now新闻
@@ -1945,6 +1947,8 @@ http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
 https://stream1.freetv.fun/jiang-men-zong-he-1.ctv
 #EXTINF:-1 tvg-name="江门综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江门综合.png" group-title="广东",江门综合
 https://stream1.freetv.fun/jiang-men-zong-he-7.ctv
+#EXTINF:-1 tvg-name="江门综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江门综合.png" group-title="广东",江门综合
+https://stream1.freetv.fun/jiang-men-zong-he-2.ctv
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="广东",汕头综合
 https://gd202.tv1288.xyz/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="广东",汕头综合
@@ -2291,10 +2295,14 @@ https://stream1.freetv.fun/fu-jian-shao-er-7.m3u8
 https://stream1.freetv.fun/fu-jian-shao-er-6.m3u8
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建少儿.png" group-title="福建",福建少儿
 http://www.731200.xyz:9999/rtp/239.255.40.156:8208
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建少儿.png" group-title="福建",福建少儿
+https://stream1.freetv.fun/fu-jian-shao-er-4.m3u8
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建电视剧.png" group-title="福建",福建电视剧
 http://www.731200.xyz:9999/rtp/239.255.40.152:8208
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建电视剧.png" group-title="福建",福建电视剧
 https://stream1.freetv.fun/fu-jian-dian-shi-ju-5.m3u8
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建电视剧.png" group-title="福建",福建电视剧
+https://stream1.freetv.fun/fu-jian-dian-shi-ju-4.m3u8
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建旅游.png" group-title="福建",福建旅游
 http://www.731200.xyz:9999/rtp/239.255.40.153:8208
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建旅游.png" group-title="福建",福建旅游
@@ -2345,6 +2353,8 @@ https://stream1.freetv.fun/hu-bei-gong-gong-5.ctv
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 #EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北影视.png" group-title="湖北",湖北影视
 https://stream1.freetv.fun/hu-bei-ying-shi-1.m3u8
+#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北影视.png" group-title="湖北",湖北影视
+https://stream1.freetv.fun/hu-bei-ying-shi-1.ctv
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北教育.png" group-title="湖北",湖北教育
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北生活.png" group-title="湖北",湖北生活
@@ -2783,6 +2793,8 @@ https://stream1.freetv.fun/shi-jia-zhuang-yu-le-7.ctv
 https://stream1.freetv.fun/shi-jia-zhuang-yu-le-4.ctv
 #EXTINF:-1 tvg-name="石家庄娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/石家庄娱乐.png" group-title="河北",石家庄娱乐
 https://stream1.freetv.fun/shi-jia-zhuang-yu-le-9.ctv
+#EXTINF:-1 tvg-name="石家庄娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/石家庄娱乐.png" group-title="河北",石家庄娱乐
+https://stream1.freetv.fun/shi-jia-zhuang-yu-le-6.ctv
 #EXTINF:-1 tvg-name="石家庄生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/石家庄生活.png" group-title="河北",石家庄生活
 https://stream1.freetv.fun/shi-jia-zhuang-sheng-huo-1.ctv
 #EXTINF:-1 tvg-name="石家庄生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/石家庄生活.png" group-title="河北",石家庄生活
@@ -3051,6 +3063,8 @@ http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/南宁公共.png" group-title="广西",南宁公共
 https://stream1.freetv.fun/nan-zhu-gong-gong-9.m3u8
+#EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/南宁公共.png" group-title="广西",南宁公共
+https://stream1.freetv.fun/nan-zhu-gong-gong-5.m3u8
 #EXTINF:-1 tvg-name="柳州新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/柳州新闻.png" group-title="广西",柳州新闻
 http://maoda.cc:9999/udp/239.81.0.134:4056
 #EXTINF:-1 tvg-name="桂林新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/桂林新闻.png" group-title="广西",桂林新闻
@@ -7755,5 +7769,5 @@ http://iptv.666230.xyz/iptv/jsyd.php/R_CAIJING
 http://iptv.666230.xyz/iptv/jsyd.php/R_WENYI
 #EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻广播.png" group-title="广播电台",江苏新闻广播
 http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-05 23:22:21
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-06 09:50:42
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8

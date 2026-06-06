@@ -654,6 +654,7 @@ TVB Plus,https://tvb.go-iptv.ggff.net/stream/tvb/tvbplus/master.m3u8?u=caonima&p
 美亚电视剧台,https://tv.zubo.cc.cd/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
+星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 有线新闻,https://cdn.163189.xyz/163189/hoy78
 Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,https://cdn.163189.xyz/163189/now
@@ -1000,6 +1001,7 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 中山综合,http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-1.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-7.ctv
+江门综合,https://stream1.freetv.fun/jiang-men-zong-he-2.ctv
 汕头综合,https://gd202.tv1288.xyz/tsfile/live/1000_1.m3u8
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-6.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-3.ctv
@@ -1181,8 +1183,10 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 福建少儿,https://stream1.freetv.fun/fu-jian-shao-er-7.m3u8
 福建少儿,https://stream1.freetv.fun/fu-jian-shao-er-6.m3u8
 福建少儿,http://www.731200.xyz:9999/rtp/239.255.40.156:8208
+福建少儿,https://stream1.freetv.fun/fu-jian-shao-er-4.m3u8
 福建电视剧,http://www.731200.xyz:9999/rtp/239.255.40.152:8208
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-5.m3u8
+福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-4.m3u8
 福建旅游,http://www.731200.xyz:9999/rtp/239.255.40.153:8208
 福建旅游,http://www.731200.xyz:9999/rtp/239.255.40.150:8208
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
@@ -1210,6 +1214,7 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-5.ctv
 湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-1.m3u8
+湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-1.ctv
 湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 湖北生活,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
 湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
@@ -1439,6 +1444,7 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 石家庄娱乐,https://stream1.freetv.fun/shi-jia-zhuang-yu-le-7.ctv
 石家庄娱乐,https://stream1.freetv.fun/shi-jia-zhuang-yu-le-4.ctv
 石家庄娱乐,https://stream1.freetv.fun/shi-jia-zhuang-yu-le-9.ctv
+石家庄娱乐,https://stream1.freetv.fun/shi-jia-zhuang-yu-le-6.ctv
 石家庄生活,https://stream1.freetv.fun/shi-jia-zhuang-sheng-huo-1.ctv
 石家庄生活,https://stream1.freetv.fun/shi-jia-zhuang-sheng-huo-7.ctv
 石家庄生活,https://stream1.freetv.fun/shi-jia-zhuang-sheng-huo-2.ctv
@@ -1581,6 +1587,7 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae
 南宁公共,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-9.m3u8
+南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-5.m3u8
 柳州新闻,http://maoda.cc:9999/udp/239.81.0.134:4056
 桂林新闻,http://maoda.cc:9999/udp/239.81.0.135:4056
 北海新闻,http://maoda.cc:9999/udp/239.81.0.136:4056
@@ -4029,4 +4036,4 @@ Warner TV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-06-05 23:22:21,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-06-06 09:50:42,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
