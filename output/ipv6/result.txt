@@ -1498,7 +1498,6 @@ Animax,https://stream1.freetv.fun/animax-1.m3u8
 河南戏曲,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226668/1.m3u8
 河南戏曲,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226687/1.m3u8
 郑州新闻,https://tv1288.xyz/hntv.php?id=zz1
-开封新闻,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
 开封新闻,https://tv1288.xyz/hntv.php?id=kf1
 开封新闻,https://stream1.freetv.fun/kai-feng-xin-wen-zong-he-2.m3u8
 开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend,
@@ -1732,6 +1731,10 @@ Animax,https://stream1.freetv.fun/animax-1.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+承德新闻,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+承德新闻,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
+承德公共,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+承德公共,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/zb/rqtv1/1500k/tzwj_video.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
@@ -4465,6 +4468,7 @@ Warner TV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV
 广东音乐之声,http://cdn2.163189.xyz/163189/gdty
 广东音乐之声,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东音乐之声,http://gxyd.484947.xyz/PLTV/77777777/224/3221225666/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+广东音乐之声,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 广西音乐广播,https://live.chinacert.cftest5.cn/zgst/live/guangxi
 广西音乐广播,http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 广西音乐广播,http://gxyd.484947.xyz/PLTV/77777777/224/3221225767/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -4569,6 +4573,7 @@ Warner TV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV
 广东新闻广播,http://cdn2.163189.xyz/163189/gdty
 广东新闻广播,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东新闻广播,http://gxyd.484947.xyz/PLTV/77777777/224/3221225666/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+广东新闻广播,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 第一财经广播,https://stream1.freetv.fun/di-yi-cai-jing-13.m3u8
 第一财经广播,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-8.m3u8
 湖南经济广播,https://live.chinacert.cftest5.cn/zgst/live/hunan
@@ -4591,18 +4596,22 @@ Warner TV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV
 广东南粤之声,http://cdn2.163189.xyz/163189/gdty
 广东南粤之声,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东南粤之声,http://gxyd.484947.xyz/PLTV/77777777/224/3221225666/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+广东南粤之声,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 广东城市之声,http://cdn2.163189.xyz/163189/gdzj
 广东城市之声,http://cdn2.163189.xyz/163189/gdty
 广东城市之声,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东城市之声,http://gxyd.484947.xyz/PLTV/77777777/224/3221225666/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+广东城市之声,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 广东文体广播,http://cdn2.163189.xyz/163189/gdzj
 广东文体广播,http://cdn2.163189.xyz/163189/gdty
 广东文体广播,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东文体广播,http://gxyd.484947.xyz/PLTV/77777777/224/3221225666/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+广东文体广播,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 广东股市广播,http://cdn2.163189.xyz/163189/gdzj
 广东股市广播,http://cdn2.163189.xyz/163189/gdty
 广东股市广播,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东股市广播,http://gxyd.484947.xyz/PLTV/77777777/224/3221225666/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+广东股市广播,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 青海交通音乐,https://live.chinacert.cftest5.cn/zgst/live/qinghai
 青海交通音乐,http://gxyd.484947.xyz/PLTV/77777777/224/3221225705/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 青海交通音乐,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226696/1.m3u8
@@ -5089,4 +5098,4 @@ Warner TV,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV
 山东交通广播,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 
 🕘️更新时间,#genre#
-2026-06-07 22:33:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-06-08 09:46:15,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
