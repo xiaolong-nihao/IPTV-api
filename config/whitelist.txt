@@ -13,44 +13,6 @@
 
 
 
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯$!
-
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/$!
-翡翠台,http://r.jdshipin.com/qrfbg$!
-华丽翡翠台,http://r.jdshipin.com/thuYX$!
-华丽翡翠台,http://rihou.cc:555/tv/[Pd]无线华丽$!
-明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026$!
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/$!
-明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$!
-TVB星河,http://r.jdshipin.com/sXuuD$!
-TVB plus,http://o11.163189.xyz/stream/tvb/tvbp/$!
-TVB plus,http://67.220.71.199:2347/livehttpplay?channel_id=30023$!
-TVB plus,http://r.jdshipin.com/Nr5jq$!
-
-美亚电影,https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya$!
-美亚电视台,https://tv.zubo.cc.cd/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8$!
-
-
-
-
-
-
-民视,rtmp://f13h.mine.nu/sat/tv051$!
-台视,rtmp://f13h.mine.nu/sat/tv071$!
-中视,rtmp://f13h.mine.nu/sat/tv091$!
-华视,rtmp://f13h.mine.nu/sat/tv111$!
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581$!
-东森超视,rtmp://f13h.mine.nu/sat/tv331$!
-纬来体育,rtmp://f13h.mine.nu/sat/tv721$!
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701$!
-纬来日本,rtmp://f13h.mine.nu/sat/tv771$!
-MOMO综合,rtmp://f13h.mine.nu/sat/tv761$!
-DAZN体育1,rtmp://f13h.mine.nu/sat/tv731$!
-DAZN体育2,rtmp://f13h.mine.nu/sat/tv741$!
-ELTA体育3,rtmp://9hv9.mine.nu/sat/md011$!
-ELTA体育4,rtmp://9hv9.mine.nu/sat/md021$!
-
-
 王者荣耀,https://live.ottiptv.cc/huya/660002$!
 英雄联盟,https://live.ottiptv.cc/huya/660000$!
 和平精英,https://live.ottiptv.cc/huya/660006$!
