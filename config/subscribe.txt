@@ -1,7 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-
+https://18592.kstore.space/TVBox/tvzb.txt
 # https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
 # https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/gatw0417.txt
 # https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/zbdsj0515.txt
