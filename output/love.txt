@@ -187,9 +187,9 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 电影频道,#genre#
 周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
 周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+周星驰,https://isus.cc/php/huya.php?id=11342412
+周星驰,https://isus.cc/php/huya.php?id=11342412
 周星驰,http://8.155.43.98:35455/huya/11342412
-周星驰,https://isus.cc/php/huya.php?id=11342412
-周星驰,https://isus.cc/php/huya.php?id=11342412
 刘德华,https://isus.cc/php/huya.php?id=11342424
 成龙,https://isus.cc/php/huya.php?id=11342386
 林正英,https://isus.cc/php/huya.php?id=11342421
@@ -316,6 +316,7 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 阅兵合集,#genre#
 9月3号阅兵回放,https://vd3.bdstatic.com/mda-ri283wyxe135szm5/576p/h264/1756880513304056354/mda-ri283wyxe135szm5.mp4
 9月3号阅兵回放,https://vd3.bdstatic.com/mda-ri2b90is4f6p4shy/cae_h264/1756888200825139529/mda-ri2b90is4f6p4shy.mp4
+阅兵装备详解,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bc3d97bc5b9e4f037001991f54f4f9_258.mp4
 阅兵装备详解,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bc3d97bc5b9e4f037001991f54f4f9_258.mp4
 朝鲜视角阅兵,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8be81aabc2e7a4f03700199282ce8e4_258.mp4
 
@@ -2010,9 +2011,8 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 开心麻花小品,http://cdn.jdshipin.com:8880/douyu.php?id=10153463
 宋小宝小品,http://cdn.jdshipin.com:8880/douyu.php?id=9817729
 许君聪小品,http://cdn.jdshipin.com:8880/douyu.php?id=10419558
-巩汉林小品,http://allinone.netsite.cc/yy/1354889035
-巩汉林小品,http://allinone.netsite.cc/yy/1354889035
 巩汉林小品,http://cdn.jdshipin.com:8880/yy.php?id=1354889035
+贾玲小品,http://allinone.netsite.cc/douyu/10419541
 贾玲小品,http://allinone.netsite.cc/douyu/10419541
 贾玲小品,http://cdn.jdshipin.com:8880/douyu.php?id=10419541
 春晚经典,http://allinone.netsite.cc/huya/11602068
@@ -2859,4 +2859,4 @@ tvN Movies,http://217.26.190.76:8888/play/a0m6/index.m3u8
 新加坡CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
 
 🕘️更新时间,#genre#
-2026-06-09 20:38:19,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-09 21:09:46,https://live.chinacert.cftest5.cn/cnmg/live/608807420
