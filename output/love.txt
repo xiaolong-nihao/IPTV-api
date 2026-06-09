@@ -68,6 +68,8 @@ TVB Plus,http://r.jdshipin.com/Nr5jq
 翡翠一台,https://mytv.cdn.loc.cc/o12.php?id=fct
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 有线新闻,https://cdn.163189.xyz/163189/hoy78
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,http://cdn.163189.xyz/163189/now
@@ -162,8 +164,7 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 龙华日韩台,http://cdn8.163189.xyz/163189/lhrh
 龙华洋片台,https://cdn8.163189.xyz/163189/lhyp
 龙华洋片台,http://cdn8.163189.xyz/163189/lhyp
-HBO,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
-HBO,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
@@ -315,7 +316,6 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 阅兵合集,#genre#
 9月3号阅兵回放,https://vd3.bdstatic.com/mda-ri283wyxe135szm5/576p/h264/1756880513304056354/mda-ri283wyxe135szm5.mp4
 9月3号阅兵回放,https://vd3.bdstatic.com/mda-ri2b90is4f6p4shy/cae_h264/1756888200825139529/mda-ri2b90is4f6p4shy.mp4
-阅兵装备详解,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bc3d97bc5b9e4f037001991f54f4f9_258.mp4
 阅兵装备详解,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bc3d97bc5b9e4f037001991f54f4f9_258.mp4
 朝鲜视角阅兵,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8be81aabc2e7a4f03700199282ce8e4_258.mp4
 
@@ -2009,9 +2009,8 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 赵本山小品,http://cdn.jdshipin.com:8880/douyu.php?id=9817716
 开心麻花小品,http://cdn.jdshipin.com:8880/douyu.php?id=10153463
 宋小宝小品,http://cdn.jdshipin.com:8880/douyu.php?id=9817729
-许君聪小品,http://allinone.netsite.cc/douyu/10419558
-许君聪小品,http://allinone.netsite.cc/douyu/10419558
 许君聪小品,http://cdn.jdshipin.com:8880/douyu.php?id=10419558
+巩汉林小品,http://allinone.netsite.cc/yy/1354889035
 巩汉林小品,http://allinone.netsite.cc/yy/1354889035
 巩汉林小品,http://cdn.jdshipin.com:8880/yy.php?id=1354889035
 贾玲小品,http://allinone.netsite.cc/douyu/10419541
@@ -2475,19 +2474,12 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 美国频道,#genre#
 需要魔法才稳定,https://wp.23zo.cn/f/YP9fx/6h.mp4
 需要魔法才稳定,https://wp.23zo.cn/f/YP9fx/6h.mp4
-HBO East HD,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO East HD,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-HBO,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-HBO 2 (A),http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO 2 (A),http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-HBO Comedy (East),http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Comedy (East),http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-HBO Family (East),http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Family (East),http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-HBO SIGNATURE (East),http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO SIGNATURE (East),http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-HBO Zone (East),http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Zone (East),http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 
 法国频道,#genre#
@@ -2633,11 +2625,8 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 马来西亚,#genre#
 需要魔法才稳定,https://wp.23zo.cn/f/YP9fx/6h.mp4
 DW,https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
-HBO Family,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Family,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-HBO Hits,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Hits,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-HBO Signature,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Signature,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 TVB Jade,https://mytv.cdn.loc.cc/o12.php?id=fct
 TVB Jade,https://o11.163189.xyz/stream/tvb/fct4k/
@@ -2870,4 +2859,4 @@ tvN Movies,http://217.26.190.76:8888/play/a0m6/index.m3u8
 新加坡CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
 
 🕘️更新时间,#genre#
-2026-06-09 07:14:51,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-09 20:38:19,https://live.chinacert.cftest5.cn/cnmg/live/608807420
