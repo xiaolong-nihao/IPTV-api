@@ -25,6 +25,26 @@ def get_source_requests(url, data=None, proxy=None, timeout=30):
                 )
             else:
                 response = session.get(url, headers=headers, proxies=proxies, timeout=timeout)
+        
+        # ========== 编码修复（使用 requests 自带的 apparent_encoding）==========
+        # 自动检测真实编码
+        detected_encoding = response.apparent_encoding
+        print(f"🔍 自动检测到编码: {detected_encoding} for {url}")
+        
+        # 用检测到的编码重新解码
+        raw_content = response.content
+        try:
+            fixed_text = raw_content.decode(detected_encoding)
+        except (UnicodeDecodeError, LookupError):
+            # 失败则回退到 utf-8
+            print(f"⚠️ 解码失败，回退到 utf-8 for {url}")
+            fixed_text = raw_content.decode('utf-8', errors='ignore')
+        
+        # 替换 response 的 text 属性
+        response._text = fixed_text
+        response.encoding = detected_encoding if detected_encoding else 'utf-8'
+        # ========== 修复结束 ==========
+        
     except requests.RequestException:
         return ""
     source = re.sub(
