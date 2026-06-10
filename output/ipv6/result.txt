@@ -8,6 +8,8 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 海峡卫视,https://cdn3.163189.xyz/163189/hxws
 
+高清频道,#genre#
+
 儿童频道,#genre#
 
 体育频道,#genre#
@@ -1681,4 +1683,4 @@ TVB Jade,https://6.cdn.loc.cc/163189.php?id=j1
 台湾98新闻,http://stream.rcs.revma.com/55tyxsy4qtzuv.m3u8
 
 🕘️更新时间,#genre#
-2026-06-11 00:43:44,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-11 07:27:19,https://live.chinacert.cftest5.cn/cnmg/live/608807420
