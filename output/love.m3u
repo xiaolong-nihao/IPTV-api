@@ -218,15 +218,15 @@ https://smt.1678520.xyz/163189/602e9465658d4f8c
 #EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧台.png" group-title="台湾频道",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/人间卫视.png" group-title="台湾频道",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/人间卫视.png" group-title="台湾频道",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/人间卫视.png" group-title="台湾频道",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/人间卫视.png" group-title="台湾频道",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/人间卫视.png" group-title="台湾频道",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/人间卫视.png" group-title="台湾频道",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/人间卫视.png" group-title="台湾频道",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="龙华电影台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影台.png" group-title="台湾频道",龙华电影台
 https://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-name="龙华电影台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影台.png" group-title="台湾频道",龙华电影台
@@ -290,11 +290,11 @@ http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="电影频道",周星驰
 http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="电影频道",周星驰
+https://isus.cc/php/huya.php?id=11342412
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="电影频道",周星驰
+https://isus.cc/php/huya.php?id=11342412
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="电影频道",周星驰
 http://8.155.43.98:35455/huya/11342412
-#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="电影频道",周星驰
-https://isus.cc/php/huya.php?id=11342412
-#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="电影频道",周星驰
-https://isus.cc/php/huya.php?id=11342412
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/刘德华.png" group-title="电影频道",刘德华
 https://isus.cc/php/huya.php?id=11342424
 #EXTINF:-1 tvg-name="成龙" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png" group-title="电影频道",成龙
@@ -385,6 +385,8 @@ https://cdn3.163189.xyz/163189/hxws
 https://vd3.bdstatic.com/mda-ri283wyxe135szm5/576p/h264/1756880513304056354/mda-ri283wyxe135szm5.mp4
 #EXTINF:-1 tvg-name="9月3号阅兵回放" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/9月3号阅兵回放.png" group-title="阅兵合集",9月3号阅兵回放
 https://vd3.bdstatic.com/mda-ri2b90is4f6p4shy/cae_h264/1756888200825139529/mda-ri2b90is4f6p4shy.mp4
+#EXTINF:-1 tvg-name="阅兵装备详解" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/阅兵装备详解.png" group-title="阅兵合集",阅兵装备详解
+https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bc3d97bc5b9e4f037001991f54f4f9_258.mp4
 #EXTINF:-1 tvg-name="阅兵装备详解" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/阅兵装备详解.png" group-title="阅兵合集",阅兵装备详解
 https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bc3d97bc5b9e4f037001991f54f4f9_258.mp4
 #EXTINF:-1 tvg-name="朝鲜视角阅兵" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/朝鲜视角阅兵.png" group-title="阅兵合集",朝鲜视角阅兵
@@ -2573,8 +2575,6 @@ https://vdse.bdstatic.com//fa0ed7ad8657cc4d13972c3d9aa5ddbf.mp4
 https://txmov2.a.kwimgs.com/bs3/video-hls/5243315968452106222_hlsb.m3u8
 #EXTINF:-1 tvg-name="人不可貌相dj" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/人不可貌相dj.png" group-title="音乐频道",人不可貌相dj
 https://jsmov2.a.yximgs.com/upic/2023/04/25/23/BMjAyMzA0MjUyMzE0MzJfMjQ4MTA5ODU2NF8xMDE0ODIyMTU0OTNfMF8z_b_B46c6653392a9bc350cf5cbde7bdc66c8.mp4
-#EXTINF:-1 tvg-name="人不可貌相dj" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/人不可貌相dj.png" group-title="音乐频道",人不可貌相dj
-https://jsmov2.a.yximgs.com/upic/2023/04/25/23/BMjAyMzA0MjUyMzE0MzJfMjQ4MTA5ODU2NF8xMDE0ODIyMTU0OTNfMF8z_b_B46c6653392a9bc350cf5cbde7bdc66c8.mp4
 #EXTINF:-1 tvg-name="人世间走一回" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/人世间走一回.png" group-title="音乐频道",人世间走一回
 https://vd4.bdstatic.com/mda-nmbgkraen7gak8pt/sc/cae_h264/1670845819054513601/mda-nmbgkraen7gak8pt.mp4
 #EXTINF:-1 tvg-name="人生没有回头路" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/人生没有回头路.png" group-title="音乐频道",人生没有回头路
@@ -3193,8 +3193,6 @@ https://vd4.bdstatic.com/mda-pdi1yskmcypvtfmc/1080p/cae_h264/1681870271060006908
 https://vdse.bdstatic.com//e179fea2ba171a7268188a055702229d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A18%3A42Z%2F-1%2Fhost%2F84badc350a20f1dfe035e91408acfe7e4b1e69fe262f4faaa5ca3af837e1592b
 #EXTINF:-1 tvg-name="黄凯芹相爱很难" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄凯芹相爱很难.png" group-title="音乐频道",黄凯芹相爱很难
 http://vodcdn.video.taobao.com/oss/ali-video/11b6273898b6a1b1da34e646264cd036/video.m3u8
-#EXTINF:-1 tvg-name="黄家驹岁月无声" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄家驹岁月无声.png" group-title="音乐频道",黄家驹岁月无声
-http://jsmov2.a.yximgs.com/upic/2023/04/12/00/BMjAyMzA0MTIwMDA3MDFfMTY5MzMwMjIyNl8xMDAzOTE1NDY5NzNfMl8z_b_B47a770766e6b433a1383df6a7bd37b2a.mp4
 #EXTINF:-1 tvg-name="黄家驹岁月无声" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄家驹岁月无声.png" group-title="音乐频道",黄家驹岁月无声
 http://jsmov2.a.yximgs.com/upic/2023/04/12/00/BMjAyMzA0MTIwMDA3MDFfMTY5MzMwMjIyNl8xMDAzOTE1NDY5NzNfMl8z_b_B47a770766e6b433a1383df6a7bd37b2a.mp4
 #EXTINF:-1 tvg-name="黄家驹旧日足迹" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄家驹旧日足迹.png" group-title="音乐频道",黄家驹旧日足迹
@@ -5321,5 +5319,5 @@ https://22393.live.streamtheworld.com/YES933_PREM.aac
 https://22393.live.streamtheworld.com/YES933_PREM.aac
 #EXTINF:-1 tvg-name="新加坡CNA 938" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/新加坡CNA 938.png" group-title="广播电台",新加坡CNA 938
 https://14033.live.streamtheworld.com/938NOW_PREM.aac
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-10 23:17:44
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-11 00:43:44
 https://live.chinacert.cftest5.cn/cnmg/live/608807420

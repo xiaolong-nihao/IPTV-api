@@ -120,11 +120,11 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 龙华电影台,https://cdn8.163189.xyz/163189/lhdy
 龙华电影台,http://cdn8.163189.xyz/163189/lhdy
 龙华戏剧台,https://cdn8.163189.xyz/163189/lhxj
@@ -160,9 +160,9 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 电影频道,#genre#
 周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
 周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+周星驰,https://isus.cc/php/huya.php?id=11342412
+周星驰,https://isus.cc/php/huya.php?id=11342412
 周星驰,http://8.155.43.98:35455/huya/11342412
-周星驰,https://isus.cc/php/huya.php?id=11342412
-周星驰,https://isus.cc/php/huya.php?id=11342412
 刘德华,https://isus.cc/php/huya.php?id=11342424
 成龙,https://isus.cc/php/huya.php?id=11342386
 林正英,https://isus.cc/php/huya.php?id=11342421
@@ -274,6 +274,7 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 阅兵合集,#genre#
 9月3号阅兵回放,https://vd3.bdstatic.com/mda-ri283wyxe135szm5/576p/h264/1756880513304056354/mda-ri283wyxe135szm5.mp4
 9月3号阅兵回放,https://vd3.bdstatic.com/mda-ri2b90is4f6p4shy/cae_h264/1756888200825139529/mda-ri2b90is4f6p4shy.mp4
+阅兵装备详解,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bc3d97bc5b9e4f037001991f54f4f9_258.mp4
 阅兵装备详解,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bc3d97bc5b9e4f037001991f54f4f9_258.mp4
 朝鲜视角阅兵,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8be81aabc2e7a4f03700199282ce8e4_258.mp4
 
@@ -1388,7 +1389,6 @@ dj舞曲金典,https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456
 云朵刀郎孙露张雨生等经典怀旧歌曲6首,https://vdse.bdstatic.com//fa0ed7ad8657cc4d13972c3d9aa5ddbf.mp4
 亲爱的不能没有你,https://txmov2.a.kwimgs.com/bs3/video-hls/5243315968452106222_hlsb.m3u8
 人不可貌相dj,https://jsmov2.a.yximgs.com/upic/2023/04/25/23/BMjAyMzA0MjUyMzE0MzJfMjQ4MTA5ODU2NF8xMDE0ODIyMTU0OTNfMF8z_b_B46c6653392a9bc350cf5cbde7bdc66c8.mp4
-人不可貌相dj,https://jsmov2.a.yximgs.com/upic/2023/04/25/23/BMjAyMzA0MjUyMzE0MzJfMjQ4MTA5ODU2NF8xMDE0ODIyMTU0OTNfMF8z_b_B46c6653392a9bc350cf5cbde7bdc66c8.mp4
 人世间走一回,https://vd4.bdstatic.com/mda-nmbgkraen7gak8pt/sc/cae_h264/1670845819054513601/mda-nmbgkraen7gak8pt.mp4
 人生没有回头路,https://vd3.bdstatic.com/mda-nju6xz3npn63s197/576p/h264/1667019653413448151/mda-nju6xz3npn63s197.mp4
 人生的第一步,https://vd1.bdstatic.com/mda-hj3j627k0yf2ycbr/vs-10823507f6723f1b8f49bff37417885d-watermark/hd/mda-hj3j627k0yf2ycbr.mp4
@@ -1698,7 +1698,6 @@ DJ视频5,https://vd4.bdstatic.com/mda-mkj6mgsuic4gdknp/sc/cae_h264/163738367794
 高音质小姐姐火辣热舞,https://vd4.bdstatic.com/mda-pdi1yskmcypvtfmc/1080p/cae_h264/1681870271060006908/mda-pdi1yskmcypvtfmc.mp4
 魏新雨恋人心,https://vdse.bdstatic.com//e179fea2ba171a7268188a055702229d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A18%3A42Z%2F-1%2Fhost%2F84badc350a20f1dfe035e91408acfe7e4b1e69fe262f4faaa5ca3af837e1592b
 黄凯芹相爱很难,http://vodcdn.video.taobao.com/oss/ali-video/11b6273898b6a1b1da34e646264cd036/video.m3u8
-黄家驹岁月无声,http://jsmov2.a.yximgs.com/upic/2023/04/12/00/BMjAyMzA0MTIwMDA3MDFfMTY5MzMwMjIyNl8xMDAzOTE1NDY5NzNfMl8z_b_B47a770766e6b433a1383df6a7bd37b2a.mp4
 黄家驹岁月无声,http://jsmov2.a.yximgs.com/upic/2023/04/12/00/BMjAyMzA0MTIwMDA3MDFfMTY5MzMwMjIyNl8xMDAzOTE1NDY5NzNfMl8z_b_B47a770766e6b433a1383df6a7bd37b2a.mp4
 黄家驹旧日足迹,http://vd3.bdstatic.com/mda-pd937qr12ydtm6k3/hd/bd265_cae_visr_v5/1681103756453188020/mda-pd937qr12ydtm6k3.mp4
 
@@ -2806,4 +2805,4 @@ tvN Movies,http://217.26.190.76:8888/play/a0m6/index.m3u8
 新加坡CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
 
 🕘️更新时间,#genre#
-2026-06-10 23:17:44,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-11 00:43:44,https://live.chinacert.cftest5.cn/cnmg/live/608807420
