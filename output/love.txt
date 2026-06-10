@@ -7,8 +7,6 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 卫视频道,#genre#
 山东卫视,http://39.77.163.179:4002/rtp/239.253.254.78:8000
 山东卫视,http://39.77.163.179:4002/rtp/239.253.254.78:8000
-山东卫视,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
-山东卫视,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 海峡卫视,https://cdn3.163189.xyz/163189/hxws
 
@@ -37,21 +35,27 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,https://cdn6.163189.xyz/163189/mzt
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
+TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVB Plus,https://tvb.go-iptv.ggff.net/stream/tvb/tvbplus/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,https://cdn6.163189.xyz/163189/tvbp
-TVB Plus,http://r.jdshipin.com/Nr5jq
 华丽翡翠台,https://cdn6.163189.xyz/163189/jade
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
 华丽翡翠台,http://r.jdshipin.com/thuYX
+无线新闻台,http://rihou.cc:555/tv/[Pd]无线新闻
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
 无线新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
 无线新闻台,https://cdn6.163189.xyz/163189/wxxwt
 无线新闻台,http://r.jdshipin.com/CkuBd
+无线高清翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 无线高清翡翠台,https://cdn6.163189.xyz/163189/fct
+无线华丽台,http://rihou.cc:555/tv/[Pd]无线华丽
 无线华丽台,https://cdn6.163189.xyz/163189/hlfct
+无线功夫台,http://rihou.cc:555/tv/[Pd]无线功夫
 无线功夫台,https://cdn6.163189.xyz/163189/yzwx
+无线星河台,http://rihou.cc:555/tv/[Pd]无线星河
 无线星河台,https://cdn6.163189.xyz/163189/tvbxh
 星河台,https://o11.163189.xyz/stream/live/tvbxh/
 翡翠一台,https://mytv.cdn.loc.cc/o12.php?id=fct
@@ -64,9 +68,13 @@ Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,http://cdn.163189.xyz/163189/now
 HOY TV,https://cdn6.163189.xyz/163189/hoy
 HOY TV,https://cdn.163189.xyz/163189/hoy
+HOY 77,http://rihou.cc:555/tv/[Cx]æçº¿ç»¼å
+HOY 77,http://rihou.cc:555/tv/[Pd]æçº¿ç»¼å
+HOY 77,http://rihou.cc:555/tv/[Cx]有线综合
+HOY 77,http://rihou.cc:555/tv/[Pd]有线综合
 HOY 77,https://cdn6.163189.xyz/163189/hoy
-HOY 77,http://cdn.163189.xyz/163189/hoy
-HOY 77,http://r.jdshipin.com/sFw4S
+HOY 78,http://rihou.cc:555/tv/[Pd]æçº¿æ°é»
+HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
 HOY 78,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY 78,https://cdn.163189.xyz/163189/hoy78
 ViuTV,https://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
@@ -82,18 +90,23 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
 
 澳门频道,#genre#
+澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
 澳视澳门,https://cdn6.163189.xyz/163189/asam
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳视澳门,http://cdn6.163189.xyz/163189/asam
+澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
 澳视卫星,https://cdn6.163189.xyz/163189/as
 澳视卫星,http://r.jdshipin.com/QFhCq
 澳视卫星,http://cdn6.163189.xyz/163189/as
 澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
 澳门体育,https://cdn6.163189.xyz/163189/amty
 澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
 澳门综艺,https://cdn6.163189.xyz/163189/amzy
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
+澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
 澳门莲花,https://cdn6.163189.xyz/163189/amlh
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 澳门莲花,http://cdn6.163189.xyz/163189/amlh
@@ -127,19 +140,25 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+龙华电影台,http://rihou.cc:555/tv/[Pd]龙华电影
 龙华电影台,https://cdn8.163189.xyz/163189/lhdy
 龙华电影台,http://cdn8.163189.xyz/163189/lhdy
+龙华戏剧台,http://rihou.cc:555/tv/[Pd]龙华戏剧
 龙华戏剧台,https://cdn8.163189.xyz/163189/lhxj
 龙华戏剧台,http://cdn8.163189.xyz/163189/lhxj
+龙华经典台,http://rihou.cc:555/tv/[Pd]龙华经典
 龙华经典台,https://cdn8.163189.xyz/163189/lhjd
 龙华经典台,http://cdn8.163189.xyz/163189/lhjd
+龙华偶像台,http://rihou.cc:555/tv/[Pd]龙华偶像
 龙华偶像台,https://cdn8.163189.xyz/163189/lhox
 龙华偶像台,http://cdn8.163189.xyz/163189/lhox
+龙华日韩台,http://rihou.cc:555/tv/[Pd]龙华日韩
 龙华日韩台,https://cdn8.163189.xyz/163189/lhrh
 龙华日韩台,http://cdn8.163189.xyz/163189/lhrh
 龙华洋片台,https://cdn8.163189.xyz/163189/lhyp
 龙华洋片台,http://cdn8.163189.xyz/163189/lhyp
-HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
@@ -160,11 +179,11 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 粤语综艺轮播,http://8.155.43.98:35455/douyu/7919720
 
 电影频道,#genre#
+周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
 周星驰,https://isus.cc/php/huya.php?id=11342412
 周星驰,https://isus.cc/php/huya.php?id=11342412
 周星驰,http://8.155.43.98:35455/huya/11342412
-周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
-周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
 刘德华,https://isus.cc/php/huya.php?id=11342424
 成龙,https://isus.cc/php/huya.php?id=11342386
 林正英,https://isus.cc/php/huya.php?id=11342421
@@ -197,7 +216,6 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 山东,#genre#
 山东卫视,http://39.77.163.179:4002/rtp/239.253.254.78:8000
-山东卫视,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 山东齐鲁,http://39.77.163.179:4002/rtp/239.253.254.114:8000
 山东综艺,http://39.77.163.179:4002/rtp/239.253.254.159:8000
 山东生活,http://39.77.163.179:4002/rtp/239.253.254.151:8000
@@ -2298,12 +2316,19 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 美国频道,#genre#
 需要魔法才稳定,https://wp.23zo.cn/f/YP9fx/6h.mp4
 需要魔法才稳定,https://wp.23zo.cn/f/YP9fx/6h.mp4
+HBO East HD,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO East HD,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO 2 (A),http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO 2 (A),http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO Comedy (East),http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Comedy (East),http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO Family (East),http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Family (East),http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO SIGNATURE (East),http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO SIGNATURE (East),http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO Zone (East),http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Zone (East),http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 
 法国频道,#genre#
@@ -2449,8 +2474,11 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 马来西亚,#genre#
 需要魔法才稳定,https://wp.23zo.cn/f/YP9fx/6h.mp4
 DW,https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+HBO Family,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Family,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO Hits,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Hits,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO Signature,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO Signature,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 TVB Jade,https://mytv.cdn.loc.cc/o12.php?id=fct
 TVB Jade,https://o11.163189.xyz/stream/tvb/fct4k/
@@ -2674,4 +2702,4 @@ tvN Movies,http://217.26.190.76:8888/play/a0m6/index.m3u8
 新加坡CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
 
 🕘️更新时间,#genre#
-2026-06-10 07:19:49,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-10 20:58:38,https://live.chinacert.cftest5.cn/cnmg/live/608807420

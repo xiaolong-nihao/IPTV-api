@@ -1681,4 +1681,4 @@ TVB Jade,https://6.cdn.loc.cc/163189.php?id=j1
 台湾98新闻,http://stream.rcs.revma.com/55tyxsy4qtzuv.m3u8
 
 🕘️更新时间,#genre#
-2026-06-10 07:19:49,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-10 20:58:39,https://live.chinacert.cftest5.cn/cnmg/live/608807420
