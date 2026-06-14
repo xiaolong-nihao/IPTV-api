@@ -24,6 +24,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#http://tvbox6.icu/tv/migu.ph
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://live.chinacert.cftest5.cn/cnmg/live/609006446
@@ -131,6 +132,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 儿童频道,#genre#
 浙江少儿,https://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
 
 体育频道,#genre#
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
@@ -309,6 +311,7 @@ Animax,https://stream1.freetv.fun/animax-1.m3u8
 贺岁合家欢剧场,https://live.metshop.top/huya/11602067
 历年贺岁档,https://live.metshop.top/huya/11601986
 猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
 
 游戏赛事,#genre#
 英雄联盟,https://live.ottiptv.cc/huya/660000
@@ -603,6 +606,10 @@ Animax,https://stream1.freetv.fun/animax-1.m3u8
 邢台城市生活,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台城市生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 邢台城市生活,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+承德新闻,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+承德新闻,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
+承德公共,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+承德公共,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 南和综合,https://jwcdnqx.hebyun.com.cn/live/NHTV1/1500k/tzwj_video.m3u8
 
@@ -2270,6 +2277,7 @@ CNN,https://jmp2.uk/stvp-ATBD800001VA
 法国频道,#genre#
 ARIRANG TV,https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 BET,https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
+BET,https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
 
 德国频道,#genre#
 
@@ -2753,4 +2761,4 @@ tvN Movies,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=1
 山东交通广播,http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
 
 🕘️更新时间,#genre#
-2026-06-13 18:49:46,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-14 19:08:46,https://live.chinacert.cftest5.cn/cnmg/live/608807420
