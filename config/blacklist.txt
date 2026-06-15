@@ -12,6 +12,11 @@ http://rihou.cc:555/tv/[Uk]
 http://rihou.cc:555/tv/[Us]
 http://rihou.cc:555/tv/[Hv]
 http://rihou.cc:555/tv/[SZ]
+
+iptv.4666888.xyz
+45.192.97.170:8880
+v.iqilu.com/live
+
 https://4gtv.dxjc.pp.ua
 https://smart.dxjc.pp.ua/smart.php
 live.264788.xyz/channel
@@ -66,3 +71,5 @@ zby.130519.xyz
 fenghuang.tv12.xyz
 free.cnlive.club
 www.freetv.top
+
+
