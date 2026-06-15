@@ -14,7 +14,6 @@ http://rihou.cc:555/tv/[Hv]
 http://rihou.cc:555/tv/[SZ]
 
 iptv.4666888.xyz
-45.192.97.170:8880
 v.iqilu.com/live
 
 https://4gtv.dxjc.pp.ua
