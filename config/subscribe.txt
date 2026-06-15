@@ -4,17 +4,17 @@
 
 # https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/zblove.txt
 # https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
+# https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/iptvzb/refs/heads/main/zubo.txt
 
  https://18592.kstore.space/TVBox/tvzb.txt
- https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/iptvzb/refs/heads/main/zubo.txt
  https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/gatw0417.txt
  https://ghfast.top/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt
  https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
  https://0419.xn--jfx065ba424q.top
  https://live.zbds.top/tv/iptv4.txt 
  http://wangziduoqing.com/yuan/zb.txt
- # https://123.tv1288.xyz/sm2.txt
 
+# https://123.tv1288.xyz/sm2.txt
 # https://gh-proxy.org/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt
 # https://gh-proxy.org/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u
 # https://bitbucket.org/guot55/bhmb/raw/66cbebc3b012fd4f86a607ccc78428ef3fd776a9/TVBoxOSC/ysp.txt
