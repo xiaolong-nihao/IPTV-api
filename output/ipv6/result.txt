@@ -171,10 +171,12 @@ JJ斗地主,https://cdn-3.ttvb.eu.org/douyu/488743
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,https://tvb.go-iptv.ggff.net/stream/tvb/null-2/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw#http://75.127.89.169:35441/endday20260630.php?id=160#http://75.127.89.169:35441/endday20260630.php?id=163
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,https://tvb.go-iptv.ggff.net/stream/tvb/null/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx#http://75.127.89.169:35441/endday20260630.php?id=158
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台,https://cdn6.163189.xyz/163189/fct
@@ -220,8 +222,10 @@ HOY TV,https://cdn.163189.xyz/163189/hoy
 HOY 77,https://cdn6.163189.xyz/163189/hoy
 HOY 77,http://cdn.163189.xyz/163189/hoy
 HOY 77,http://r.jdshipin.com/sFw4S
+HOY 77,http://cdn6.163189.xyz/163189/hoy#http://cdn.163189.xyz/163189/hoy#http://75.127.89.169:35441/endday20260630.php?id=277#http://75.127.89.169:35441/endday20260630.php?id=279
 HOY 78,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY 78,https://cdn.163189.xyz/163189/hoy78
+HOY 78,http://cdn.163189.xyz/163189/hoy78#http://75.127.89.169:35441/endday20260630.php?id=280#http://75.127.89.169:35441/endday20260630.php?id=281#http://75.127.89.169:35441/endday20260630.php?id=282
 HOY资讯台,https://cdn.163189.xyz/163189/hoy78
 HOY资讯台,http://smt.1678520.xyz/smt3.2.3.php?id=hoycaijing_twn
 ViuTV,https://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
@@ -551,7 +555,9 @@ Animax,https://stream1.freetv.fun/animax-1.m3u8
 安徽卫视,https://live.chinacert.cftest5.cn/zgst/live/anhui
 安徽导视,https://live.chinacert.cftest5.cn/zgst/live/anhui
 黄山新闻,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+黄山新闻,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 黄山公共,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+黄山公共,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 宿州新闻,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 宿州新闻,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 宿州新闻,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
@@ -2318,9 +2324,13 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 四川四姑娘山隆珠措,http://www.1223.fun:8100/udp/239.93.22.188:9600
 四川四姑娘山隆珠措,http://www.1223.fun:8100/udp/239.93.23.87:7348
 黄山始信新道,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+黄山始信新道,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 黄山排云亭,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+黄山排云亭,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 黄山飞来石,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+黄山飞来石,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 黄山,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+黄山,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 陕西洋县国宝朱鹮03,https://live.chinacert.cftest5.cn/zgst/live/shanxi1
 陕西洋县国宝朱鹮03,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 安徽黟县西递牌坊,https://live.chinacert.cftest5.cn/zgst/live/anhui
@@ -2836,4 +2846,4 @@ tvN Movies,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=1
 山东交通广播,http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
 
 🕘️更新时间,#genre#
-2026-06-16 17:49:54,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-17 17:26:59,https://live.chinacert.cftest5.cn/cnmg/live/608807420

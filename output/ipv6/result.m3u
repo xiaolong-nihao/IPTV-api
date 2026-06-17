@@ -323,6 +323,8 @@ http://r.jdshipin.com/cCCzW
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="香港频道",凤凰中文
 https://tvb.go-iptv.ggff.net/stream/tvb/null-2/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="香港频道",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw#http://75.127.89.169:35441/endday20260630.php?id=160#http://75.127.89.169:35441/endday20260630.php?id=163
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯
 https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯
@@ -331,6 +333,8 @@ http://r.jdshipin.com/0Rp07
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯
 https://tvb.go-iptv.ggff.net/stream/tvb/null/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx#http://75.127.89.169:35441/endday20260630.php?id=158
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="香港频道",翡翠台
 https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="香港频道",翡翠台
@@ -421,10 +425,14 @@ https://cdn6.163189.xyz/163189/hoy
 http://cdn.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-name="HOY 77" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY 77.png" group-title="香港频道",HOY 77
 http://r.jdshipin.com/sFw4S
+#EXTINF:-1 tvg-name="HOY 77" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY 77.png" group-title="香港频道",HOY 77
+http://cdn6.163189.xyz/163189/hoy#http://cdn.163189.xyz/163189/hoy#http://75.127.89.169:35441/endday20260630.php?id=277#http://75.127.89.169:35441/endday20260630.php?id=279
 #EXTINF:-1 tvg-name="HOY 78" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY 78.png" group-title="香港频道",HOY 78
 http://cdn.163189.xyz/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="HOY 78" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY 78.png" group-title="香港频道",HOY 78
 https://cdn.163189.xyz/163189/hoy78
+#EXTINF:-1 tvg-name="HOY 78" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY 78.png" group-title="香港频道",HOY 78
+http://cdn.163189.xyz/163189/hoy78#http://75.127.89.169:35441/endday20260630.php?id=280#http://75.127.89.169:35441/endday20260630.php?id=281#http://75.127.89.169:35441/endday20260630.php?id=282
 #EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY资讯台.png" group-title="香港频道",HOY资讯台
 https://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY资讯台.png" group-title="香港频道",HOY资讯台
@@ -1019,8 +1027,12 @@ https://live.chinacert.cftest5.cn/zgst/live/anhui
 https://live.chinacert.cftest5.cn/zgst/live/anhui
 #EXTINF:-1 tvg-name="黄山新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山新闻.png" group-title="安徽",黄山新闻
 http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+#EXTINF:-1 tvg-name="黄山新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山新闻.png" group-title="安徽",黄山新闻
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 #EXTINF:-1 tvg-name="黄山公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山公共.png" group-title="安徽",黄山公共
 http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+#EXTINF:-1 tvg-name="黄山公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山公共.png" group-title="安徽",黄山公共
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 #EXTINF:-1 tvg-name="宿州新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州新闻.png" group-title="安徽",宿州新闻
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 #EXTINF:-1 tvg-name="宿州新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州新闻.png" group-title="安徽",宿州新闻
@@ -4381,12 +4393,20 @@ http://www.1223.fun:8100/udp/239.93.22.188:9600
 http://www.1223.fun:8100/udp/239.93.23.87:7348
 #EXTINF:-1 tvg-name="黄山始信新道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山始信新道.png" group-title="直播中国",黄山始信新道
 http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+#EXTINF:-1 tvg-name="黄山始信新道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山始信新道.png" group-title="直播中国",黄山始信新道
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 #EXTINF:-1 tvg-name="黄山排云亭" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山排云亭.png" group-title="直播中国",黄山排云亭
 http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+#EXTINF:-1 tvg-name="黄山排云亭" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山排云亭.png" group-title="直播中国",黄山排云亭
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 #EXTINF:-1 tvg-name="黄山飞来石" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山飞来石.png" group-title="直播中国",黄山飞来石
 http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+#EXTINF:-1 tvg-name="黄山飞来石" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山飞来石.png" group-title="直播中国",黄山飞来石
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 #EXTINF:-1 tvg-name="黄山" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山.png" group-title="直播中国",黄山
 http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+#EXTINF:-1 tvg-name="黄山" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄山.png" group-title="直播中国",黄山
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 #EXTINF:-1 tvg-name="陕西洋县国宝朱鹮03" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西洋县国宝朱鹮03.png" group-title="直播中国",陕西洋县国宝朱鹮03
 https://live.chinacert.cftest5.cn/zgst/live/shanxi1
 #EXTINF:-1 tvg-name="陕西洋县国宝朱鹮03" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西洋县国宝朱鹮03.png" group-title="直播中国",陕西洋县国宝朱鹮03
@@ -5369,5 +5389,5 @@ http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
 https://live.chinacert.cftest5.cn/zgst/live/shandong
 #EXTINF:-1 tvg-name="山东交通广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东交通广播.png" group-title="广播电台",山东交通广播
 http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-16 17:49:54
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-17 17:26:59
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
