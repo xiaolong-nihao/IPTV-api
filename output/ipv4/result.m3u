@@ -1,0 +1,143 @@
+#EXTM3U x-tvg-url="https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="山东",山东卫视
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="山东",山东卫视
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="山东",山东卫视
+http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="山东",山东卫视
+http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="山东",山东卫视
+http://192.151.150.154/live/sdwshd.m3u8
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东综艺.png" group-title="山东",山东综艺
+http://39.77.159.240:4002/rtp/239.253.254.159:8000
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东综艺.png" group-title="山东",山东综艺
+http://39.77.158.228:4002/rtp/239.253.254.159:8000
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东综艺.png" group-title="山东",山东综艺
+http://39.77.27.90:4002/rtp/239.253.254.159:8000
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东综艺.png" group-title="山东",山东综艺
+http://39.77.22.252:4002/rtp/239.253.254.159:8000
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东综艺.png" group-title="山东",山东综艺
+http://144.255.31.236:6688/udp/239.21.1.177:5002
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东生活.png" group-title="山东",山东生活
+http://39.77.159.240:4002/rtp/239.253.254.151:8000
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东生活.png" group-title="山东",山东生活
+http://39.77.158.228:4002/rtp/239.253.254.151:8000
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东生活.png" group-title="山东",山东生活
+http://39.77.27.90:4002/rtp/239.253.254.151:8000
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东生活.png" group-title="山东",山东生活
+http://39.77.22.252:4002/rtp/239.253.254.151:8000
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东生活.png" group-title="山东",山东生活
+http://144.255.31.236:6688/udp/239.21.1.175:5002
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东体育.png" group-title="山东",山东体育
+http://144.255.31.236:6688/udp/239.21.1.141:5002
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东新闻.png" group-title="山东",山东新闻
+http://39.77.159.240:4002/rtp/239.253.254.23:8000
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东新闻.png" group-title="山东",山东新闻
+http://39.77.158.228:4002/rtp/239.253.254.23:8000
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东新闻.png" group-title="山东",山东新闻
+http://39.77.27.90:4002/rtp/239.253.254.23:8000
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东新闻.png" group-title="山东",山东新闻
+http://39.77.22.252:4002/rtp/239.253.254.23:8000
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东新闻.png" group-title="山东",山东新闻
+http://144.255.31.236:6688/udp/239.21.1.140:5002
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东农科.png" group-title="山东",山东农科
+http://39.77.159.240:4002/rtp/239.253.254.24:8000
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东农科.png" group-title="山东",山东农科
+http://39.77.158.228:4002/rtp/239.253.254.24:8000
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东农科.png" group-title="山东",山东农科
+http://39.77.27.90:4002/rtp/239.253.254.24:8000
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东农科.png" group-title="山东",山东农科
+http://39.77.22.252:4002/rtp/239.253.254.24:8000
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东农科.png" group-title="山东",山东农科
+http://144.255.31.236:6688/udp/239.21.1.183:5002
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东教育.png" group-title="山东",山东教育
+http://144.255.31.236:6688/udp/239.21.1.169:5002
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东教育.png" group-title="山东",山东教育
+http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东教育.png" group-title="山东",山东教育
+http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东教育.png" group-title="山东",山东教育
+http://112.109.206.208:9999/rtp/239.255.40.32:8208
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东少儿.png" group-title="山东",山东少儿
+http://39.77.159.240:4002/rtp/239.253.254.25:8000
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东少儿.png" group-title="山东",山东少儿
+http://39.77.158.228:4002/rtp/239.253.254.25:8000
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东少儿.png" group-title="山东",山东少儿
+http://39.77.27.90:4002/rtp/239.253.254.25:8000
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东少儿.png" group-title="山东",山东少儿
+http://39.77.22.252:4002/rtp/239.253.254.25:8000
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东少儿.png" group-title="山东",山东少儿
+http://144.255.31.236:6688/udp/239.21.1.208:5002
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东文旅.png" group-title="山东",山东文旅
+http://39.77.159.240:4002/rtp/239.253.254.160:8000
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东文旅.png" group-title="山东",山东文旅
+http://39.77.158.228:4002/rtp/239.253.254.160:8000
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东文旅.png" group-title="山东",山东文旅
+http://39.77.27.90:4002/rtp/239.253.254.160:8000
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东文旅.png" group-title="山东",山东文旅
+http://39.77.22.252:4002/rtp/239.253.254.160:8000
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东文旅.png" group-title="山东",山东文旅
+http://144.255.31.236:6688/udp/239.21.1.176:5002
+#EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南新闻综合.png" group-title="山东",济南新闻综合
+http://144.255.31.236:6688/udp/239.21.1.94:5002
+#EXTINF:-1 tvg-name="济南都市" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南都市.png" group-title="山东",济南都市
+http://144.255.31.236:6688/udp/239.21.1.63:5002
+#EXTINF:-1 tvg-name="济南生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南生活.png" group-title="山东",济南生活
+http://144.255.31.236:6688/udp/239.21.1.64:5002
+#EXTINF:-1 tvg-name="济南影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南影视.png" group-title="山东",济南影视
+http://144.255.31.236:6688/udp/239.21.1.65:5002
+#EXTINF:-1 tvg-name="济南娱乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南娱乐.png" group-title="山东",济南娱乐
+http://144.255.31.236:6688/udp/239.21.1.66:5002
+#EXTINF:-1 tvg-name="济南少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南少儿.png" group-title="山东",济南少儿
+http://144.255.31.236:6688/udp/239.21.1.68:5002
+#EXTINF:-1 tvg-name="济南教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南教育.png" group-title="山东",济南教育
+http://144.255.31.236:6688/udp/239.21.1.133:5002
+#EXTINF:-1 tvg-name="济南鲁中" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南鲁中.png" group-title="山东",济南鲁中
+http://144.255.31.236:6688/udp/239.21.1.149:5002
+#EXTINF:-1 tvg-name="青岛QTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV1.png" group-title="山东",青岛QTV1
+http://39.77.159.240:4002/rtp/239.253.254.249:8000
+#EXTINF:-1 tvg-name="青岛QTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV1.png" group-title="山东",青岛QTV1
+http://39.77.158.228:4002/rtp/239.253.254.249:8000
+#EXTINF:-1 tvg-name="青岛QTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV1.png" group-title="山东",青岛QTV1
+http://39.77.27.90:4002/rtp/239.253.254.249:8000
+#EXTINF:-1 tvg-name="青岛QTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV1.png" group-title="山东",青岛QTV1
+http://39.77.22.252:4002/rtp/239.253.254.249:8000
+#EXTINF:-1 tvg-name="青岛QTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV1.png" group-title="山东",青岛QTV1
+http://144.255.31.236:6688/udp/239.21.1.69:5002
+#EXTINF:-1 tvg-name="青岛QTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV2.png" group-title="山东",青岛QTV2
+http://39.77.159.240:4002/rtp/239.253.254.250:8000
+#EXTINF:-1 tvg-name="青岛QTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV2.png" group-title="山东",青岛QTV2
+http://39.77.158.228:4002/rtp/239.253.254.250:8000
+#EXTINF:-1 tvg-name="青岛QTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV2.png" group-title="山东",青岛QTV2
+http://39.77.27.90:4002/rtp/239.253.254.250:8000
+#EXTINF:-1 tvg-name="青岛QTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV2.png" group-title="山东",青岛QTV2
+http://39.77.22.252:4002/rtp/239.253.254.250:8000
+#EXTINF:-1 tvg-name="青岛QTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV2.png" group-title="山东",青岛QTV2
+http://144.255.31.236:6688/udp/239.21.1.70:5002
+#EXTINF:-1 tvg-name="青岛QTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV3.png" group-title="山东",青岛QTV3
+http://39.77.159.240:4002/rtp/239.253.254.251:8000
+#EXTINF:-1 tvg-name="青岛QTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV3.png" group-title="山东",青岛QTV3
+http://39.77.158.228:4002/rtp/239.253.254.251:8000
+#EXTINF:-1 tvg-name="青岛QTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV3.png" group-title="山东",青岛QTV3
+http://39.77.27.90:4002/rtp/239.253.254.251:8000
+#EXTINF:-1 tvg-name="青岛QTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV3.png" group-title="山东",青岛QTV3
+http://39.77.22.252:4002/rtp/239.253.254.251:8000
+#EXTINF:-1 tvg-name="青岛QTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV3.png" group-title="山东",青岛QTV3
+http://144.255.31.236:6688/udp/239.21.1.71:5002
+#EXTINF:-1 tvg-name="青岛QTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV4.png" group-title="山东",青岛QTV4
+http://39.77.159.240:4002/rtp/239.253.254.252:8000
+#EXTINF:-1 tvg-name="青岛QTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV4.png" group-title="山东",青岛QTV4
+http://39.77.158.228:4002/rtp/239.253.254.252:8000
+#EXTINF:-1 tvg-name="青岛QTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV4.png" group-title="山东",青岛QTV4
+http://39.77.27.90:4002/rtp/239.253.254.252:8000
+#EXTINF:-1 tvg-name="青岛QTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV4.png" group-title="山东",青岛QTV4
+http://39.77.22.252:4002/rtp/239.253.254.252:8000
+#EXTINF:-1 tvg-name="青岛QTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV4.png" group-title="山东",青岛QTV4
+http://144.255.31.236:6688/udp/239.21.1.72:5002
+#EXTINF:-1 tvg-name="青岛QTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV5.png" group-title="山东",青岛QTV5
+http://144.255.31.236:6688/udp/239.21.1.73:5002
+#EXTINF:-1 tvg-name="青岛QTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青岛QTV6.png" group-title="山东",青岛QTV6
+http://144.255.31.236:6688/udp/239.21.1.74:5002
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="🕘️更新时间",2026-06-18 02:31:24
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
