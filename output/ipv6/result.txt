@@ -1,7 +1,4 @@
 山东,#genre#
-山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong
-山东卫视,http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
-临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 
 🕘️更新时间,#genre#
-2026-06-17 22:31:48,https://live.chinacert.cftest5.cn/zgst/live/shandong
+2026-06-18 01:25:48,url
