@@ -1,4 +1,5 @@
 山东,#genre#
+山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong
 
 🕘️更新时间,#genre#
-2026-06-18 01:25:48,url
+2026-06-18 02:16:00,https://live.chinacert.cftest5.cn/zgst/live/shandong

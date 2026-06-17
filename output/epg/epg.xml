@@ -1,116 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="20260617172548 +0800">
+<tv date="20260617181600 +0800">
 	<channel id="山东卫视">
 		<display-name lang="zh">山东卫视</display-name>
 	</channel>
-	<programme channel="山东卫视" start="20260611001600 +0800" stop="20260611013500 +0800">
-		<title lang="zh">万家灯火</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611013500 +0800" stop="20260611025100 +0800">
-		<title lang="zh">万家灯火</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611025100 +0800" stop="20260611033600 +0800">
-		<title lang="zh">午夜剧场</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611033600 +0800" stop="20260611042000 +0800">
-		<title lang="zh">午夜剧场</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611042000 +0800" stop="20260611051400 +0800">
-		<title lang="zh">午夜剧场</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611051400 +0800" stop="20260611062500 +0800">
-		<title lang="zh">午夜剧场</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611062500 +0800" stop="20260611065600 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611065600 +0800" stop="20260611070000 +0800">
-		<title lang="zh">早安山东</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611070000 +0800" stop="20260611070100 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611070100 +0800" stop="20260611073700 +0800">
-		<title lang="zh">早安山东</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611073700 +0800" stop="20260611080900 +0800">
-		<title lang="zh">乐享食光</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611080900 +0800" stop="20260611085300 +0800">
-		<title lang="zh">情意剧场</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611085300 +0800" stop="20260611093600 +0800">
-		<title lang="zh">情意剧场</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611093600 +0800" stop="20260611101500 +0800">
-		<title lang="zh">大医本草堂</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611101500 +0800" stop="20260611110500 +0800">
-		<title lang="zh">爱家剧场:父母爱情</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611110500 +0800" stop="20260611115800 +0800">
-		<title lang="zh">情意剧场</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611115800 +0800" stop="20260611124700 +0800">
-		<title lang="zh">情意剧场</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611124700 +0800" stop="20260611133900 +0800">
-		<title lang="zh">情意剧场</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611133900 +0800" stop="20260611142600 +0800">
-		<title lang="zh">爱家剧场:父母爱情</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611142600 +0800" stop="20260611150500 +0800">
-		<title lang="zh">爱家剧场:父母爱情</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611150500 +0800" stop="20260611160600 +0800">
-		<title lang="zh">爱家剧场:父母爱情</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611160600 +0800" stop="20260611165100 +0800">
-		<title lang="zh">爱家剧场:父母爱情</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611165100 +0800" stop="20260611173700 +0800">
-		<title lang="zh">爱家剧场:父母爱情</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611173700 +0800" stop="20260611180900 +0800">
-		<title lang="zh">乐享食光</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611180900 +0800" stop="20260611181800 +0800">
-		<title lang="zh">至味山东</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611181800 +0800" stop="20260611183000 +0800">
-		<title lang="zh">齐鲁先锋</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611183000 +0800" stop="20260611190000 +0800">
-		<title lang="zh">山东新闻联播</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611190000 +0800" stop="20260611193100 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611193100 +0800" stop="20260611193500 +0800">
-		<title lang="zh">山东天气预报</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611193500 +0800" stop="20260611202800 +0800">
-		<title lang="zh">花漾剧场:南来北往(8)</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611202800 +0800" stop="20260611211300 +0800">
-		<title lang="zh">花漾剧场:南来北往(9)</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611211300 +0800" stop="20260611212500 +0800">
-		<title lang="zh">最炫国剧风</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611212500 +0800" stop="20260611213600 +0800">
-		<title lang="zh">晚间新闻</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611213600 +0800" stop="20260611220200 +0800">
-		<title lang="zh">花漾剧客厅</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611220200 +0800" stop="20260611235400 +0800">
-		<title lang="zh">传家宝里的新中国</title>
-	</programme>
-	<programme channel="山东卫视" start="20260611235400 +0800" stop="20260612000000 +0800">
-		<title lang="zh">寻声记</title>
-	</programme>
 	<programme channel="山东卫视" start="20260612001800 +0800" stop="20260612010900 +0800">
 		<title lang="zh">万家灯火</title>
 	</programme>
@@ -849,55 +741,103 @@
 	<programme channel="山东卫视" start="20260618235400 +0800" stop="20260619000000 +0800">
 		<title lang="zh">寻声记</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619000000 +0800" stop="20260619041300 +0800">
-		<title lang="zh">戏宇宙经典季</title>
+	<programme channel="山东卫视" start="20260619001800 +0800" stop="20260619010900 +0800">
+		<title lang="zh">万家灯火</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619041300 +0800" stop="20260619044500 +0800">
-		<title lang="zh">铁道游击队(31)</title>
+	<programme channel="山东卫视" start="20260619010900 +0800" stop="20260619015400 +0800">
+		<title lang="zh">午夜剧场</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619044500 +0800" stop="20260619053100 +0800">
-		<title lang="zh">铁道游击队(32)</title>
+	<programme channel="山东卫视" start="20260619015400 +0800" stop="20260619024000 +0800">
+		<title lang="zh">午夜剧场</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619053100 +0800" stop="20260619062200 +0800">
-		<title lang="zh">铁道游击队(33)</title>
+	<programme channel="山东卫视" start="20260619024000 +0800" stop="20260619034400 +0800">
+		<title lang="zh">午夜剧场</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619062200 +0800" stop="20260619065600 +0800">
-		<title lang="zh">记住乡愁</title>
+	<programme channel="山东卫视" start="20260619034400 +0800" stop="20260619055300 +0800">
+		<title lang="zh">午夜剧场</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619065600 +0800" stop="20260619070000 +0800">
+	<programme channel="山东卫视" start="20260619055300 +0800" stop="20260619062500 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619062500 +0800" stop="20260619065600 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619065600 +0800" stop="20260619080900 +0800">
 		<title lang="zh">早安山东</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619070000 +0800" stop="20260619070100 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
+	<programme channel="山东卫视" start="20260619080900 +0800" stop="20260619085300 +0800">
+		<title lang="zh">情意剧场</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619070100 +0800" stop="20260619073300 +0800">
-		<title lang="zh">早安山东</title>
+	<programme channel="山东卫视" start="20260619085300 +0800" stop="20260619093600 +0800">
+		<title lang="zh">情意剧场</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619073300 +0800" stop="20260619080500 +0800">
-		<title lang="zh">乐享食光</title>
-	</programme>
-	<programme channel="山东卫视" start="20260619080500 +0800" stop="20260619085100 +0800">
-		<title lang="zh">武梁祠(1)</title>
-	</programme>
-	<programme channel="山东卫视" start="20260619085100 +0800" stop="20260619093900 +0800">
-		<title lang="zh">武梁祠(2)</title>
-	</programme>
-	<programme channel="山东卫视" start="20260619093900 +0800" stop="20260619102100 +0800">
+	<programme channel="山东卫视" start="20260619093600 +0800" stop="20260619101500 +0800">
 		<title lang="zh">大医本草堂</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619102100 +0800" stop="20260619110800 +0800">
-		<title lang="zh">武梁祠(3)</title>
+	<programme channel="山东卫视" start="20260619101500 +0800" stop="20260619110500 +0800">
+		<title lang="zh">爱家剧场:老农民</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619110800 +0800" stop="20260619115600 +0800">
-		<title lang="zh">武梁祠(4)</title>
+	<programme channel="山东卫视" start="20260619110500 +0800" stop="20260619115800 +0800">
+		<title lang="zh">情意剧场</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619115600 +0800" stop="20260619124200 +0800">
-		<title lang="zh">老农民(21)</title>
+	<programme channel="山东卫视" start="20260619115800 +0800" stop="20260619124700 +0800">
+		<title lang="zh">情意剧场</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619124200 +0800" stop="20260619132900 +0800">
-		<title lang="zh">老农民(22)</title>
+	<programme channel="山东卫视" start="20260619124700 +0800" stop="20260619133900 +0800">
+		<title lang="zh">情意剧场</title>
 	</programme>
-	<programme channel="山东卫视" start="20260619132900 +0800" stop="20260619141600 +0800">
-		<title lang="zh">老农民(23)</title>
+	<programme channel="山东卫视" start="20260619133900 +0800" stop="20260619142600 +0800">
+		<title lang="zh">爱家剧场:老农民</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619142600 +0800" stop="20260619150500 +0800">
+		<title lang="zh">爱家剧场:老农民</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619150500 +0800" stop="20260619160600 +0800">
+		<title lang="zh">爱家剧场:老农民</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619160600 +0800" stop="20260619165100 +0800">
+		<title lang="zh">爱家剧场:老农民</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619165100 +0800" stop="20260619173700 +0800">
+		<title lang="zh">爱家剧场:老农民</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619173700 +0800" stop="20260619175800 +0800">
+		<title lang="zh">乐享食光</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619175800 +0800" stop="20260619181000 +0800">
+		<title lang="zh">至味山东</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619181000 +0800" stop="20260619183000 +0800">
+		<title lang="zh">共产党员</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619183000 +0800" stop="20260619190000 +0800">
+		<title lang="zh">山东新闻联播</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619190000 +0800" stop="20260619193100 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619193100 +0800" stop="20260619193600 +0800">
+		<title lang="zh">山东天气预报</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619193600 +0800" stop="20260619202800 +0800">
+		<title lang="zh">花漾剧场:南来北往(24)</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619202800 +0800" stop="20260619211200 +0800">
+		<title lang="zh">花漾剧场:南来北往(25)</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619211200 +0800" stop="20260619212100 +0800">
+		<title lang="zh">最炫国剧风</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619212100 +0800" stop="20260619213300 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619213300 +0800" stop="20260619222600 +0800">
+		<title lang="zh">国宝时刻</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619222600 +0800" stop="20260619231000 +0800">
+		<title lang="zh">精英剧场:武梁祠(4)</title>
+	</programme>
+	<programme channel="山东卫视" start="20260619231000 +0800" stop="20260620000000 +0800">
+		<title lang="zh">精英剧场</title>
 	</programme>
 </tv>
