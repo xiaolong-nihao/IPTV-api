@@ -116,6 +116,7 @@
 日照新闻,http://144.255.31.236:6688/udp/239.21.1.79:5002
 日照科教,http://144.255.31.236:6688/udp/239.21.1.80:5002
 日照岚山,http://144.255.31.236:6688/udp/239.21.1.209:5002
+临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 德州新闻综合,http://1.94.31.214/php/qilu.php?id=dzxwzh
 德州新闻综合,http://144.255.31.236:6688/udp/239.21.1.75:5002
 德州经济生活,http://1.94.31.214/php/qilu.php?id=dzjjsh
