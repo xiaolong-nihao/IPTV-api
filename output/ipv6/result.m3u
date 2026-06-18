@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="山东",山东卫视
 https://live.chinacert.cftest5.cn/zgst/live/shandong
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="🕘️更新时间",2026-06-18 02:31:24
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="🕘️更新时间",2026-06-18 16:53:23
 https://live.chinacert.cftest5.cn/zgst/live/shandong

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260617183124 +0800">
+<tv date="20260618085323 +0800">
 	<channel id="山东卫视">
 		<display-name lang="zh">山东卫视</display-name>
 	</channel>
@@ -630,7 +630,7 @@
 	<programme channel="山东卫视" start="20260617225800 +0800" stop="20260617235900 +0800">
 		<title lang="zh">精英剧场:武梁祠(3)</title>
 	</programme>
-	<programme channel="山东卫视" start="20260617235900 +0800" stop="20260618001600 +0800">
+	<programme channel="山东卫视" start="20260617235900 +0800" stop="20260618000000 +0800">
 		<title lang="zh">精英剧场:武梁祠(4)</title>
 	</programme>
 	<programme channel="山东卫视" start="20260618001600 +0800" stop="20260618013500 +0800">
@@ -738,7 +738,7 @@
 	<programme channel="山东卫视" start="20260618220200 +0800" stop="20260618235400 +0800">
 		<title lang="zh">传家宝里的新中国</title>
 	</programme>
-	<programme channel="山东卫视" start="20260618235400 +0800" stop="20260619000000 +0800">
+	<programme channel="山东卫视" start="20260618235400 +0800" stop="20260619001800 +0800">
 		<title lang="zh">寻声记</title>
 	</programme>
 	<programme channel="山东卫视" start="20260619001800 +0800" stop="20260619010900 +0800">
@@ -839,5 +839,8 @@
 	</programme>
 	<programme channel="山东卫视" start="20260619231000 +0800" stop="20260620000000 +0800">
 		<title lang="zh">精英剧场</title>
+	</programme>
+	<programme channel="山东卫视" start="20260620000000 +0800" stop="20260620041200 +0800">
+		<title lang="zh">2025中华家庭诗词擂台赛</title>
 	</programme>
 </tv>
