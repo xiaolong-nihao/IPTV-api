@@ -6,6 +6,8 @@ CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
 CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 CCTV-6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
+CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
+CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
 CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
 CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
@@ -13,11 +15,14 @@ CCTV-10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
 CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
 CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
 CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv13
 CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv14
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 
 山东,#genre#
+山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong
 
 🕘️更新时间,#genre#
-2026-06-18 23:13:37,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-18 23:26:50,https://live.chinacert.cftest5.cn/cnmg/live/608807420
