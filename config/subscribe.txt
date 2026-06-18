@@ -1,7 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-# https://18592.kstore.space/%E6%B5%8B%E8%AF%95/007.txt
+https://18592.kstore.space/%E6%B5%8B%E8%AF%95/007.txt
 # https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/zblove.txt
 # https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
 # https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/iptvzb/refs/heads/main/zubo.txt
