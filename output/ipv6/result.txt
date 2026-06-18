@@ -20,4 +20,4 @@ CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 山东,#genre#
 
 🕘️更新时间,#genre#
-2026-06-19 00:27:27,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-19 01:05:44,https://live.chinacert.cftest5.cn/cnmg/live/608807420

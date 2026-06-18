@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260618162726 +0800">
+<tv date="20260618170543 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -13943,6 +13943,660 @@
 	</programme>
 	<programme channel="山东卫视" start="20260620125100 +0800" stop="20260620133600 +0800">
 		<title lang="zh">老农民(29)</title>
+	</programme>
+	<channel id="山东教育">
+		<display-name lang="zh">山东教育</display-name>
+	</channel>
+	<programme channel="山东教育" start="20260612000000 +0800" stop="20260612004000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260612004000 +0800" stop="20260612012500 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260612012500 +0800" stop="20260612021000 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260612021000 +0800" stop="20260612043000 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260612043000 +0800" stop="20260612061000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260612061000 +0800" stop="20260612064300 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260612064300 +0800" stop="20260612070000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260612070000 +0800" stop="20260612070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="山东教育" start="20260612070200 +0800" stop="20260612071900 +0800">
+		<title lang="zh">新课堂·健康校园</title>
+	</programme>
+	<programme channel="山东教育" start="20260612071900 +0800" stop="20260612083400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260612083400 +0800" stop="20260612093900 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260612093900 +0800" stop="20260612104400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260612104400 +0800" stop="20260612114000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260612114000 +0800" stop="20260612120200 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260612120200 +0800" stop="20260612142800 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260612142800 +0800" stop="20260612150000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260612150000 +0800" stop="20260612165700 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260612165700 +0800" stop="20260612171200 +0800">
+		<title lang="zh">节气小精灵</title>
+	</programme>
+	<programme channel="山东教育" start="20260612171200 +0800" stop="20260612173400 +0800">
+		<title lang="zh">美育少年行</title>
+	</programme>
+	<programme channel="山东教育" start="20260612173400 +0800" stop="20260612180900 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260612180900 +0800" stop="20260612184000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260612184000 +0800" stop="20260612190000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260612190000 +0800" stop="20260612193500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="山东教育" start="20260612193500 +0800" stop="20260612195500 +0800">
+		<title lang="zh">开卷有益</title>
+	</programme>
+	<programme channel="山东教育" start="20260612195500 +0800" stop="20260612202500 +0800">
+		<title lang="zh">优妈育儿堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260612202500 +0800" stop="20260612223500 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260612223500 +0800" stop="20260612230700 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260612230700 +0800" stop="20260613004000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260613004000 +0800" stop="20260613012500 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260613012500 +0800" stop="20260613021000 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260613021000 +0800" stop="20260613043000 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260613043000 +0800" stop="20260613061000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260613061000 +0800" stop="20260613064300 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260613064300 +0800" stop="20260613070000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260613070000 +0800" stop="20260613070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="山东教育" start="20260613070200 +0800" stop="20260613071900 +0800">
+		<title lang="zh">小手大滋味</title>
+	</programme>
+	<programme channel="山东教育" start="20260613071900 +0800" stop="20260613083400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260613083400 +0800" stop="20260613093900 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260613093900 +0800" stop="20260613104400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260613104400 +0800" stop="20260613114000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260613114000 +0800" stop="20260613120200 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260613120200 +0800" stop="20260613142800 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260613142800 +0800" stop="20260613150000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260613150000 +0800" stop="20260613165700 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260613165700 +0800" stop="20260613173400 +0800">
+		<title lang="zh">节气小精灵</title>
+	</programme>
+	<programme channel="山东教育" start="20260613173400 +0800" stop="20260613180900 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260613180900 +0800" stop="20260613184000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260613184000 +0800" stop="20260613190000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260613190000 +0800" stop="20260613193500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="山东教育" start="20260613193500 +0800" stop="20260613195200 +0800">
+		<title lang="zh">教育纵深</title>
+	</programme>
+	<programme channel="山东教育" start="20260613195200 +0800" stop="20260613202500 +0800">
+		<title lang="zh">长大啦</title>
+	</programme>
+	<programme channel="山东教育" start="20260613202500 +0800" stop="20260613223500 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260613223500 +0800" stop="20260613230700 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260613230700 +0800" stop="20260614004000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260614004000 +0800" stop="20260614012500 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260614012500 +0800" stop="20260614021000 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260614021000 +0800" stop="20260614043000 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260614043000 +0800" stop="20260614061000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260614061000 +0800" stop="20260614064300 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260614064300 +0800" stop="20260614070000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260614070000 +0800" stop="20260614070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="山东教育" start="20260614070200 +0800" stop="20260614071900 +0800">
+		<title lang="zh">教育纵深</title>
+	</programme>
+	<programme channel="山东教育" start="20260614071900 +0800" stop="20260614083400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260614083400 +0800" stop="20260614093900 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260614093900 +0800" stop="20260614104400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260614104400 +0800" stop="20260614114000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260614114000 +0800" stop="20260614120200 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260614120200 +0800" stop="20260614142800 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260614142800 +0800" stop="20260614150000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260614150000 +0800" stop="20260614165700 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260614165700 +0800" stop="20260614173400 +0800">
+		<title lang="zh">节气小精灵</title>
+	</programme>
+	<programme channel="山东教育" start="20260614173400 +0800" stop="20260614180900 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260614180900 +0800" stop="20260614184000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260614184000 +0800" stop="20260614190000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260614190000 +0800" stop="20260614193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="山东教育" start="20260614193000 +0800" stop="20260614200000 +0800">
+		<title lang="zh">师者说</title>
+	</programme>
+	<programme channel="山东教育" start="20260614200000 +0800" stop="20260614202500 +0800">
+		<title lang="zh">开放讲堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260614202500 +0800" stop="20260614223500 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260614223500 +0800" stop="20260614230700 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260614230700 +0800" stop="20260615004000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260615004000 +0800" stop="20260615012500 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260615012500 +0800" stop="20260615021000 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260615021000 +0800" stop="20260615042000 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260615042000 +0800" stop="20260615055000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260615055000 +0800" stop="20260615062000 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260615062000 +0800" stop="20260615064300 +0800">
+		<title lang="zh">开放讲堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260615064300 +0800" stop="20260615070000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260615070000 +0800" stop="20260615070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="山东教育" start="20260615070200 +0800" stop="20260615071900 +0800">
+		<title lang="zh">新课堂·健康校园</title>
+	</programme>
+	<programme channel="山东教育" start="20260615071900 +0800" stop="20260615083400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260615083400 +0800" stop="20260615093900 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260615093900 +0800" stop="20260615104400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260615104400 +0800" stop="20260615114000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260615114000 +0800" stop="20260615120200 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260615120200 +0800" stop="20260615142800 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260615142800 +0800" stop="20260615150000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260615150000 +0800" stop="20260615165700 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260615165700 +0800" stop="20260615171200 +0800">
+		<title lang="zh">节气小精灵</title>
+	</programme>
+	<programme channel="山东教育" start="20260615171200 +0800" stop="20260615173400 +0800">
+		<title lang="zh">美育少年行</title>
+	</programme>
+	<programme channel="山东教育" start="20260615173400 +0800" stop="20260615180900 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260615180900 +0800" stop="20260615184000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260615184000 +0800" stop="20260615190000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260615190000 +0800" stop="20260615193500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="山东教育" start="20260615193500 +0800" stop="20260615200000 +0800">
+		<title lang="zh">格致论道</title>
+	</programme>
+	<programme channel="山东教育" start="20260615200000 +0800" stop="20260615202500 +0800">
+		<title lang="zh">开放讲堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260615202500 +0800" stop="20260615223500 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260615223500 +0800" stop="20260615230700 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260615230700 +0800" stop="20260616004400 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260616004400 +0800" stop="20260616012800 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260616012800 +0800" stop="20260616021100 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260616021100 +0800" stop="20260616043000 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260616043000 +0800" stop="20260616055000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260616055000 +0800" stop="20260616062000 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260616062000 +0800" stop="20260616064300 +0800">
+		<title lang="zh">开放讲堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260616064300 +0800" stop="20260616070000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260616070000 +0800" stop="20260616070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="山东教育" start="20260616070200 +0800" stop="20260616071900 +0800">
+		<title lang="zh">教育纵深</title>
+	</programme>
+	<programme channel="山东教育" start="20260616071900 +0800" stop="20260616083400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260616083400 +0800" stop="20260616093900 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260616093900 +0800" stop="20260616104400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260616104400 +0800" stop="20260616114000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260616114000 +0800" stop="20260616120200 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260616120200 +0800" stop="20260616142800 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260616142800 +0800" stop="20260616150000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260616150000 +0800" stop="20260616165700 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260616165700 +0800" stop="20260616171200 +0800">
+		<title lang="zh">节气小精灵</title>
+	</programme>
+	<programme channel="山东教育" start="20260616171200 +0800" stop="20260616173400 +0800">
+		<title lang="zh">美育少年行</title>
+	</programme>
+	<programme channel="山东教育" start="20260616173400 +0800" stop="20260616180900 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260616180900 +0800" stop="20260616184000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260616184000 +0800" stop="20260616190000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260616190000 +0800" stop="20260616193500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="山东教育" start="20260616193500 +0800" stop="20260616200000 +0800">
+		<title lang="zh">格致论道</title>
+	</programme>
+	<programme channel="山东教育" start="20260616200000 +0800" stop="20260616202500 +0800">
+		<title lang="zh">师者说</title>
+	</programme>
+	<programme channel="山东教育" start="20260616202500 +0800" stop="20260616223500 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260616223500 +0800" stop="20260616230700 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260616230700 +0800" stop="20260617004600 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260617004600 +0800" stop="20260617013100 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260617013100 +0800" stop="20260617021500 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260617021500 +0800" stop="20260617043700 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260617043700 +0800" stop="20260617061000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260617061000 +0800" stop="20260617064300 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260617064300 +0800" stop="20260617070000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260617070000 +0800" stop="20260617070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="山东教育" start="20260617070200 +0800" stop="20260617071900 +0800">
+		<title lang="zh">小手大滋味</title>
+	</programme>
+	<programme channel="山东教育" start="20260617071900 +0800" stop="20260617083400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260617083400 +0800" stop="20260617093900 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260617093900 +0800" stop="20260617104400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260617104400 +0800" stop="20260617114000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260617114000 +0800" stop="20260617120200 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260617120200 +0800" stop="20260617142800 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260617142800 +0800" stop="20260617150000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260617150000 +0800" stop="20260617165700 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260617165700 +0800" stop="20260617171200 +0800">
+		<title lang="zh">节气小精灵</title>
+	</programme>
+	<programme channel="山东教育" start="20260617171200 +0800" stop="20260617173400 +0800">
+		<title lang="zh">美育少年行</title>
+	</programme>
+	<programme channel="山东教育" start="20260617173400 +0800" stop="20260617180900 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260617180900 +0800" stop="20260617184000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260617184000 +0800" stop="20260617190000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260617190000 +0800" stop="20260617193500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="山东教育" start="20260617193500 +0800" stop="20260617200000 +0800">
+		<title lang="zh">格致论道</title>
+	</programme>
+	<programme channel="山东教育" start="20260617200000 +0800" stop="20260617202500 +0800">
+		<title lang="zh">开放讲堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260617202500 +0800" stop="20260617223500 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260617223500 +0800" stop="20260617230700 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260617230700 +0800" stop="20260618003500 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260618003500 +0800" stop="20260618012000 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260618012000 +0800" stop="20260618020500 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260618020500 +0800" stop="20260618042400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260618042400 +0800" stop="20260618061000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260618061000 +0800" stop="20260618064300 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260618064300 +0800" stop="20260618070000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260618070000 +0800" stop="20260618070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="山东教育" start="20260618070200 +0800" stop="20260618071900 +0800">
+		<title lang="zh">教育纵深</title>
+	</programme>
+	<programme channel="山东教育" start="20260618071900 +0800" stop="20260618083400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260618083400 +0800" stop="20260618093900 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260618093900 +0800" stop="20260618104400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260618104400 +0800" stop="20260618114000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260618114000 +0800" stop="20260618120200 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260618120200 +0800" stop="20260618142800 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260618142800 +0800" stop="20260618150000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260618150000 +0800" stop="20260618165700 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260618165700 +0800" stop="20260618171200 +0800">
+		<title lang="zh">节气小精灵</title>
+	</programme>
+	<programme channel="山东教育" start="20260618171200 +0800" stop="20260618173400 +0800">
+		<title lang="zh">美育少年行</title>
+	</programme>
+	<programme channel="山东教育" start="20260618173400 +0800" stop="20260618180900 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260618180900 +0800" stop="20260618184000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260618184000 +0800" stop="20260618190000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260618190000 +0800" stop="20260618193500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="山东教育" start="20260618193500 +0800" stop="20260618200000 +0800">
+		<title lang="zh">格致论道</title>
+	</programme>
+	<programme channel="山东教育" start="20260618200000 +0800" stop="20260618202500 +0800">
+		<title lang="zh">开放讲堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260618202500 +0800" stop="20260618223500 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260618223500 +0800" stop="20260618230700 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260618230700 +0800" stop="20260619005800 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260619005800 +0800" stop="20260619014200 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260619014200 +0800" stop="20260619022700 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260619022700 +0800" stop="20260619044500 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260619044500 +0800" stop="20260619061000 +0800">
+		<title lang="zh">红色影像馆</title>
+	</programme>
+	<programme channel="山东教育" start="20260619061000 +0800" stop="20260619064300 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260619064300 +0800" stop="20260619070000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260619070000 +0800" stop="20260619070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="山东教育" start="20260619070200 +0800" stop="20260619071900 +0800">
+		<title lang="zh">新课堂·健康校园</title>
+	</programme>
+	<programme channel="山东教育" start="20260619071900 +0800" stop="20260619083400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260619083400 +0800" stop="20260619093900 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260619093900 +0800" stop="20260619104400 +0800">
+		<title lang="zh">红高粱</title>
+	</programme>
+	<programme channel="山东教育" start="20260619104400 +0800" stop="20260619114000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260619114000 +0800" stop="20260619120200 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260619120200 +0800" stop="20260619142800 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260619142800 +0800" stop="20260619150000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260619150000 +0800" stop="20260619165700 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260619165700 +0800" stop="20260619171200 +0800">
+		<title lang="zh">节气小精灵</title>
+	</programme>
+	<programme channel="山东教育" start="20260619171200 +0800" stop="20260619173400 +0800">
+		<title lang="zh">校园新播报</title>
+	</programme>
+	<programme channel="山东教育" start="20260619173400 +0800" stop="20260619180900 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260619180900 +0800" stop="20260619184000 +0800">
+		<title lang="zh">真相百分百</title>
+	</programme>
+	<programme channel="山东教育" start="20260619184000 +0800" stop="20260619190000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="山东教育" start="20260619190000 +0800" stop="20260619193500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="山东教育" start="20260619193500 +0800" stop="20260619195500 +0800">
+		<title lang="zh">开卷有益</title>
+	</programme>
+	<programme channel="山东教育" start="20260619195500 +0800" stop="20260619202500 +0800">
+		<title lang="zh">优妈育儿堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260619202500 +0800" stop="20260619223500 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="山东教育" start="20260619223500 +0800" stop="20260619230700 +0800">
+		<title lang="zh">孔子大学堂</title>
+	</programme>
+	<programme channel="山东教育" start="20260619230700 +0800" stop="20260620000000 +0800">
+		<title lang="zh">红色影像馆</title>
 	</programme>
 	<channel id="CCTV-5+">
 		<display-name lang="zh">CCTV-5+</display-name>
