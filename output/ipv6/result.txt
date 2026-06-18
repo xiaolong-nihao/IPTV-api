@@ -1,0 +1,23 @@
+央视频道,#genre#
+CCTV-1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
+CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
+CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
+CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
+CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV-6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
+CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
+CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
+CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
+CCTV-10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
+CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
+CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
+CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
+CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
+CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
+CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
+
+山东,#genre#
+
+🕘️更新时间,#genre#
+2026-06-19 00:27:27,https://live.chinacert.cftest5.cn/cnmg/live/608807420
