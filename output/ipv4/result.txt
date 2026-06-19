@@ -1,16 +1,26 @@
 频道,#genre#
-TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS,http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
-TVBS,http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
+无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+无线翡翠,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+无线明珠,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
+TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 TVBS,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
+TVBS,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
+TVBS,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
+TVBS,http://220.135.64.124:5050/4gtv-4gtv068/index.m3u8?proxy=true
+TVBS,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
-星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
+有线新闻,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
+有线赛讯,http://beishan008.asuscomm.com:8891/bysid/76.m3u8
+ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
+ViuTV,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
+港台电视31,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
+港台电视32,http://beishan008.asuscomm.com:8892/bysid/32.m3u8
+港台电视33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
+港台电视34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 台视,rtmp://f13h.mine.nu/sat/tv071
@@ -51,6 +61,7 @@ TVBS,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
 中视经典,http://220.135.64.124:5050/li-4gtv-4gtv080/index.m3u8?proxy=true
 中视菁采,http://220.135.64.124:5050/4gtv-4gtv064/index.m3u8?proxy=true
 中视菁采,http://220.135.64.124:5050/li-4gtv-4gtv064/index.m3u8?proxy=true
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 民视台湾,http://220.135.64.124:5050/4gtv-4gtv001/index.m3u8?proxy=true
 民视台湾,http://220.135.64.124:5050/li-4gtv-4gtv001/index.m3u8?proxy=true
@@ -141,6 +152,20 @@ SMArt知识,http://220.135.64.124:5050/li-litv-longturn19/index.m3u8?proxy=true
 国会频贰,http://220.135.64.124:5050/4gtv-4gtv085/index.m3u8?proxy=true
 国会频贰,http://220.135.64.124:5050/li-4gtv-4gtv085/index.m3u8?proxy=true
 国会频贰,http://220.135.64.124:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
+重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
+重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
+广东卫视,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+广东卫视,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+广东卫视,http://115.56.90.71:843/live02.hrtn.net/live/gdwshd_3000.m3u8
+广东卫视,http://115.56.90.71:843/live02.hrtn.net/live/gdwshd_3000.m3u8
+广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
+广州竞赛,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
+广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
+广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+深圳卫视,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
+深圳卫视,http://115.56.90.71:843/live02.hrtn.net/live/szwshd_3000.m3u8
 
 🕘️更新时间,#genre#
-2026-06-20 00:20:21,http://61.221.215.25:8800/hls/9/index.m3u8
+2026-06-20 00:28:33,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
