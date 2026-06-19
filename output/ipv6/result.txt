@@ -1,10 +1,15 @@
 频道,#genre#
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+无线翡翠,https://o11.163189.xyz/stream/tvb/fct4k/
+无线华丽,https://o11.163189.xyz/stream/live/hlt/
+无线星河,https://o11.163189.xyz/stream/live/tvbxh/
+无线千禧,https://o11.163189.xyz/stream/live/tvbc/
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 astroAec,https://o11.163189.xyz/stream/live/aec/
 astroAod,https://o11.163189.xyz/stream/live/aod/
 astro欢喜,https://o11.163189.xyz/stream/live/hxt/
+astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 
 🕘️更新时间,#genre#
-2026-06-19 23:19:33,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+2026-06-19 23:42:07,https://o11.163189.xyz/stream/tvb/fct4k/
