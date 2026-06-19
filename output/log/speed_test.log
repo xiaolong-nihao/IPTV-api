@@ -1,13 +1,11 @@
-Name: CCTV-1, URL: http://192.151.150.154/live/cctv1hd.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: Datashack公司, Date: None, Delay: 659 ms, Speed: 6.24 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://204.12.221.218:8181/3m1080p/cctv4.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 829 ms, Speed: 4.70 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-江门, ISP: 移动, Date: None, Delay: 703 ms, Speed: 5.86 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://45.192.97.170:8880/play/3.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 山东卫视, URL: http://144.255.31.236:6688/udp/239.21.1.141:5002, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 418 ms, Speed: 0.01 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://39.77.24.219:4002/rtp/239.253.254.159:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 398 ms, Speed: 0.96 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://39.77.26.255:4002/rtp/239.253.254.159:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 401 ms, Speed: 0.96 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://39.77.158.228:4002/rtp/239.253.254.159:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 406 ms, Speed: 0.97 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://39.77.27.90:4002/rtp/239.253.254.159:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 393 ms, Speed: 1.30 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://39.77.22.252:4002/rtp/239.253.254.159:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 408 ms, Speed: 1.12 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://39.77.20.62:4002/rtp/239.253.254.78:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 413 ms, Speed: 1.16 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://39.77.159.240:4002/rtp/239.253.254.78:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 387 ms, Speed: 0.96 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://39.77.26.135:4002/rtp/239.253.254.78:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 506 ms, Speed: 0.65 M/s, Resolution: 1920x1080
+Name: 凤凰卫视中文台, URL: http://iptv.4666888.xyz/iptv2A.php?id=27, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: AS979_Net, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: TVBS, URL: http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true, From: subscribe, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 465 ms, Speed: 0.00 M/s, Resolution: None
+Name: TVB Plus, URL: http://rihou.cc:555/tv/[Pe]Plus综合, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 凤凰卫视电影台, URL: http://122.224.58.42:85/tsfile/live/10221.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-绍兴, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 澳门资讯, URL: http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-澳门, ISP: 澳门电讯, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 香港C+, URL: http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 2222 ms, Speed: 0.79 M/s, Resolution: 1920x1080
+Name: 广东卫视, URL: http://m.061899.xyz/mg/gdzj, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 纬来体育台, URL: rtmp://f13h.mine.nu/sat/tv721, From: subscribe, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 3848 ms, Speed: inf M/s, Resolution: 1280x720
+Name: TVBS, URL: http://61.221.215.25:8800/hls/9/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 7448 ms, Speed: 0.27 M/s, Resolution: 1280x720
+Name: 星空卫视, URL: http://xhyx.gz.cn:1698/hls/35/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-揭阳, ISP: 电信, Date: None, Delay: 10638 ms, Speed: 0.03 M/s, Resolution: None
+Name: 凤凰卫视电影台, URL: http://iot-mqqt.111yao.cn:8080/live/diypfhdy.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 阿里云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
