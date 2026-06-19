@@ -3,18 +3,10 @@
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-民视闽南,rtmp://f13h.mine.nu/sat/tv051
-东森超视,rtmp://f13h.mine.nu/sat/tv331
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
 🕘️更新时间,#genre#
-2026-06-20 00:12:32,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+2026-06-20 00:17:52,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
