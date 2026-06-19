@@ -270,7 +270,7 @@ CCTV中学生,re:(?i)^\s*(?:中學生|中学生).*$,CCTV中学生,CCTV中学生,
 
 TVB Plus,re:(?i)^\s*(?:TVB\s*Plus|TVBPlus|TVB-Plus|Plus综合|Plus綜合).*$,TVB Plus,TVB Plus,TVB Plus,TVBPlus,Plus综合,Plus綜合,Plus综合Petv,Plus综合频晴,Plus综合欣赏,Plus综合Mttv,Plus综合SXtv,Plus综合双语
 
-TVBS,re:(?i)^\s*TVBS.*$,TVBS,TVBS,TVBS,TVBS新闻,TVBS新闻台,TVBS閩南,TVBS闽南,TVBS欢乐,TVBS精彩,TVBS精采,tvbs新闻FYtv,tvbs闽南频道,tvbs闽南4Gtv,TVBS-NEWS,TVBSN
+TVBS,re:(?i)^\s*TVBS.*$,TVBS,TVBS,TVBS,TVBS新闻,TVBS新闻台,TVBS閩南,TVBS闽南,TVBS欢乐,TVBS精彩,TVBS精采,tvbs新闻FYtv,tvbs闽南频道,tvbs闽南4Gtv,TVBS-NEWS,TVBSN,tvbs新闻台SXtv
 
 翡翠综合,re:(?i)^\s*翡翠综合.*$,翡翠综合,翡翠综合,翡翠综合,翡翠綜合,翡翠综合Petv,翡翠综合频晴,翡翠综合欣赏,翡翠综合Mttv,翡翠综合SXtv,翡翠综合Hktv,翡翠综合FYtv,翡翠综合台
 
