@@ -227,6 +227,7 @@ CCTV中学生,re:(?i)^\s*(?:中學生|中学生).*$,CCTV中学生,CCTV中学生,
 
 # ================🇭🇰 香港 - TVB/无线系列===============
 
+
 无线新闻,re:(?i)^\s*无线新闻.*$,无线新闻,无线新闻,无线新闻,無線新聞,无线新闻Petv,无线新闻频晴,无线新闻欣赏,无线新闻Mttv,无线新闻SXtv,无线新闻Hktv,无线新闻FYtv,无线新闻台,无线新闻4Gtv,无线新闻地波
 
 无线翡翠,re:(?i)^\s*无线翡翠.*$,无线翡翠,无线翡翠,无线翡翠,無線翡翠,无线翡翠Petv,无线翡翠频晴,无线翡翠欣赏,无线翡翠Mttv,无线翡翠SXtv,无线翡翠Hktv,无线翡翠FYtv,无线翡翠台,无线翡翠4k音,无线翡翠4K音
@@ -287,7 +288,11 @@ TVBS,re:(?i)^\s*TVBS.*$,TVBS,TVBS,TVBS,TVBS新闻,TVBS新闻台,TVBS閩南,TVBS�
 
 亚洲剧台,re:(?i)^\s*亚洲剧台.*$,亚洲剧台,亚洲剧台,亚洲剧台,亞洲劇台,亚洲剧台Petv,亚洲剧台频晴,亚洲剧台欣赏,亚洲剧台Mttv,亚洲剧台SXtv,亚洲剧台Hktv,亚洲剧台FYtv,Asian Drama Channel
 
+香港C+,re:(?i)^\s*香港C\+.*$,香港C+,香港C+,香港C+,香港C+Petv,香港C+频晴,香港C+欣赏,香港C+Mttv,香港C+SXtv,香港C+Hktv,香港C+FYtv,香港C+-频道
 
+astro爱奇艺,re:(?i)^\s*(?:astroiqiyi|Astro爱奇|astro爱奇).*$,astro爱奇艺,astro爱奇艺,astro爱奇艺,astro愛奇藝,astroiqiyi,astroiqiyiPetv,astroiqiyi频晴,astroiqiyi欣赏,astroiqiyiMttv,astroiqiyiSXtv,astroiqiyiHktv,astroiqiyiFYtv,astroiqiyi单国,爱奇艺综,爱奇艺综频晴
+
+有线赛讯,re:(?i)^\s*有线赛讯.*$,有线赛讯,有线赛讯,有线赛讯,有線賽訊,有线赛讯Petv,有线赛讯频晴,有线赛讯欣赏,有线赛讯Mttv,有线赛讯SXtv,有线赛讯Hktv,有线赛讯FYtv
 
 
 # ================🇭🇰 香港 - 其他频道===============
