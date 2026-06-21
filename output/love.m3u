@@ -106,9 +106,9 @@ http://rihou.cc:555/tv/[Hv]tvbS闽南
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="频道",TVBS
 http://rihou.cc:555/tv/[FY]tvbS新闻
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="频道",TVBS
-http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
+http://220.135.64.124:5050/4gtv-4gtv068/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="频道",TVBS
-http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
+http://220.135.64.124:5050/4gtv-4gtv068/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="黄金翡翠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄金翡翠.png" group-title="频道",黄金翡翠
 http://rihou.cc:555/tv/[Hk]黄金翡翠
 #EXTINF:-1 tvg-name="黄金华剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄金华剧.png" group-title="频道",黄金华剧
@@ -667,11 +667,7 @@ http://php.jdshipin.com:8880/gztv.php?id=xinwen
 http://rihou.cc:555/tv/[mg]深圳卫视
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="频道",深圳卫视
 http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="频道",深圳卫视
-http://115.56.90.71:843/live02.hrtn.net/live/szwshd_3000.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="频道",深圳卫视
-http://115.56.90.71:843/live02.hrtn.net/live/szwshd_3000.m3u8
 #EXTINF:-1 tvg-name="wwe格斗" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/wwe格斗.png" group-title="频道",wwe格斗
 http://rihou.cc:555/tv/[FY]wwe格斗
-#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-06-20 15:52:00
+#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-06-21 16:35:18
 http://rihou.cc:555/tv/[Pd]凤凰中文
