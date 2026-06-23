@@ -412,6 +412,10 @@ http://php.jdshipin.com:8880/gztv.php?id=fazhi
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州新闻.png" group-title="频道",广州新闻
 http://rihou.cc:555/tv/[Cx]广州新闻
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州新闻.png" group-title="频道",广州新闻
+http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州新闻.png" group-title="频道",广州新闻
+http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州新闻.png" group-title="频道",广州新闻
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="频道",深圳卫视
 http://rihou.cc:555/tv/[mg]深圳卫视
@@ -419,5 +423,5 @@ http://rihou.cc:555/tv/[mg]深圳卫视
 http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 #EXTINF:-1 tvg-name="wwe格斗" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/wwe格斗.png" group-title="频道",wwe格斗
 http://rihou.cc:555/tv/[FY]wwe格斗
-#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-06-22 17:49:19
+#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-06-23 15:50:43
 http://rihou.cc:555/tv/[Pd]凤凰中文
