@@ -243,12 +243,10 @@ http://rihou.cc:555/tv/[Pd]澳门莲花
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png" group-title="频道",台视
 http://rihou.cc:555/tv/[mn]台视闽南
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png" group-title="频道",台视
-http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png" group-title="频道",台视
-http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="频道",中视
 http://rihou.cc:555/tv/[mn]中视闽南
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="频道",中视
+http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="频道",中视
 http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="频道",中视
@@ -653,5 +651,5 @@ http://rihou.cc:555/tv/[mg]深圳卫视
 http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 #EXTINF:-1 tvg-name="wwe格斗" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/wwe格斗.png" group-title="频道",wwe格斗
 http://rihou.cc:555/tv/[FY]wwe格斗
-#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-06-29 16:59:42
+#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-06-30 15:54:43
 http://rihou.cc:555/tv/[Pd]凤凰中文

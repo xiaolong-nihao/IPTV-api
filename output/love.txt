@@ -121,9 +121,8 @@ pₒₚc电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 台视,http://rihou.cc:555/tv/[mn]台视闽南
-台视,http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
-台视,http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
 中视,http://rihou.cc:555/tv/[mn]中视闽南
+中视,http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://220.135.64.124:5050/li-4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
@@ -328,4 +327,4 @@ SMArt知识,http://220.135.64.124:5050/li-litv-longturn19/index.m3u8?proxy=true
 wwe格斗,http://rihou.cc:555/tv/[FY]wwe格斗
 
 🕘️更新时间,#genre#
-2026-06-29 16:59:42,http://rihou.cc:555/tv/[Pd]凤凰中文
+2026-06-30 15:54:43,http://rihou.cc:555/tv/[Pd]凤凰中文
