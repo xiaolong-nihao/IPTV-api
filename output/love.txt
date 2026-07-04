@@ -9,11 +9,11 @@
 无线千禧,https://o11.163189.xyz/stream/live/tvbc/
 TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
-TVBS,http://nmk.ioapk.com:5050/4gtv-4gtv072/index.m3u8?proxy=true
-TVBS,http://nmk.ioapk.com:5050/4gtv-4gtv072/index.m3u8?proxy=true
+TVBS,http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true
 TVBS,http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true
 TVBS,http://nmk.ioapk.com:5050/4gtv-4gtv067/index.m3u8?proxy=true
 TVBS,http://nmk.ioapk.com:5050/4gtv-4gtv068/index.m3u8?proxy=true
+TVBS,http://nmk.ioapk.com:5050/4gtv-live087/index.m3u8?proxy=true
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
@@ -32,11 +32,11 @@ ViuTV,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 中视,http://nmk.ioapk.com:5050/4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://nmk.ioapk.com:5050/li-4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://nmk.ioapk.com:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
-华视,http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
-华视,http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
+华视,http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
 华视,http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
 华视,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 华视,http://nmk.ioapk.com:5050/4gtv-4gtv041/index.m3u8?proxy=true
+华视,http://nmk.ioapk.com:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
 台视新闻,http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
 台视新闻,http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
 台视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv051/index.m3u8?proxy=true
@@ -265,4 +265,4 @@ SMArt知识,http://nmk.ioapk.com:5050/li-litv-longturn19/index.m3u8?proxy=true
 深圳卫视,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 
 🕘️更新时间,#genre#
-2026-07-03 15:21:03,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+2026-07-04 14:47:44,http://beishan008.asuscomm.com:8890/bysid/83.m3u8

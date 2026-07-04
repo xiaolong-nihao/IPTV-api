@@ -20,15 +20,15 @@ http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="频道",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="频道",TVBS
-http://nmk.ioapk.com:5050/4gtv-4gtv072/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="频道",TVBS
-http://nmk.ioapk.com:5050/4gtv-4gtv072/index.m3u8?proxy=true
+http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="频道",TVBS
 http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="频道",TVBS
 http://nmk.ioapk.com:5050/4gtv-4gtv067/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="频道",TVBS
 http://nmk.ioapk.com:5050/4gtv-4gtv068/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="频道",TVBS
+http://nmk.ioapk.com:5050/4gtv-live087/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港C+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/香港C+.png" group-title="频道",香港C+
@@ -66,15 +66,15 @@ http://nmk.ioapk.com:5050/li-4gtv-4gtv040/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="频道",中视
 http://nmk.ioapk.com:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="频道",华视
-http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="频道",华视
-http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
+http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="频道",华视
 http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="频道",华视
 http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="频道",华视
 http://nmk.ioapk.com:5050/4gtv-4gtv041/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="频道",华视
+http://nmk.ioapk.com:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="频道",台视新闻
 http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="频道",台视新闻
@@ -527,5 +527,5 @@ http://php.jdshipin.com:8880/gztv.php?id=fazhi
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="频道",深圳卫视
 http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
-#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-07-03 15:21:03
+#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-07-04 14:47:44
 http://beishan008.asuscomm.com:8890/bysid/83.m3u8
