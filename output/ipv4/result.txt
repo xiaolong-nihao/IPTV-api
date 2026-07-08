@@ -16,8 +16,7 @@ ViuTV,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 港台电视33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 港台电视34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
-台视新闻,http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
-台视新闻,http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
+中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻,http://220.135.64.124:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
@@ -136,4 +135,4 @@ SMArt知识,http://220.135.64.124:5050/li-litv-longturn19/index.m3u8?proxy=true
 深圳卫视,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 
 🕘️更新时间,#genre#
-2026-07-07 15:38:34,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+2026-07-08 14:28:37,http://beishan008.asuscomm.com:8890/bysid/83.m3u8

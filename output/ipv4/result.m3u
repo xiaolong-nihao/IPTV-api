@@ -33,10 +33,8 @@ http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 #EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来日本.png" group-title="频道",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="频道",台视新闻
-http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="频道",台视新闻
-http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="频道",中视新闻
+http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="频道",中视新闻
 http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="频道",中视新闻
@@ -269,5 +267,5 @@ http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
 http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="频道",深圳卫视
 http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
-#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-07-07 15:38:34
+#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-07-08 14:28:37
 http://beishan008.asuscomm.com:8890/bysid/83.m3u8
