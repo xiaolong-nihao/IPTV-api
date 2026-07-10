@@ -9,8 +9,7 @@
 无线千禧,https://o11.163189.xyz/stream/live/tvbc/
 TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
-TVBS,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
-TVBS,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
+TVBS,http://nmk.ioapk.com:5050/li-4gtv-4gtv073/index.m3u8?proxy=true
 TVBS,http://nmk.ioapk.com:5050/li-4gtv-4gtv073/index.m3u8?proxy=true
 TVBS,http://nmk.ioapk.com:5050/li-4gtv-4gtv067/index.m3u8?proxy=true
 TVBS,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
@@ -37,11 +36,11 @@ ViuTV,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 华视,http://nmk.ioapk.com:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 台视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv051/index.m3u8?proxy=true
 台视新闻,http://nmk.ioapk.com:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
-中视新闻,http://220.135.64.124:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
-中视新闻,http://220.135.64.124:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
+中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻,http://nmk.ioapk.com:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
+中视新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 华视新闻,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻,http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
@@ -258,4 +257,4 @@ SMArt知识,http://nmk.ioapk.com:5050/li-litv-longturn19/index.m3u8?proxy=true
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 
 🕘️更新时间,#genre#
-2026-07-09 15:38:00,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+2026-07-10 15:35:55,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
