@@ -16,8 +16,7 @@ ViuTV,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 港台电视33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 港台电视34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
-华视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv052/index.m3u8?proxy=true
-华视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv052/index.m3u8?proxy=true
+华视新闻,http://nmk.ioapk.com:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻,http://nmk.ioapk.com:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 民视新闻,http://nmk.ioapk.com:5050/litv-ftv13/index.m3u8?proxy=true
@@ -29,11 +28,10 @@ ViuTV,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://nmk.ioapk.com:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
-寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
-寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
 寰宇新闻,http://nmk.ioapk.com:5050/litv-longturn14/index.m3u8?proxy=true
 寰宇新闻,http://nmk.ioapk.com:5050/li-litv-longturn14/index.m3u8?proxy=true
 寰宇新闻,http://nmk.ioapk.com:5050/of-litv-longturn14/index.m3u8?proxy=true
+非凡新闻,http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
 非凡新闻,http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
 非凡新闻,http://nmk.ioapk.com:5050/4gtv-4gtv010/index.m3u8?proxy=true
 台视财经,http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
@@ -211,8 +209,6 @@ SMArt知识,http://nmk.ioapk.com:5050/li-litv-longturn19/index.m3u8?proxy=true
 国会频贰,http://220.135.64.124:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
 国会频贰,http://nmk.ioapk.com:5050/4gtv-4gtv085/index.m3u8?proxy=true
 国会频贰,http://nmk.ioapk.com:5050/li-4gtv-4gtv085/index.m3u8?proxy=true
-深圳卫视,http://221.221.137.78:8888/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://221.221.137.78:8888/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🕘️更新时间,#genre#
-2026-07-26 14:37:06,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+2026-07-27 15:31:07,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
