@@ -65,14 +65,12 @@ http://nmk.ioapk.com:5050/of-litv-longturn14/index.m3u8?proxy=true
 http://nmk.ioapk.com:5050/4gtv-4gtv010/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="台视财经" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视财经.png" group-title="频道",台视财经
 http://nmk.ioapk.com:5050/4gtv-4gtv056/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视财经.png" group-title="频道",台视财经
-http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视财经.png" group-title="频道",台视财经
-http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中视经典" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视经典.png" group-title="频道",中视经典
 http://nmk.ioapk.com:5050/4gtv-4gtv080/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中视经典" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视经典.png" group-title="频道",中视经典
 http://nmk.ioapk.com:5050/li-4gtv-4gtv080/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视经典.png" group-title="频道",中视经典
+http://220.135.64.124:5050/4gtv-4gtv080/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中视经典" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视经典.png" group-title="频道",中视经典
 http://220.135.64.124:5050/4gtv-4gtv080/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中视经典" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视经典.png" group-title="频道",中视经典
@@ -415,5 +413,5 @@ http://nmk.ioapk.com:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
 http://220.135.64.124:5050/4gtv-4gtv085/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="国会频贰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/国会频贰.png" group-title="频道",国会频贰
 http://220.135.64.124:5050/li-4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-07-28 14:27:12
+#EXTINF:-1 tvg-name="# ==================== 香港频道 ====================" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/# ==================== 香港频道 ====================.png" group-title="🕘️更新时间",2026-07-29 14:31:10
 http://beishan008.asuscomm.com:8890/bysid/83.m3u8
