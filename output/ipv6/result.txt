@@ -18,4 +18,4 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 
 🕘️更新时间,#genre#
-2026-08-06 14:30:35,https://o11.163189.xyz/stream/tvb/fct4k/
+2026-08-07 13:40:46,https://o11.163189.xyz/stream/tvb/fct4k/
