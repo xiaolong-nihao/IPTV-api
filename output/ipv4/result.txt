@@ -18,7 +18,6 @@ ViuTV,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 三立新闻,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 三立新闻,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
-三立新闻,http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
 三立新闻,http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8?proxy=true
 三立新闻,http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8?proxy=true
 东森新闻,http://nmk.ioapk.com:5050/4gtv-4gtv152/index.m3u8?proxy=true
@@ -198,4 +197,4 @@ SMArt知识,http://nmk.ioapk.com:5050/li-litv-longturn19/index.m3u8?proxy=true
 国会频贰,http://nmk.ioapk.com:5050/li-4gtv-4gtv085/index.m3u8?proxy=true
 
 🕘️更新时间,#genre#
-2026-08-13 13:40:08,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+2026-08-14 13:38:12,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
