@@ -213,4 +213,4 @@ SMArt知识,http://220.135.64.124:5050/li-litv-longturn19/index.m3u8?proxy=true
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 
 🕘️更新时间,#genre#
-2026-08-17 12:41:52,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+2026-08-18 12:35:36,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
