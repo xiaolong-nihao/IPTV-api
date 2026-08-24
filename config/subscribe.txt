@@ -20,8 +20,8 @@
 # https://bitbucket.org/guot55/bhmb/raw/66cbebc3b012fd4f86a607ccc78428ef3fd776a9/TVBoxOSC/ysp.txt
 # https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
 # https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
-# http://rihou.cc:555/gggg.nzk
-# http://rihou.cc:567/gggg.nzk
+ http://rihou.cc:555/gggg.nzk
+ http://rihou.cc:567/gggg.nzk
 # https://live.zbds.top/tv/iptv4.txt
 # https://sub.ottiptv.cc/yylunbo.m3u
 # https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
