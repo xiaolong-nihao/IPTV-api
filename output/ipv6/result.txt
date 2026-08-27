@@ -5,20 +5,32 @@ CCTV-1,https://cdn.qd.je/163189/cctv1
 CCTV-1,https://cdn6.cc.cd/163189/cctv1
 CCTV-1,http://c.123.rr.kg/163189/cctv1
 CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
+CCTV-2,http://fn.gcl.de5.net:5908/gsh950428/631780532
 CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
+CCTV-3,http://fn.gcl.de5.net:5908/gsh950428/624878271
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
+CCTV-4,http://fn.gcl.de5.net:5908/gsh950428/631780421
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
+CCTV-5,http://fn.gcl.de5.net:5908/gsh950428/641886683
 CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV-5+,http://fn.gcl.de5.net:5908/gsh950428/641886773
 CCTV-6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
+CCTV-6,http://fn.gcl.de5.net:5908/gsh950428/624878396
 CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
+CCTV-7,http://fn.gcl.de5.net:5908/gsh950428/673168121
 CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
+CCTV-8,http://fn.gcl.de5.net:5908/gsh950428/624878356
 CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
+CCTV-9,http://fn.gcl.de5.net:5908/gsh950428/673168140
 CCTV-10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
+CCTV-10,http://fn.gcl.de5.net:5908/gsh950428/624878405
 CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
+CCTV-11,http://fn.gcl.de5.net:5908/gsh950428/667987558
 CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
+CCTV-12,http://fn.gcl.de5.net:5908/gsh950428/673168185
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv13
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,https://cdn.qd.je/163189/cctv13-2
@@ -26,17 +38,30 @@ CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
 CCTV-13,https://10.fast.hidns.vip/163189/cctv13/
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv14
 CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
+CCTV-14,http://fn.gcl.de5.net:5908/gsh950428/624878440
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
+CCTV-15,http://fn.gcl.de5.net:5908/gsh950428/673168223
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
+CCTV-17,http://fn.gcl.de5.net:5908/gsh950428/673168256
+CETV1,http://fn.gcl.de5.net:5908/gsh950428/923287154
+CETV2,http://fn.gcl.de5.net:5908/gsh950428/923287211
+CETV4,http://fn.gcl.de5.net:5908/gsh950428/923287339
 CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://live.chinacert.cftest5.cn/cnmg/live/609006446
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8?3.24.170:5140
+CGTN俄语,http://fn.gcl.de5.net:5908/gsh950428/609006446
 CGTN法语,https://live.chinacert.cftest5.cn/cnmg/live/609006476
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN法语,http://fn.gcl.de5.net:5908/gsh950428/609006476
 CGTN西班牙语,https://live.chinacert.cftest5.cn/cnmg/live/609006450
+CGTN西班牙语,http://fn.gcl.de5.net:5908/gsh950428/609006450
 CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
+CGTN阿拉伯语,http://fn.gcl.de5.net:5908/gsh950428/609154345
+CCTV发现之旅,http://fn.gcl.de5.net:5908/gsh950428/624878970
+CCTV老故事,http://fn.gcl.de5.net:5908/gsh950428/884121956
+CCTV中学生,http://fn.gcl.de5.net:5908/gsh950428/708869532
 
 卫视频道,#genre#
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong
@@ -54,7 +79,9 @@ CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
 北京卫视,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京卫视,http://ls.qingting.fm/live/68746.m3u8
 北京卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京卫视,http://fn.gcl.de5.net:5908/gsh950428/630287636
 湖北卫视,https://live.chinacert.cftest5.cn/zgst/live/hubei
+湖北卫视,http://fn.gcl.de5.net:5908/gsh950428/947472496
 安徽卫视,https://live.chinacert.cftest5.cn/zgst/live/anhui
 安徽卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/1u5pn7xcca5/playlist.m3u8
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin
@@ -72,6 +99,7 @@ CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 东南卫视,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+东南卫视,http://fn.gcl.de5.net:5908/gsh950428/849116810
 甘肃卫视,https://live.chinacert.cftest5.cn/zgst/live/gansu
 甘肃卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/mgjks0gsmq/1080p/playlist.m3u8
 广西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -88,6 +116,7 @@ CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
 海南卫视,http://ls.qingting.fm/live/4911.m3u8
 海南卫视,http://ls.qingting.fm/live/1861.m3u8
 海南卫视,http://ls.qingting.fm/live/1511803.m3u8
+海南卫视,http://fn.gcl.de5.net:5908/gsh950428/947472502
 河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北卫视,https://live.chinacert.cftest5.cn/zgst/live/hebei
 河北卫视,http://ls.qingting.fm/live/2508757.m3u8
@@ -99,15 +128,20 @@ CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
 河南卫视,http://ls.qingting.fm/live/1719795.m3u8
 河南卫视,http://ls.qingting.fm/live/1208.m3u8
 吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin
+吉林卫视,http://fn.gcl.de5.net:5908/gsh950428/947472500
 江苏卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏卫视,http://ls.qingting.fm/live/4944.m3u8
 江苏卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏卫视,http://fn.gcl.de5.net:5908/gsh950428/623899368
 江西卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
+江西卫视,http://fn.gcl.de5.net:5908/gsh950428/783847495
 辽宁卫视,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁卫视,http://ls.qingting.fm/live/23801.m3u8
+辽宁卫视,http://fn.gcl.de5.net:5908/gsh950428/630291707
 广东卫视,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/dgcde731tw9/playlist.m3u8
+广东卫视,http://fn.gcl.de5.net:5908/gsh950428/608831231
 黑龙江卫视,https://live.chinacert.cftest5.cn/zgst/live/heilongjiang
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/wax4o1duqr/1080p/playlist.m3u8
@@ -117,10 +151,12 @@ CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
 宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia
 宁夏卫视,http://ls.qingting.fm/live/1840.m3u8
 宁夏卫视,http://ls.qingting.fm/live/1842.m3u8
+宁夏卫视,http://fn.gcl.de5.net:5908/gsh950428/738910535
 青海卫视,https://live.chinacert.cftest5.cn/zgst/live/qinghai
 青海卫视,http://ls.qingting.fm/live/5009.m3u8
 青海卫视,http://ls.qingting.fm/live/2163891.m3u8
 青海卫视,http://ls.qingting.fm/live/5008.m3u8
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8#http://119.39.9.8:9901/tsfile/live/0118_1.m3u8#https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 山西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi
 山西卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/4fzrkd3mfra/1080p/playlist.m3u8
@@ -155,24 +191,37 @@ CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
 西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang
 西藏卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/e8o444o30ec/1080p/playlist.m3u8
 三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha
+三沙卫视,http://fn.gcl.de5.net:5908/gsh950428/961023778
 海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=#http://8.138.7.223/tv/hxws.m3u8
 海峡卫视,https://cdn3.163189.xyz/163189/hxws
 海峡卫视,https://cdn.qd.je/163189/hxws
 海峡卫视,https://cdn.qd.je/163189/hxws2
 海峡卫视,https://live.chinacert.cftest5.cn/cnmg/live/849119120
 兵团卫视,https://live.chinacert.cftest5.cn/zgst/live/bingtuan
+兵团卫视,http://fn.gcl.de5.net:5908/gsh950428/956923145
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
+大湾区卫视,http://fn.gcl.de5.net:5908/gsh950428/608917627
+大湾区卫视,http://fn.gcl.de5.net:5908/gsh950428/614961829
 
 高清频道,#genre#
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+老故事,http://fn.gcl.de5.net:5908/gsh950428/884121956
+发现之旅,http://fn.gcl.de5.net:5908/gsh950428/624878970
+中学生,http://fn.gcl.de5.net:5908/gsh950428/708869532
+快乐垂钓,http://fn.gcl.de5.net:5908/gsh950428/961930263
 
 儿童频道,#genre#
+嘉佳卡通,http://fn.gcl.de5.net:5908/gsh950428/614952364
+优漫卡通,http://fn.gcl.de5.net:5908/gsh950428/626064703
+新动漫,http://fn.gcl.de5.net:5908/gsh950428/961930269
 猫和老鼠,https://live.metshop.top/huya/11352879
 
 体育频道,#genre#
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
+CCTV-5,http://fn.gcl.de5.net:5908/gsh950428/641886683
 CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV-5+,http://fn.gcl.de5.net:5908/gsh950428/641886773
 广东体育,https://cdn2.163189.xyz/163189/gdty
 广东体育,https://cdn.qd.je/163189/gdty
 广东体育,http://r.jdshipin.com/LiYdg
@@ -190,9 +239,12 @@ CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 深圳体育,http://yun.two.yunshipin.bbroot.com:8080/streams/x2by3v9842e/playlist.m3u8
 辽宁体育,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁体育,http://ls.qingting.fm/live/23801.m3u8
+辽宁体育,http://fn.gcl.de5.net:5908/gsh950428/630291707
 吉林篮球,https://live.chinacert.cftest5.cn/zgst/live/jilin
+吉林篮球,http://fn.gcl.de5.net:5908/gsh950428/947472500
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+快乐垂钓,http://fn.gcl.de5.net:5908/gsh950428/961930263
 
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -415,27 +467,34 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 山东卫视,http://ls.qingting.fm/live/60180.m3u8
 山东卫视,http://ls.qingting.fm/live/60260.m3u8
 山东生活,http://ls.qingting.fm/live/60260.m3u8
+山东教育,http://fn.gcl.de5.net:5908/gsh950428/609154353
 青岛西海岸,http://ls.qingting.fm/live/33446.m3u8
 
 北京,#genre#
 北京卫视,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京卫视,http://ls.qingting.fm/live/68746.m3u8
 北京卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京卫视,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京淘娱乐,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京淘娱乐,http://ls.qingting.fm/live/68746.m3u8
 北京淘娱乐,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京淘娱乐,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京淘剧场,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京淘剧场,http://ls.qingting.fm/live/68746.m3u8
 北京淘剧场,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京淘剧场,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京淘电影,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京淘电影,http://ls.qingting.fm/live/68746.m3u8
 北京淘电影,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京淘电影,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京淘Baby,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京淘Baby,http://ls.qingting.fm/live/68746.m3u8
 北京淘Baby,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京淘Baby,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京萌宠TV,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京萌宠TV,http://ls.qingting.fm/live/68746.m3u8
 北京萌宠TV,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京萌宠TV,http://fn.gcl.de5.net:5908/gsh950428/630287636
 
 上海,#genre#
 东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang
@@ -443,6 +502,8 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 东方卫视,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
 东方卫视,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
 东方卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/f7igh41ggm/playlist.m3u8
+上海新闻综合,http://fn.gcl.de5.net:5908/gsh950428/651632657
+上海第一财经,http://fn.gcl.de5.net:5908/gsh950428/608780988
 上海点掌财经,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 上海点掌财经,http://cdn.jdshipin.com/kkxw.php?id=1
 上海点掌财经,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
@@ -467,6 +528,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 广东,#genre#
 广东卫视,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/dgcde731tw9/playlist.m3u8
+广东卫视,http://fn.gcl.de5.net:5908/gsh950428/608831231
 广东珠江,https://cdn2.163189.xyz/163189/gdzj
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,https://2.fast.hidns.vip/163189/gdzj
@@ -477,6 +539,8 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 广东体育,https://2.fast.hidns.vip/163189/gdty
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
+大湾区卫视,http://fn.gcl.de5.net:5908/gsh950428/608917627
+大湾区卫视,http://fn.gcl.de5.net:5908/gsh950428/614961829
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
@@ -520,8 +584,14 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 江苏卫视,http://ls.qingting.fm/live/4944.m3u8
 江苏卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏卫视,http://fn.gcl.de5.net:5908/gsh950428/623899368
+江苏教育,http://fn.gcl.de5.net:5908/gsh950428/628008321
+江苏国际,http://fn.gcl.de5.net:5908/gsh950428/626064674
 南京新闻,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+南京新闻,http://fn.gcl.de5.net:5908/gsh950428/838109047
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+南京教科,http://fn.gcl.de5.net:5908/gsh950428/838153729
+南京十八,http://fn.gcl.de5.net:5908/gsh950428/838151753
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 无锡新闻,http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡新闻,http://ls.qingting.fm/live/2777.m3u8
@@ -537,22 +607,34 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
+镇江新闻,http://fn.gcl.de5.net:5908/gsh950428/639731783
+南通新闻,http://fn.gcl.de5.net:5908/gsh950428/955227985
+盐城新闻,http://fn.gcl.de5.net:5908/gsh950428/639731825
+淮安新闻,http://fn.gcl.de5.net:5908/gsh950428/639731826
+连云港新闻,http://fn.gcl.de5.net:5908/gsh950428/639731715
+徐州新闻,http://fn.gcl.de5.net:5908/gsh950428/639731747
+宿迁新闻,http://fn.gcl.de5.net:5908/gsh950428/639731832
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 
 福建,#genre#
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 东南卫视,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+东南卫视,http://fn.gcl.de5.net:5908/gsh950428/849116810
 福建电视剧,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 福建电视剧,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 福建电视剧,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建电视剧,http://fn.gcl.de5.net:5908/gsh950428/849116810
 福建旅游,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 福建旅游,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 福建旅游,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建旅游,http://fn.gcl.de5.net:5908/gsh950428/849116810
 福建海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=#http://8.138.7.223/tv/hxws.m3u8
 福建海峡卫视,https://cdn3.163189.xyz/163189/hxws
 福建海峡卫视,https://cdn.qd.je/163189/hxws
@@ -576,6 +658,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 
 湖北,#genre#
 湖北卫视,https://live.chinacert.cftest5.cn/zgst/live/hubei
+湖北卫视,http://fn.gcl.de5.net:5908/gsh950428/947472496
 襄阳新闻,http://ls.qingting.fm/live/1307.m3u8
 襄阳新闻,http://ls.qingting.fm/live/1308.m3u8
 襄阳新闻,http://ls.qingting.fm/live/5057.m3u8
@@ -641,6 +724,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 
 江西,#genre#
 江西卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
+江西卫视,http://fn.gcl.de5.net:5908/gsh950428/783847495
 九江新闻综合,http://ls.qingting.fm/live/2785094.m3u8
 
 河南,#genre#
@@ -749,6 +833,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 陕西卫视,http://ls.qingting.fm/live/1608.m3u8
 陕西卫视,http://ls.qingting.fm/live/1604.m3u8
 陕西公共,http://ls.qingting.fm/live/1222.m3u8
+陕西体育休闲,http://fn.gcl.de5.net:5908/gsh950428/626064707
 陕西西部电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 陕西西部电影,https://live.chinacert.cftest5.cn/zgst/live/shanxi1
 陕西西部电影,http://ls.qingting.fm/live/1601.m3u8
@@ -782,6 +867,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 
 吉林,#genre#
 吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin
+吉林卫视,http://fn.gcl.de5.net:5908/gsh950428/947472500
 长春市民生活,http://ls.qingting.fm/live/5014.m3u8
 长白综合,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 
@@ -799,6 +885,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 辽宁,#genre#
 辽宁卫视,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁卫视,http://ls.qingting.fm/live/23801.m3u8
+辽宁卫视,http://fn.gcl.de5.net:5908/gsh950428/630291707
 辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
 沈阳新闻,http://ls.qingting.fm/live/23891.m3u8
 
@@ -807,6 +894,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 青海卫视,http://ls.qingting.fm/live/5009.m3u8
 青海卫视,http://ls.qingting.fm/live/2163891.m3u8
 青海卫视,http://ls.qingting.fm/live/5008.m3u8
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/96iln2.m3u8#https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
@@ -856,6 +944,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia
 宁夏卫视,http://ls.qingting.fm/live/1840.m3u8
 宁夏卫视,http://ls.qingting.fm/live/1842.m3u8
+宁夏卫视,http://fn.gcl.de5.net:5908/gsh950428/738910535
 
 新疆,#genre#
 新疆卫视,https://live.chinacert.cftest5.cn/zgst/live/xinjiang
@@ -866,6 +955,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 
 兵团,#genre#
 兵团卫视,https://live.chinacert.cftest5.cn/zgst/live/bingtuan
+兵团卫视,http://fn.gcl.de5.net:5908/gsh950428/956923145
 
 阅兵合集,#genre#
 9月3号阅兵回放,https://vd3.bdstatic.com/mda-ri283wyxe135szm5/576p/h264/1756880513304056354/mda-ri283wyxe135szm5.mp4
@@ -1486,6 +1576,7 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 东南西北风DJ,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 东南西北风DJ,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 东南西北风DJ,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+东南西北风DJ,http://fn.gcl.de5.net:5908/gsh950428/849116810
 2022伤感DJ串烧dj,https://vd2.bdstatic.com/mda-ncm68fx91zybkka3/cae_h264_delogo/1647925011440022023/mda-ncm68fx91zybkka3.mp4
 还没有爱够DJ,https://vd3.bdstatic.com/mda-ncjgwmv1u85an74x/cae_h264_delogo/1647781725809492842/mda-ncjgwmv1u85an74x.mp4
 花儿笑了DJ,https://vd4.bdstatic.com/mda-ncj7vawq5rnk5v59/hd/cae_h264_delogo/1647759626623363912/mda-ncj7vawq5rnk5v59.mp4
@@ -1931,6 +2022,7 @@ dj舞曲金典,https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456
 东南西北风DJ,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 东南西北风DJ,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 东南西北风DJ,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+东南西北风DJ,http://fn.gcl.de5.net:5908/gsh950428/849116810
 两个人蔡妍BerryGood,https://vd4.bdstatic.com/mda-ki9ze4v8sw9sj7cb/sc/mda-ki9ze4v8sw9sj7cb.mp4
 两个人蔡妍BerryGood,https://vd2.bdstatic.com/mda-iffus60ju99vp5kr/sc/mda-iffus60ju99vp5kr.mp4
 串烧歌曲,https://vd3.bdstatic.com/mda-mmpgmu9qnrdctwza/hd/cae_h264/1640350134589718126/mda-mmpgmu9qnrdctwza.mp4
@@ -2508,6 +2600,7 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 辽宁台相声小品,http://cdn.jdshipin.com:8880/douyu.php?id=9403712
 辽宁台相声小品,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁台相声小品,http://ls.qingting.fm/live/23801.m3u8
+辽宁台相声小品,http://fn.gcl.de5.net:5908/gsh950428/630291707
 蔡明小品,http://cdn.jdshipin.com:8880/yy.php?id=1354936177
 非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
 幸福密码,https://vd3.bdstatic.com/mda-kj9ispnax8gpirkf/hd/mda-kj9ispnax8gpirkf.mp4
@@ -2762,6 +2855,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 戏曲频道,#genre#
 七彩戏剧,http://nas.hssvm.com:8888/udp/225.1.1.86:5002
 梨园频道,http://nas.hssvm.com:8888/udp/225.1.1.202:5002
+梨园频道,http://fn.gcl.de5.net:5908/gsh950428/961930369
 
 广*场*舞,#genre#
 广场舞1,https://vd2.bdstatic.com/mda-nbc9krdu58y0w844/cae_h264_delogo/1644737717799414977/mda-nbc9krdu58y0w844.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257585-0-0-93c6d8466ab9f586084e618631165335&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1384669368&vid=6183288197091076409&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=593&split=569972
@@ -2873,6 +2967,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 江苏徐州云龙湖风景区云龙山观景台西,http://ls.qingting.fm/live/4944.m3u8
 江苏徐州云龙湖风景区云龙山观景台西,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏徐州云龙湖风景区云龙山观景台西,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏徐州云龙湖风景区云龙山观景台西,http://fn.gcl.de5.net:5908/gsh950428/623899368
 云南丽江蓝月谷,https://live.chinacert.cftest5.cn/zgst/live/yunnan
 云南丽江蓝月谷,http://ls.qingting.fm/live/1928.m3u8
 云南丽江蓝月谷,http://ls.qingting.fm/live/1930.m3u8
@@ -2897,9 +2992,11 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 江苏南京牛首山,http://ls.qingting.fm/live/4944.m3u8
 江苏南京牛首山,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏南京牛首山,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏南京牛首山,http://fn.gcl.de5.net:5908/gsh950428/623899368
 福建漳州醉美沙滩翡翠湾,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 福建漳州醉美沙滩翡翠湾,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 福建漳州醉美沙滩翡翠湾,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建漳州醉美沙滩翡翠湾,http://fn.gcl.de5.net:5908/gsh950428/849116810
 浙江舟山东极岛,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江舟山东极岛,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 浙江舟山东极岛,https://live.chinacert.cftest5.cn/zgst/live/zhejiang
@@ -3048,6 +3145,7 @@ Rai News 24,https://jmp2.uk/stvp-IT3200004WU
 
 西班牙频道,#genre#
 CGTN Español,https://live.chinacert.cftest5.cn/cnmg/live/609006450
+CGTN Español,http://fn.gcl.de5.net:5908/gsh950428/609006450
 Disney Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=bs24
 Disney Junior,https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
 National Geographic,https://naori-test.netgenx.site/pxx.php?shk_cid=cs10
@@ -3055,6 +3153,7 @@ National Geographic,https://naori-test.netgenx.site/pxx.php?shk_cid=cs10
 马来西亚,#genre#
 Animal Planet,https://naori-test.netgenx.site/pxx.php?shk_cid=cs24
 CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
+CCTV4,http://fn.gcl.de5.net:5908/gsh950428/631780421
 CGTN,https://live.chinacert.cftest5.cn/cnmg/live/609017205
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
@@ -3088,13 +3187,16 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 北京怀旧金曲,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京怀旧金曲,http://ls.qingting.fm/live/68746.m3u8
 北京怀旧金曲,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京怀旧金曲,http://fn.gcl.de5.net:5908/gsh950428/630287636
 江苏音乐广播,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏音乐广播,http://ls.qingting.fm/live/4944.m3u8
 江苏音乐广播,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏音乐广播,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏音乐广播,http://fn.gcl.de5.net:5908/gsh950428/623899368
 北京音乐广播,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京音乐广播,http://ls.qingting.fm/live/68746.m3u8
 北京音乐广播,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京音乐广播,http://fn.gcl.de5.net:5908/gsh950428/630287636
 安徽音乐广播,https://live.chinacert.cftest5.cn/zgst/live/anhui
 安徽音乐广播,http://yun.two.yunshipin.bbroot.com:8080/streams/1u5pn7xcca5/playlist.m3u8
 贵州音乐广播,http://ls.qingting.fm/live/23937.m3u8
@@ -3113,8 +3215,10 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 河南音乐广播,http://ls.qingting.fm/live/1209.m3u8
 河南音乐广播,http://ls.qingting.fm/live/1719795.m3u8
 湖北经典音乐广播,https://live.chinacert.cftest5.cn/zgst/live/hubei
+湖北经典音乐广播,http://fn.gcl.de5.net:5908/gsh950428/947472496
 吉林音乐广播,http://ls.qingting.fm/live/1831.m3u8
 吉林音乐广播,https://live.chinacert.cftest5.cn/zgst/live/jilin
+吉林音乐广播,http://fn.gcl.de5.net:5908/gsh950428/947472500
 山东音乐广播,http://ls.qingting.fm/live/1665.m3u8
 山东音乐广播,https://live.chinacert.cftest5.cn/zgst/live/shandong
 山东音乐广播,http://ls.qingting.fm/live/60266.m3u8
@@ -3137,12 +3241,14 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 福建音乐广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 福建音乐广播,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 福建音乐广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建音乐广播,http://fn.gcl.de5.net:5908/gsh950428/849116810
 厦门音乐广播,http://ls.qingting.fm/live/1739.m3u8
 厦门音乐广播,https://live.chinacert.cftest5.cn/zgst/live/xiamen
 厦门音乐广播,http://ls.qingting.fm/live/1737.m3u8
 广东音乐之声,http://ls.qingting.fm/live/1260.m3u8
 广东音乐之声,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东音乐之声,http://yun.two.yunshipin.bbroot.com:8080/streams/dgcde731tw9/playlist.m3u8
+广东音乐之声,http://fn.gcl.de5.net:5908/gsh950428/608831231
 广西音乐广播,http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 广西音乐广播,https://live.chinacert.cftest5.cn/zgst/live/guangxi
 广西音乐广播,http://ls.qingting.fm/live/1754.m3u8
@@ -3185,9 +3291,11 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 深圳生活,http://ls.qingting.fm/live/1273.m3u8
 深圳生活,http://ls.qingting.fm/live/1271.m3u8
 深圳生活,http://yun.two.yunshipin.bbroot.com:8080/streams/x2by3v9842e/playlist.m3u8
+第一财经广播🛰️,http://fn.gcl.de5.net:5908/gsh950428/608780988
 北京音乐,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京音乐,http://ls.qingting.fm/live/68746.m3u8
 北京音乐,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京音乐,http://fn.gcl.de5.net:5908/gsh950428/630287636
 浙江音乐,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江音乐,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 浙江音乐,https://live.chinacert.cftest5.cn/zgst/live/zhejiang
@@ -3197,10 +3305,12 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 江苏经典,http://ls.qingting.fm/live/4944.m3u8
 江苏经典,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏经典,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏经典,http://fn.gcl.de5.net:5908/gsh950428/623899368
 江苏音乐,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏音乐,http://ls.qingting.fm/live/4944.m3u8
 江苏音乐,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏音乐,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏音乐,http://fn.gcl.de5.net:5908/gsh950428/623899368
 四川岷江,https://live.chinacert.cftest5.cn/zgst/live/sichuan
 四川岷江,http://ls.qingting.fm/live/4887.m3u8
 四川岷江,http://ls.qingting.fm/live/4906.m3u8
@@ -3218,6 +3328,7 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 北京经典,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京经典,http://ls.qingting.fm/live/68746.m3u8
 北京经典,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京经典,http://fn.gcl.de5.net:5908/gsh950428/630287636
 山东音乐,http://ls.qingting.fm/live/1665.m3u8
 山东音乐,https://live.chinacert.cftest5.cn/zgst/live/shandong
 山东音乐,http://ls.qingting.fm/live/60266.m3u8
@@ -3234,6 +3345,8 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 湖南新闻,http://yun.two.yunshipin.bbroot.com:8080/streams/z05b82jny39/playlist.m3u8
 广东新闻广播,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东新闻广播,http://yun.two.yunshipin.bbroot.com:8080/streams/dgcde731tw9/playlist.m3u8
+广东新闻广播,http://fn.gcl.de5.net:5908/gsh950428/608831231
+第一财经广播,http://fn.gcl.de5.net:5908/gsh950428/608780988
 湖南经济广播,https://live.chinacert.cftest5.cn/zgst/live/hunan
 湖南经济广播,http://yun.two.yunshipin.bbroot.com:8080/streams/z05b82jny39/playlist.m3u8
 湖南汽车音乐,https://live.chinacert.cftest5.cn/zgst/live/hunan
@@ -3243,28 +3356,38 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 深圳交通广播,http://ls.qingting.fm/live/1271.m3u8
 深圳交通广播,http://yun.two.yunshipin.bbroot.com:8080/streams/x2by3v9842e/playlist.m3u8
 南方生活广播,https://live.chinacert.cftest5.cn/cnmg/live/608917627
+南方生活广播,http://fn.gcl.de5.net:5908/gsh950428/608917627
+南方生活广播,http://fn.gcl.de5.net:5908/gsh950428/614961829
 广东南粤之声,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东南粤之声,http://yun.two.yunshipin.bbroot.com:8080/streams/dgcde731tw9/playlist.m3u8
+广东南粤之声,http://fn.gcl.de5.net:5908/gsh950428/608831231
 广东城市之声,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东城市之声,http://yun.two.yunshipin.bbroot.com:8080/streams/dgcde731tw9/playlist.m3u8
+广东城市之声,http://fn.gcl.de5.net:5908/gsh950428/608831231
 广东文体广播,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东文体广播,http://yun.two.yunshipin.bbroot.com:8080/streams/dgcde731tw9/playlist.m3u8
+广东文体广播,http://fn.gcl.de5.net:5908/gsh950428/608831231
 广东股市广播,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东股市广播,http://yun.two.yunshipin.bbroot.com:8080/streams/dgcde731tw9/playlist.m3u8
+广东股市广播,http://fn.gcl.de5.net:5908/gsh950428/608831231
 青海交通音乐,https://live.chinacert.cftest5.cn/zgst/live/qinghai
 青海交通音乐,http://ls.qingting.fm/live/5009.m3u8
 青海交通音乐,http://ls.qingting.fm/live/2163891.m3u8
 青海交通音乐,http://ls.qingting.fm/live/5008.m3u8
+青海交通音乐,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 辽宁经典音乐,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁经典音乐,http://ls.qingting.fm/live/23801.m3u8
+辽宁经典音乐,http://fn.gcl.de5.net:5908/gsh950428/630291707
 福建音乐,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 福建音乐,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 福建音乐,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建音乐,http://fn.gcl.de5.net:5908/gsh950428/849116810
 黑龙江音乐,https://live.chinacert.cftest5.cn/zgst/live/heilongjiang
 黑龙江音乐,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江音乐,http://yun.two.yunshipin.bbroot.com:8080/streams/wax4o1duqr/1080p/playlist.m3u8
 黑龙江音乐,https://ls.qingting.fm/live/4974/64k.m3u8
 江西音乐,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
+江西音乐,http://fn.gcl.de5.net:5908/gsh950428/783847495
 重庆音乐,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆音乐,http://ls.qingting.fm/live/1498.m3u8
 重庆音乐,http://ls.qingting.fm/live/1499.m3u8
@@ -3284,6 +3407,7 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 海南音乐,http://ls.qingting.fm/live/4911.m3u8
 海南音乐,http://ls.qingting.fm/live/1861.m3u8
 海南音乐,http://ls.qingting.fm/live/1511803.m3u8
+海南音乐,http://fn.gcl.de5.net:5908/gsh950428/947472502
 广西经济广播,http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 广西经济广播,https://live.chinacert.cftest5.cn/zgst/live/guangxi
 广西经济广播,http://ls.qingting.fm/live/1754.m3u8
@@ -3299,6 +3423,7 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 甘肃青春调频,https://live.chinacert.cftest5.cn/zgst/live/gansu
 甘肃青春调频,http://yun.two.yunshipin.bbroot.com:8080/streams/mgjks0gsmq/1080p/playlist.m3u8
 湖北经典音乐,https://live.chinacert.cftest5.cn/zgst/live/hubei
+湖北经典音乐,http://fn.gcl.de5.net:5908/gsh950428/947472496
 内蒙古音乐,https://live.chinacert.cftest5.cn/zgst/live/neimenggu
 内蒙古音乐,http://yun.two.yunshipin.bbroot.com:8080/streams/ttwjalo4jmh/1080p/playlist.m3u8
 山东经典音乐,https://live.chinacert.cftest5.cn/zgst/live/shandong
@@ -3324,27 +3449,35 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 北京新闻广播,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京新闻广播,http://ls.qingting.fm/live/68746.m3u8
 北京新闻广播,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京新闻广播,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京体育广播,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京体育广播,http://ls.qingting.fm/live/68746.m3u8
 北京体育广播,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京体育广播,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京故事广播,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京故事广播,http://ls.qingting.fm/live/68746.m3u8
 北京故事广播,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京故事广播,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京文艺广播,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京文艺广播,http://ls.qingting.fm/live/68746.m3u8
 北京文艺广播,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京文艺广播,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京城市广播,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京城市广播,http://ls.qingting.fm/live/68746.m3u8
 北京城市广播,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京城市广播,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京外语广播,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京外语广播,http://ls.qingting.fm/live/68746.m3u8
 北京外语广播,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京外语广播,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京青年广播,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京青年广播,http://ls.qingting.fm/live/68746.m3u8
 北京青年广播,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京青年广播,http://fn.gcl.de5.net:5908/gsh950428/630287636
 北京交通广播,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京交通广播,http://ls.qingting.fm/live/68746.m3u8
 北京交通广播,http://yun.two.yunshipin.bbroot.com:8080/streams/h0eobuin7pr/playlist.m3u8
+北京交通广播,http://fn.gcl.de5.net:5908/gsh950428/630287636
 重庆交通广播,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆交通广播,http://ls.qingting.fm/live/1498.m3u8
 重庆交通广播,http://ls.qingting.fm/live/1499.m3u8
@@ -3374,19 +3507,24 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 青海经济广播,http://ls.qingting.fm/live/5009.m3u8
 青海经济广播,http://ls.qingting.fm/live/2163891.m3u8
 青海经济广播,http://ls.qingting.fm/live/5008.m3u8
+青海经济广播,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 青海新闻广播,https://live.chinacert.cftest5.cn/zgst/live/qinghai
 青海新闻广播,http://ls.qingting.fm/live/5009.m3u8
 青海新闻广播,http://ls.qingting.fm/live/2163891.m3u8
 青海新闻广播,http://ls.qingting.fm/live/5008.m3u8
+青海新闻广播,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 宁夏旅游广播,https://live.chinacert.cftest5.cn/zgst/live/ningxia
 宁夏旅游广播,http://ls.qingting.fm/live/1840.m3u8
 宁夏旅游广播,http://ls.qingting.fm/live/1842.m3u8
+宁夏旅游广播,http://fn.gcl.de5.net:5908/gsh950428/738910535
 宁夏新闻广播,https://live.chinacert.cftest5.cn/zgst/live/ningxia
 宁夏新闻广播,http://ls.qingting.fm/live/1840.m3u8
 宁夏新闻广播,http://ls.qingting.fm/live/1842.m3u8
+宁夏新闻广播,http://fn.gcl.de5.net:5908/gsh950428/738910535
 宁夏经济广播,https://live.chinacert.cftest5.cn/zgst/live/ningxia
 宁夏经济广播,http://ls.qingting.fm/live/1840.m3u8
 宁夏经济广播,http://ls.qingting.fm/live/1842.m3u8
+宁夏经济广播,http://fn.gcl.de5.net:5908/gsh950428/738910535
 云南教育广播,https://live.chinacert.cftest5.cn/zgst/live/yunnan
 云南教育广播,http://ls.qingting.fm/live/1928.m3u8
 云南教育广播,http://ls.qingting.fm/live/1930.m3u8
@@ -3467,16 +3605,24 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 黑龙江新闻广播,https://ls.qingting.fm/live/4974/64k.m3u8
 辽宁交通广播,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁交通广播,http://ls.qingting.fm/live/23801.m3u8
+辽宁交通广播,http://fn.gcl.de5.net:5908/gsh950428/630291707
 辽宁经济广播,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁经济广播,http://ls.qingting.fm/live/23801.m3u8
+辽宁经济广播,http://fn.gcl.de5.net:5908/gsh950428/630291707
 辽宁乡村广播,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁乡村广播,http://ls.qingting.fm/live/23801.m3u8
+辽宁乡村广播,http://fn.gcl.de5.net:5908/gsh950428/630291707
 辽宁之声,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁之声,http://ls.qingting.fm/live/23801.m3u8
+辽宁之声,http://fn.gcl.de5.net:5908/gsh950428/630291707
 吉林乡村广播,https://live.chinacert.cftest5.cn/zgst/live/jilin
+吉林乡村广播,http://fn.gcl.de5.net:5908/gsh950428/947472500
 吉林交通广播,https://live.chinacert.cftest5.cn/zgst/live/jilin
+吉林交通广播,http://fn.gcl.de5.net:5908/gsh950428/947472500
 吉林经济广播,https://live.chinacert.cftest5.cn/zgst/live/jilin
+吉林经济广播,http://fn.gcl.de5.net:5908/gsh950428/947472500
 吉林新闻广播,https://live.chinacert.cftest5.cn/zgst/live/jilin
+吉林新闻广播,http://fn.gcl.de5.net:5908/gsh950428/947472500
 贵州新闻广播,https://live.chinacert.cftest5.cn/zgst/live/guizhou
 贵州新闻广播,http://ls.qingting.fm/live/23933.m3u8
 贵州新闻广播,http://ls.qingting.fm/live/23927.m3u8
@@ -3531,35 +3677,52 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 海南交通广播,http://ls.qingting.fm/live/4911.m3u8
 海南交通广播,http://ls.qingting.fm/live/1861.m3u8
 海南交通广播,http://ls.qingting.fm/live/1511803.m3u8
+海南交通广播,http://fn.gcl.de5.net:5908/gsh950428/947472502
 海南新闻广播,https://live.chinacert.cftest5.cn/zgst/live/hainan
 海南新闻广播,http://ls.qingting.fm/live/4911.m3u8
 海南新闻广播,http://ls.qingting.fm/live/1861.m3u8
 海南新闻广播,http://ls.qingting.fm/live/1511803.m3u8
+海南新闻广播,http://fn.gcl.de5.net:5908/gsh950428/947472502
 江西农村广播,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
+江西农村广播,http://fn.gcl.de5.net:5908/gsh950428/783847495
 江西民生广播,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
+江西民生广播,http://fn.gcl.de5.net:5908/gsh950428/783847495
 江西交通广播,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
+江西交通广播,http://fn.gcl.de5.net:5908/gsh950428/783847495
 江西都市广播,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
+江西都市广播,http://fn.gcl.de5.net:5908/gsh950428/783847495
 江西新闻广播,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
+江西新闻广播,http://fn.gcl.de5.net:5908/gsh950428/783847495
 福建东南广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 福建东南广播,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 福建东南广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建东南广播,http://fn.gcl.de5.net:5908/gsh950428/849116810
 福建经济广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 福建经济广播,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 福建经济广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建经济广播,http://fn.gcl.de5.net:5908/gsh950428/849116810
 福建交通广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 福建交通广播,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 福建交通广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建交通广播,http://fn.gcl.de5.net:5908/gsh950428/849116810
 福建都市广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 福建都市广播,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 福建都市广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建都市广播,http://fn.gcl.de5.net:5908/gsh950428/849116810
 福建新闻广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 福建新闻广播,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 福建新闻广播,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建新闻广播,http://fn.gcl.de5.net:5908/gsh950428/849116810
 湖北资讯广播,https://live.chinacert.cftest5.cn/zgst/live/hubei
+湖北资讯广播,http://fn.gcl.de5.net:5908/gsh950428/947472496
 湖北交通广播,https://live.chinacert.cftest5.cn/zgst/live/hubei
+湖北交通广播,http://fn.gcl.de5.net:5908/gsh950428/947472496
 湖北生活广播,https://live.chinacert.cftest5.cn/zgst/live/hubei
+湖北生活广播,http://fn.gcl.de5.net:5908/gsh950428/947472496
 湖北亲子广播,https://live.chinacert.cftest5.cn/zgst/live/hubei
+湖北亲子广播,http://fn.gcl.de5.net:5908/gsh950428/947472496
 湖北之声,https://live.chinacert.cftest5.cn/zgst/live/hubei
+湖北之声,http://fn.gcl.de5.net:5908/gsh950428/947472496
 安徽故事广播,https://live.chinacert.cftest5.cn/zgst/live/anhui
 安徽故事广播,http://yun.two.yunshipin.bbroot.com:8080/streams/1u5pn7xcca5/playlist.m3u8
 安徽动听995,https://live.chinacert.cftest5.cn/zgst/live/anhui
@@ -3578,26 +3741,32 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 江苏健康广播,http://ls.qingting.fm/live/4944.m3u8
 江苏健康广播,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏健康广播,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏健康广播,http://fn.gcl.de5.net:5908/gsh950428/623899368
 江苏财经广播,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏财经广播,http://ls.qingting.fm/live/4944.m3u8
 江苏财经广播,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏财经广播,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏财经广播,http://fn.gcl.de5.net:5908/gsh950428/623899368
 江苏交通广播,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏交通广播,http://ls.qingting.fm/live/4944.m3u8
 江苏交通广播,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏交通广播,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏交通广播,http://fn.gcl.de5.net:5908/gsh950428/623899368
 江苏金陵之声,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏金陵之声,http://ls.qingting.fm/live/4944.m3u8
 江苏金陵之声,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏金陵之声,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏金陵之声,http://fn.gcl.de5.net:5908/gsh950428/623899368
 江苏文艺广播,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏文艺广播,http://ls.qingting.fm/live/4944.m3u8
 江苏文艺广播,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏文艺广播,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏文艺广播,http://fn.gcl.de5.net:5908/gsh950428/623899368
 江苏新闻广播,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏新闻广播,http://ls.qingting.fm/live/4944.m3u8
 江苏新闻广播,http://yun.two.yunshipin.bbroot.com:8080/streams/1unb98zt8p8/playlist.m3u8
 江苏新闻广播,http://yun.two.yunshipin.bbroot.com:8080/streams/o5g456legt/playlist.m3u8
+江苏新闻广播,http://fn.gcl.de5.net:5908/gsh950428/623899368
 浙江旅游之声,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江旅游之声,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 浙江旅游之声,https://live.chinacert.cftest5.cn/zgst/live/zhejiang
@@ -3680,4 +3849,4 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 山东交通广播,http://ls.qingting.fm/live/60260.m3u8
 
 🕘️更新时间,#genre#
-2026-08-26 12:56:26,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-08-27 23:17:56,https://live.chinacert.cftest5.cn/cnmg/live/608807420
