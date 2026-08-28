@@ -3849,4 +3849,4 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 山东交通广播,http://ls.qingting.fm/live/60260.m3u8
 
 🕘️更新时间,#genre#
-2026-08-27 23:17:56,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-08-29 00:13:32,https://live.chinacert.cftest5.cn/cnmg/live/608807420
