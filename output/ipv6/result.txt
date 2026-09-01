@@ -546,12 +546,14 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
 广州综合,http://f.123.rr.kg/163189/gzzh
+广州综合,https://168.sryze.cc/163189/gzzh
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州新闻,http://ls.qingting.fm/live/4848.m3u8
 广州新闻,http://f.123.rr.kg/163189/gzxw
+广州新闻,https://168.sryze.cc/163189/gzxw
 深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen
 深圳卫视,http://ls.qingting.fm/live/1273.m3u8
 深圳卫视,http://ls.qingting.fm/live/1271.m3u8
@@ -2851,6 +2853,7 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 最强天团之检查团-张泰维,https://vd3.bdstatic.com/mda-pcn1hchnizjmsqv2/720p/h264/1679533496987596648/mda-pcn1hchnizjmsqv2.mp4
 最强天团之四大才子-张泰维,https://vd3.bdstatic.com/mda-pmj2v013qrqwsksv/360p/h264/1703037679146679886/mda-pmj2v013qrqwsksv.mp4
 oh买尬-宋小宝柳岩,https://vd3.bdstatic.com/mda-pjacxatgd4fu4svh/sc/cae_h264/1697040275219723394/mda-pjacxatgd4fu4svh.mp4
+oh买尬-宋小宝柳岩,https://vd3.bdstatic.com/mda-pjacxatgd4fu4svh/sc/cae_h264/1697040275219723394/mda-
 TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/1709780957602048364/mda-qc64dz3a7dai9wmn.mp4
 
 戏曲频道,#genre#
@@ -3850,4 +3853,4 @@ TVBS News,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 山东交通广播,http://ls.qingting.fm/live/60260.m3u8
 
 🕘️更新时间,#genre#
-2026-08-31 18:54:20,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-01 17:31:49,https://live.chinacert.cftest5.cn/cnmg/live/608807420

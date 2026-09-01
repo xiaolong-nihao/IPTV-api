@@ -1037,6 +1037,8 @@ http://r.jdshipin.com/iR6Gq
 http://r.jdshipin.com/snhya
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="广东",广州综合
 http://f.123.rr.kg/163189/gzzh
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="广东",广州综合
+https://168.sryze.cc/163189/gzzh
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州影视.png" group-title="广东",广州影视
 http://php.jdshipin.com:8880/gztv.php?id=yingshi
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州竞赛.png" group-title="广东",广州竞赛
@@ -1049,6 +1051,8 @@ http://php.jdshipin.com:8880/gztv.php?id=xinwen
 http://ls.qingting.fm/live/4848.m3u8
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州新闻.png" group-title="广东",广州新闻
 http://f.123.rr.kg/163189/gzxw
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州新闻.png" group-title="广东",广州新闻
+https://168.sryze.cc/163189/gzxw
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="广东",深圳卫视
 https://live.chinacert.cftest5.cn/zgst/live/shenzhen
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="广东",深圳卫视
@@ -5463,6 +5467,8 @@ https://vd3.bdstatic.com/mda-pcn1hchnizjmsqv2/720p/h264/1679533496987596648/mda-
 https://vd3.bdstatic.com/mda-pmj2v013qrqwsksv/360p/h264/1703037679146679886/mda-pmj2v013qrqwsksv.mp4
 #EXTINF:-1 tvg-name="oh买尬-宋小宝柳岩" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/oh买尬-宋小宝柳岩.png" group-title="经典小品",oh买尬-宋小宝柳岩
 https://vd3.bdstatic.com/mda-pjacxatgd4fu4svh/sc/cae_h264/1697040275219723394/mda-pjacxatgd4fu4svh.mp4
+#EXTINF:-1 tvg-name="oh买尬-宋小宝柳岩" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/oh买尬-宋小宝柳岩.png" group-title="经典小品",oh买尬-宋小宝柳岩
+https://vd3.bdstatic.com/mda-pjacxatgd4fu4svh/sc/cae_h264/1697040275219723394/mda-
 #EXTINF:-1 tvg-name="TFgirls-贾玲张小斐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/TFgirls-贾玲张小斐.png" group-title="经典小品",TFgirls-贾玲张小斐
 https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/1709780957602048364/mda-qc64dz3a7dai9wmn.mp4
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/七彩戏剧.png" group-title="戏曲频道",七彩戏剧
@@ -7401,5 +7407,5 @@ http://ls.qingting.fm/live/60258.m3u8
 http://ls.qingting.fm/live/60180.m3u8
 #EXTINF:-1 tvg-name="山东交通广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东交通广播.png" group-title="广播电台",山东交通广播
 http://ls.qingting.fm/live/60260.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-08-31 18:54:20
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-01 17:31:49
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
