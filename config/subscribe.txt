@@ -22,6 +22,30 @@
  https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
  http://rihou.cc:555/gggg.nzk
  http://rihou.cc:567/gggg.nzk
+https://4tv.0186.ccwu.cc
+
+# 整套大马perfect TV：
+# 720画质要马来节点:
+http://xtvantsc.xyz/MALAYSIA.m3u
+
+# 同第一条的1080画质要马来节点：
+http://xtvantsc.xyz/1080.m3u
+
+# 同上面条1080画质要马来节点：
+https://raw.githubusercontent.com/penulisradio/1234-asdf-zxcv/refs/heads/main/editor.m3u   
+https://perfecttv.net/PerfecttvFree.m3u
+https://get.perfecttv.net/PerfecttvFree3.m3u
+# 【西方极乐世界，美国梯】：
+https://garyshare.sharewithyou.dpdns.org/mylist.m3u
+
+# 【4gtv怡淳酒店,台湾家宽看全部,ok壳专用,json放点播,txt放直播】：
+http://xtvantsc.xyz/4gtv.json
+http://xtvantsc.xyz/4gtv.txt
+# 世界杯咖啡体育
+https://jsnzkpg.us.ci/live.m3u
+https://iptv.catvod.com/kf/catvod.m3u
+# 世界杯OK体育
+https://sports.jsnzkpg.ccwu.cc/live.m3u
 # https://live.zbds.top/tv/iptv4.txt
 # https://sub.ottiptv.cc/yylunbo.m3u
 # https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
