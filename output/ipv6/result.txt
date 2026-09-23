@@ -367,6 +367,7 @@ TVBS,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 翡翠一台,http://cdn6.cc.cd/163189/tvb1
 翡翠一台,https://cdn6.cc.cd/163189/tvb1
 翡翠一台,http://c.123.rr.kg/163189/tvb1
+星空卫视,https://play-drm.aliiptv.com/live/xingkong.m3u8?verify=1790054972-Smfm772Wy2uI69LaUvee--kEJSMboXGN2SMYj-fJLwU
 有线新闻,https://cdn.163189.xyz/163189/hoy78
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,http://cdn.163189.xyz/163189/now
@@ -4365,4 +4366,4 @@ tvN Movies,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_
 MY,https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
 
 🕘️更新时间,#genre#
-2026-09-22 17:43:12,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-23 17:48:21,https://live.chinacert.cftest5.cn/cnmg/live/608807420
