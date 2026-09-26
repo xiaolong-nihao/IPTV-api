@@ -6357,10 +6357,6 @@ http://ls.qingting.fm/live/1754.m3u8
 http://ls.qingting.fm/live/1753.m3u8
 #EXTINF:-1 tvg-name="广西桂林漓江景区" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西桂林漓江景区.png" group-title="直播中国",广西桂林漓江景区
 http://ls.qingting.fm/live/1756.m3u8
-#EXTINF:-1 tvg-name="👉扫码获取最新链接👈" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/👉扫码获取最新链接👈.png" group-title="英国频道",👉扫码获取最新链接👈
-https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
-#EXTINF:-1 tvg-name="👉需要用英国节点👈" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/👉需要用英国节点👈.png" group-title="英国频道",👉需要用英国节点👈
-https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 #EXTINF:-1 tvg-name="MUTV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/MUTV.png" group-title="英国频道",MUTV
 https://ptv2026.com/mutv.mpd
 #EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 5.png" group-title="英国频道",Channel 5
@@ -8167,5 +8163,5 @@ http://ls.qingting.fm/live/60180.m3u8
 http://ls.qingting.fm/live/60260.m3u8
 #EXTINF:-1 tvg-name="MY" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/MY.png" group-title="广播电台",MY
 https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-25 18:05:14
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-26 17:51:48
 https://live.chinacert.cftest5.cn/cnmg/live/608807420

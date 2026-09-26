@@ -3306,8 +3306,6 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 广西桂林漓江景区,http://ls.qingting.fm/live/1756.m3u8
 
 英国频道,#genre#
-👉扫码获取最新链接👈,https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
-👉需要用英国节点👈,https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 MUTV,https://ptv2026.com/mutv.mpd
 Channel 5,https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 Channel 5,https://tinyurl.com/2c3bacne
@@ -4233,4 +4231,4 @@ tvN Movies,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_
 MY,https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
 
 🕘️更新时间,#genre#
-2026-09-25 18:05:14,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-26 17:51:48,https://live.chinacert.cftest5.cn/cnmg/live/608807420
