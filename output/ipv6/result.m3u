@@ -695,6 +695,8 @@ https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
 https://cdn6.163189.xyz/163189/ylxw
 #EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/娱乐新闻台.png" group-title="香港频道",娱乐新闻台
 https://cdn.qd.je/163189.php?id=ylxw
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/娱乐新闻台.png" group-title="香港频道",娱乐新闻台
+http://jp.magicluweibo1.hz.cz:2082/proxy?url=https://cdn.qd.je/163189/ylxw
 #EXTINF:-1 tvg-name="星河台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/星河台.png" group-title="香港频道",星河台
 https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="星河台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/星河台.png" group-title="香港频道",星河台
@@ -825,6 +827,8 @@ http://cdn.163189.xyz/163189/rthk32
 https://cdn.qd.je/163189.php?id=rthk32
 #EXTINF:-1 tvg-name="港台电视33" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/港台电视33.png" group-title="香港频道",港台电视33
 http://cdn6.163189.xyz/163189/cctv1
+#EXTINF:-1 tvg-name="港台电视33" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/港台电视33.png" group-title="香港频道",港台电视33
+http://jp.magicluweibo1.hz.cz:2082/proxy?url=https://cdn.qd.je/163189/rthk33
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育台.png" group-title="香港频道",纬来体育台
 https://cdn.qd.je/163189/wlty
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育台.png" group-title="香港频道",纬来体育台
@@ -885,6 +889,8 @@ http://cdn6.163189.xyz/163189/amlh
 https://cdn.qd.je/163189/amlh
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门莲花.png" group-title="澳门频道",澳门莲花
 http://cdn6.cc.cd/163189/amlh
+#EXTINF:-1 tvg-name="澳门卫星" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门卫星.png" group-title="澳门频道",澳门卫星
+http://jp.magicluweibo1.hz.cz:2082/proxy?url=https://cdn.qd.je/163189/as
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="台湾频道",华视
 https://tv.media4u.top:443/live/media4u/media4u/983059
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="台湾频道",华视
@@ -6363,6 +6369,8 @@ https://ptv2026.com/mutv.mpd
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 #EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 5.png" group-title="英国频道",Channel 5
 https://tinyurl.com/2c3bacne
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 5.png" group-title="英国频道",Channel 5
+http://jp.magicluweibo1.hz.cz:2082/proxy?url=https://cdn.qd.je/163189/ch5
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="美国频道",CNN
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="美国频道",CNN
@@ -6601,6 +6609,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
 https://hb.msbot.dpdns.org/?id=dw
 #EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/Global Trekker.png" group-title="马来西亚",Global Trekker
 https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd
+#EXTINF:-1 tvg-name="iQIYI" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/iQIYI.png" group-title="马来西亚",iQIYI
+http://jp.magicluweibo1.hz.cz:2082/proxy?url=https://cdn.qd.je/163189/iqiyi
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/Love Nature.png" group-title="马来西亚",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV.png" group-title="马来西亚",MTV
@@ -8163,5 +8173,5 @@ http://ls.qingting.fm/live/60180.m3u8
 http://ls.qingting.fm/live/60260.m3u8
 #EXTINF:-1 tvg-name="MY" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/MY.png" group-title="广播电台",MY
 https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-03 18:26:19
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-04 19:11:10
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
