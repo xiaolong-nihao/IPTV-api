@@ -3567,6 +3567,8 @@ Global Trekker,https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382
 iQIYI,http://jp.magicluweibo1.hz.cz:2082/proxy?url=https://cdn.qd.je/163189/iqiyi
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 MTV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
+TV Okey,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 TVBS Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS Asia,https://stream1.freetv.fun/tvbs-news-1.m3u8
 TVBS Asia,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
@@ -4392,4 +4394,4 @@ tvN Movies,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_
 MY,https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
 
 🕘️更新时间,#genre#
-2026-10-17 17:08:06,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-10-18 17:25:37,https://live.chinacert.cftest5.cn/cnmg/live/608807420
