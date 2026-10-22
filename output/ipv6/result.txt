@@ -422,6 +422,7 @@ TVBS,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 翡翠一台,http://cdn6.cc.cd/163189/tvb1
 翡翠一台,https://cdn6.cc.cd/163189/tvb1
 翡翠一台,http://c.123.rr.kg/163189/tvb1
+美亚电影台HD,https://play-drm.aliiptv.com/live/MeiAhMovieChannel.m3u8?verify=1790055496-CjeOsnzt-JONylp3iipc8rz1mJmPJTeIxhvw3y83xqc
 星空卫视,https://play-drm.aliiptv.com/live/xingkong.m3u8?verify=1790054972-Smfm772Wy2uI69LaUvee--kEJSMboXGN2SMYj-fJLwU
 有线新闻,https://cdn.163189.xyz/163189/hoy78
 Now新闻,https://cdn.163189.xyz/163189/now
@@ -430,7 +431,9 @@ Now新闻,https://cdn.qd.je/163189.php?id=now
 Now新闻,https://fast.hidns.vip/163189/now
 Now新闻,https://cdn.qd.je/163189/now
 Now爆谷,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=h7kw14
+Now爆谷,https://play-drm.aliiptv.com/live/nowbg.m3u8?verify=1790055832-Y8ZYICFqsQ3Kvnu2SwVTWsnvUtFlA3HHerwrPZAS_rM
 Now星影,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=07jkor
+Now星影,https://play-drm.aliiptv.com/live/bgxynow.m3u8?verify=1790055861-9jpKIfK6rAZvcuQIcII-WQCNsiPE0OUX9MvcCZdqELI
 HOY TV,https://cdn6.163189.xyz/163189/hoy
 HOY TV,https://cdn.163189.xyz/163189/hoy
 HOY TV,https://cdn.163189.xyz/163189/hoyjj
@@ -551,6 +554,8 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 客家电视台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
 客家电视台,http://4gtv.cnlive.club/channel/n1f7f47/index.m3u8?q=1782639885837
 人间卫视,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
+CINE MAX,https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
+CINE MAX,https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
 tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 tvN,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 阿里郎电视台,https://dash3.antik.sk/live/test_arirang/playlist.m3u8
@@ -559,11 +564,13 @@ tvN,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 五星体育台,https://cdn15.163189.xyz/163189/wxty
 五星体育台,https://cdn.qd.je/163189.php?id=wxty
 五星体育台,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
+卡通频道,https://play-drm.aliiptv.com/live/cnkt.m3u8?verify=1790056492-z_kcj-4T_dhOI97ARxEdze0-GjYuatr5oYZC-tsv0i0
 Animax,https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
 Animax,https://stream1.freetv.fun/animax-1.m3u8
 Animax,https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 德国之声,https://hb.msbot.dpdns.org/?id=dw
 Now星影,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=07jkor
+Now星影,https://play-drm.aliiptv.com/live/bgxynow.m3u8?verify=1790055861-9jpKIfK6rAZvcuQIcII-WQCNsiPE0OUX9MvcCZdqELI
 astro-QJ,https://o11.163189.xyz/stream/live/qj/
 astro-QJ,https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
 astro-QJ,https://cdn.qd.je/163189/qj
@@ -629,6 +636,7 @@ NewTV金牌综艺,http://tvgslb.hn.chinamobile.com:8089/000000002000/63997256746
 古墓系列,https://live.metshop.top/huya/11352913
 动作电影,https://live.ottiptv.cc/huya/11602077
 动作电影,http://tvgslb.hn.chinamobile.com:8089/000000002000/8103864434730665389/1.m3u8
+动作电影,https://play-drm.aliiptv.com/live/chcaction.m3u8?verify=1790055452-haArVMy-u2TjqtYlNJvEDtpMqHvF34zLmOlF7_VgBCU
 国产悬疑,https://live.ottiptv.cc/huya/11342395
 赌片,https://live.metshop.top/huya/11342399
 科幻动作,https://live.metshop.top/huya/11352964
@@ -3434,9 +3442,13 @@ Channel 5,http://jp.magicluweibo1.hz.cz:2082/proxy?url=https://cdn.qd.je/163189/
 CNN,https://jmp2.uk/stvp-GBBD8000016N
 CNN,https://jmp2.uk/stvp-ATBD800001VA
 Animal Planet,https://naori-test.netgenx.site/pxx.php?shk_cid=cs24
+Cinemax (East),https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
+Cinemax (East),https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
 History Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs09
 MTV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
 National Geographic,https://naori-test.netgenx.site/pxx.php?shk_cid=cs10
+Cinemax Outermax (X),https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
+Cinemax Outermax (X),https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
 TBS,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
 
 法国频道,#genre#
@@ -3559,6 +3571,8 @@ CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+Cinemax,https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
+Cinemax,https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Disney Junior,https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
@@ -4394,4 +4408,4 @@ tvN Movies,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_
 MY,https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
 
 🕘️更新时间,#genre#
-2026-10-21 18:01:50,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-10-22 18:09:03,https://live.chinacert.cftest5.cn/cnmg/live/608807420
