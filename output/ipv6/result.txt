@@ -223,6 +223,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8#http://119.39.9.8:9901/tsfile/live/0118_1.m3u8#https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 山西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi
 山西卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/4fzrkd3mfra/1080p/playlist.m3u8
+山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 陕西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi1
 陕西卫视,http://ls.qingting.fm/live/1601.m3u8
@@ -1312,6 +1313,7 @@ NewTV金牌综艺,http://tvgslb.hn.chinamobile.com:8089/000000002000/63997256746
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8#http://119.39.9.8:9901/tsfile/live/0118_1.m3u8#https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 山西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi
 山西卫视,http://yun.two.yunshipin.bbroot.com:8080/streams/4fzrkd3mfra/1080p/playlist.m3u8
+山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 太原新闻综合,http://ls.qingting.fm/live/23873.m3u8
 阳泉新闻综合,http://ls.qingting.fm/live/4592896.m3u8?aac
 阳泉新闻综合,http://ls.qingting.fm/live/5876899.m3u8?aac
@@ -1392,9 +1394,13 @@ NewTV金牌综艺,http://tvgslb.hn.chinamobile.com:8089/000000002000/63997256746
 文山新闻,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 文山新闻,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 文山新闻,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
+文山新闻,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
+文山新闻,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
+文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
+文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
 砚山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 西畴综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel11/playlist.m3u8
 麻栗坡综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
@@ -3794,6 +3800,7 @@ tvN Movies,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_
 山西音乐广播,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8#http://119.39.9.8:9901/tsfile/live/0118_1.m3u8#https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 山西音乐广播,https://live.chinacert.cftest5.cn/zgst/live/shanxi
 山西音乐广播,http://yun.two.yunshipin.bbroot.com:8080/streams/4fzrkd3mfra/1080p/playlist.m3u8
+山西音乐广播,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 上海动感101,http://ls.qingting.fm/live/274.m3u8
 上海动感101,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 上海动感101,http://cdn.jdshipin.com/kkxw.php?id=1
@@ -4544,4 +4551,4 @@ tvN Movies,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_
 MY,https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
 
 🕘️更新时间,#genre#
-2026-10-28 19:19:34,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-10-29 19:41:00,https://live.chinacert.cftest5.cn/cnmg/live/608807420
