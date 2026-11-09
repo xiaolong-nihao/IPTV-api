@@ -7155,6 +7155,8 @@ https://hb.msbot.dpdns.org/?id=dw
 https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd
 #EXTINF:-1 tvg-name="iQIYI" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/iQIYI.png" group-title="马来西亚",iQIYI
 http://jp.magicluweibo1.hz.cz:2082/proxy?url=https://cdn.qd.je/163189/iqiyi
+#EXTINF:-1 tvg-name="iQIYI" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/iQIYI.png" group-title="马来西亚",iQIYI
+https://cdn3.indevs.in/stream/live/iqiyi/
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/Love Nature.png" group-title="马来西亚",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV.png" group-title="马来西亚",MTV
@@ -8803,5 +8805,5 @@ http://ls.qingting.fm/live/60180.m3u8
 http://ls.qingting.fm/live/60260.m3u8
 #EXTINF:-1 tvg-name="MY" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/MY.png" group-title="广播电台",MY
 https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-08 20:07:18
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-09 21:37:48
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
