@@ -4420,4 +4420,4 @@ tvN Movies,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_
 MY,https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
 
 🕘️更新时间,#genre#
-2026-11-22 21:23:33,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-11-23 23:12:22,https://live.chinacert.cftest5.cn/cnmg/live/608807420
